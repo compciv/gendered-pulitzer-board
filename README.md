@@ -1,9 +1,9 @@
 
-# Gender Analysis of the Pulitzer Prize Board
+# Automated Gender Analysis of the Pulitzer Prize Board
 
 This is an automated analysis of the gender makeup of the Pulitzer Prize Board membership since 1968, [according to the Pulitzer website](http://www.pulitzer.org/board/1968). 
 
-Why 1968? Because I don't have time to reverse-engineer the [data-structure of this Angular-heavy site](http://www.pulitzer.org/cache/api/1/global.json). Even though there are webpages for every board since 1917, they don't seem to be serialized in the same way as the years [1968-and-on](pulitzer-taxonomy.csv). Oh well.
+__Note:__ Why 1968? Because I don't have time to reverse-engineer the [data-structure of this Angular-heavy site](http://www.pulitzer.org/cache/api/1/global.json). Even though there are webpages for every board since 1917, they don't seem to be serialized in the same way as the years [1968-and-on](pulitzer-taxonomy.csv). Oh well.
 
 
 ## Findings
@@ -46,16 +46,11 @@ The algorithm detects its [first woman in 1980](http://www.pulitzer.org/board/19
 
 ## Facets of analysis
 
-The following facets were analyzed:
+The female/male ratio for the following facets were calculated
 
-### Across the overall membership
-
-
-### Board membership by decade
-
-
-### Board membership by year
-
+- Across the entire membership since 1968
+- Across the membership for each decade
+- Across the membership in each given year
 
 
 -----------------------------------
@@ -67,17 +62,43 @@ Here are the scripts in this repo, in the order that they should be run from the
 
 ### fetch_gender_data.py
 
+Downloads the raw [babyname data from the Social Security Administration](https://www.ssa.gov/oact/babynames/limits.html) and unpacks it into the __tempdata/babynames__ directory.
+
+
 ### wrangle_gender_data.py
+
+Selects and compiles the baby name records for every five years between 1900 and 1991, and adds the records for 2014.
 
 ### fetch_pulitzer_board_pages.py
 
+Scrapes the raw JSON corresponding to each board page on pulitzer.org.
+
+For example, here's the 1980 board's webpage: http://www.pulitzer.org/board/1980
+
+Here's the corresponding scraped JSON file: [tempdata/pages/1980.json](tempdata/pages/1980.json)
+
+Note: I wouldn't read too much into this script; the AngularJS-heavy Pultizer.org has a fairly unorthodox front-end...no HTML parsing was even done.
+
 ### wrangle_pulitzer_board_data.py
 
+Once the JSON files corresponding to each board page were downloaded, I extracted the specific fields I needed for the analysis, particularly the year of membership for each person, and their first and last name (mostly, their first name).
+
+This script produces: [tempdata/wrangled_data.csv](tempdata/wrangled_data.csv)
+
 ### classify.py
+
+For each row in [tempdata/wrangled_data.csv](tempdata/wrangled_data.csv), I use the `detect_gender()` function in the __gender.py__ script to determine the likely gender of the name. 
+
+A new file -- [tempdata/classified_data.csv](tempdata/classified_data.csv) -- is produced. Basically, it's wrangled_data.csv with three new columns:
+
+- gender
+- ratio (the likelihood/bias of the baby boy vs girl numbers)
+- usable_name - the partial string extracted from `first_name` to do the classification.
 
 
 ### analyze.py
 
+Reads [tempdata/classified_data.csv](tempdata/classified_data.csv) and produces the output seen at the bottom of this file.
 
 
 
