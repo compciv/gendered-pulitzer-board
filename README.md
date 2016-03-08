@@ -1,22 +1,41 @@
 
 # Automated Gender Analysis of the Pulitzer Prize Board
 
-This is an automated analysis of the gender makeup of the Pulitzer Prize Board membership since 1968, [according to the Pulitzer website](http://www.pulitzer.org/board/1968). 
+__Disclaimer:__ This project [is meant to be one of several example projects showing how effectively and industriously we can use public data to do gender classification](http://www.compciv.org/assignments/projects/gender-detector-data/) if we don't care about statistics or real-world complexities or computational efficiency. It is not meant to be an actual study or a display of programming best practices.
 
-__Note:__ Why 1968? Because I don't have time to reverse-engineer the [data-structure of this Angular-heavy site](http://www.pulitzer.org/cache/api/1/global.json). Even though there are webpages for every board since 1917, they don't seem to be serialized in the same way as the years [1968-and-on](pulitzer-taxonomy.csv). Oh well.
+## Introduction
 
-
-## Findings
-
-In the time period of 1968 to the current year, an estimated __40+ women__ have served on the Pulitzer Prize board compared to __170+ men__.
-
-The [2015 board membership](http://www.pulitzer.org/board/2015) was composed of 6 women and 12 men, according to a manual count; the automated analysis counted 6 and 11, respectively, apparently not being able to classify one of the male names. The makeup of the 2015 board is 33% women, which is the tied with 1997 as the highest rate of any year.
-
-According to the automated analysis, the 1970s did not see a single woman on the Pulitzer Board. In the 1980s, about 10% of the board members were women.
+This is an automated analysis of the gender makeup of the Pulitzer Prize Board membership since 1968, [according to the Pulitzer website](http://www.pulitzer.org/board/1968). Preliminary findings indicate that currently, men outnumber women on the Pulitzer Prize board by a factor of roughly 1 to 3. And apparently, there were no women on the board at all before 1980.
 
 
+### Methodology and caveats
 
-### Methodology and Caveats
+The methodology of the gender detection is to use the dirt-cheap super naive and ethnocentric algorithm developed in the [babynames-gender-detector homework](http://www.compciv.org/assignments/exercise-sets/0020-gender-detector-set).
+
+Each [Pulitzer board has its own page](http://www.pulitzer.org/board/2015), and, if you know how to use the web inspector and how to parse the kind of JSON that Drupal expels for an Angular-heavy interface, you can extract the raw data fields for each board member, including first and last names.
+
+The caveats are basically: 
+
+- Our gender detection data is super naive
+- I don't fully understand why the backend doesn't serve board member data for all the years. That's why this starts at 1968.
+
+
+### Past research and articles
+
+Gender bias is alleged across all facets of media, so it makes sense to investigate the awards side of it. However, I haven't seen a lot of studies specific about the gender makeup of the awards-winners being heavily biased. However, it's significantly harder to reduce Pulitzer winners to a single byline. Though given the general skew in [sheer number of bylines for men versus women](http://www.womensmediacenter.com/pages/the-problem), one might expect that women overall have a statistically lesser chance of having work that appears in front of the Pulitzer committee.
+
+My choice of looking at the Pulitzer committee is for pragmatic reasons. It's a body composed of individuals with easily discernible first names. And that is good for my [humble gender-detector algorithm](http://www.compciv.org/assignments/exercise-sets/0020-gender-detector-set).
+
+
+An aside: author Nicola Griffith examined the Pulitzer book awards from 2000 to 2015 and whether the winning books could be said to be primarily about women or from a woman's point of view: [Books About Women Don’t Win Big Awards: Some Data](http://nicolagriffith.com/2015/05/26/books-about-women-tend-not-to-win-awards/) .
+
+
+
+
+## Methodology and Caveats
+
+Technical note: Why does this study limit itself to 1968? Because I don't have time to reverse-engineer the [data-structure of this Angular-heavy site](http://www.pulitzer.org/cache/api/1/global.json). Even though there are webpages for every board since 1917, they don't seem to be serialized in the same way as the years [1968-and-on](pulitzer-taxonomy.csv). Oh well.
+
 
 The automated analysis detects gender by using the Social Security Administration's baby name data. If a name, such as "Joseph", has more recorded baby boys than baby girls in the SSA records, than "Joseph" is considered by the algorithm to be a name likely given to a man. Yes that's how basic the algorithm is. 
 
@@ -40,25 +59,16 @@ The algorithm detects its [first woman in 1980](http://www.pulitzer.org/board/19
 ![http://www.pulitzer.org/cms/sites/default/files/1980boardphoto960.jpg](http://www.pulitzer.org/cms/sites/default/files/1980boardphoto960.jpg)
 
 
+## How to use it
 
--------------------------------------
+Note: if you want to __clone__ this repo from Github, run this:
 
+    git clone https://github.com/compciv/gendered-pulitzer-board
 
-## Facets of analysis
+It will create a new sub-folder named `gendered-pulitzer-board`. This repo includes the `tempdata` folder: you should delete it manually and run all the scripts to see the project build itself from scratch.
 
-The female/male ratio for the following facets were calculated
+Simply run the following scripts provided in this repo in this order:
 
-- Across the entire membership since 1968
-- Across the membership for each decade
-- Across the membership in each given year
-
-
------------------------------------
-
-
-## The scripts
-
-Here are the scripts in this repo, in the order that they should be run from the command-line:
 
 ### fetch_gender_data.py
 
@@ -98,24 +108,55 @@ A new file -- [tempdata/classified_data.csv](tempdata/classified_data.csv) -- is
 
 ### analyze.py
 
-Reads [tempdata/classified_data.csv](tempdata/classified_data.csv) and produces the output seen at the bottom of this file.
+Reads [tempdata/classified_data.csv](tempdata/classified_data.csv) and produces the output seen at the bottom of this README's analysis.
 
 
 
+### Ancillary files
 
-## Ancillary files
-
-Here are some supporting files
+Here are some supporting files. You don't actually _run_ these, but they are called by the other files.
 
 ### settings.py
 
-### pulitzer-taxonomy.csv
+This contains constants, like `DATA_DIR`, that are shared across several of the scripts.
+
 
 ### gender.py
 
+This contains the code to load the wrangled gender data and the `detect_gender()` function.
+
+### pulitzer-taxonomy.csv
+
+Um...just something I had to create for myself to efficiently scrape Pulitzer.org's weird Angular-Drupal setup. 
 
 
-# Printout of analyze.py
+
+
+
+
+
+
+## Analysis
+
+The female/male ratio for the following facets were calculated
+
+- Across the entire membership since 1968
+- Across the membership for each decade
+- Across the membership in each given year
+
+
+In the time period of 1968 to the current year, an estimated __40+ women__ have served on the Pulitzer Prize board compared to __170+ men__.
+
+The [2015 board membership](http://www.pulitzer.org/board/2015) was composed of 6 women and 12 men, according to a manual count; the automated analysis counted 6 and 11, respectively, apparently not being able to classify one of the male names. The makeup of the 2015 board is 33% women, which is the tied with 1997 as the highest rate of any year.
+
+According to the automated analysis, the 1970s did not see a single woman on the Pulitzer Board. In the 1980s, about 10% of the board members were women.
+
+
+
+
+-----------------------------------
+
+### Printout of analyze.py
 
 The raw printout:
 
