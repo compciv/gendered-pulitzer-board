@@ -3,7 +3,7 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 1968,7554,Erwin D.,Canham,M,Editor,Christian Science Monitor,Erwin,100
 1968,7558,Norman,Chandler,M,President and Publisher,Los Angeles Times,Norman,99
 1968,7580,John,Hohenberg,M,"executive secretary, The Pulitzer Prizes",Columbia University,John,100
-1968,7588,Grayson,Kirk,M,president,Columbia University,Grayson,98
+1968,7588,Grayson,Kirk,M,president,Columbia University,Grayson,97
 1968,7599,Ralph,McGill,M,publisher,The Atlanta Constitution,Ralph,100
 1968,7603,Kenneth,MacDonald,M,vice president and editor,Des Moines Register and Tribune,Kenneth,100
 1968,7605,W.D.,Maxwell,NA,vice president and editor,Chicago Tribune,W.D.,
@@ -30,7 +30,7 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 1970,7555,Wallace,Caroll,M,editor and publisher,Winston (N.C.) Journal,Wallace,99
 1970,7561,Andrew W.,Cordier,M,Acting President,Columbia University,Andrew,100
 1970,7565,William B.,Dickinson,M,executive editor,The Philadelphia Bulletin,William,100
-1970,7578,Lee,Hills,M,president and executive editor,"Knight Newspapers, Inc.",Lee,77
+1970,7578,Lee,Hills,M,president and executive editor,"Knight Newspapers, Inc.",Lee,78
 1970,7580,John,Hohenberg,M,"executive secretary, The Pulitzer Prizes",Columbia University,John,100
 1970,7585,Norman E.,Isaacs,M,"Lecturer and Editor-in-Residence, Graduate School of Journalism",Columbia University,Norman,99
 1970,7603,Kenneth,MacDonald,M,vice president and editor,Des Moines Register and Tribune,Kenneth,100
@@ -45,7 +45,7 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 1971,7564,Price,Day,M,editor-in-chief,The Baltimore Sun,Price,100
 1971,7565,William B.,Dickinson,M,executive editor,The Philadelphia Bulletin,William,100
 1971,7566,Robert J.,Donovan,M,associate editor,Los Angeles Times,Robert,100
-1971,7578,Lee,Hills,M,president and executive editor,"Knight Newspapers, Inc.",Lee,77
+1971,7578,Lee,Hills,M,president and executive editor,"Knight Newspapers, Inc.",Lee,78
 1971,7580,John,Hohenberg,M,"executive secretary, The Pulitzer Prizes",Columbia University,John,100
 1971,7600,William J.,McGill,M,president,Columbia University,William,100
 1971,7606,Sylvan,Meyer,M,editor,The Miami News,Sylvan,100
@@ -59,7 +59,7 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 1972,7564,Price,Day,M,editor-in-chief,The Baltimore Sun,Price,100
 1972,7565,William B.,Dickinson,M,executive editor,The Philadelphia Bulletin,William,100
 1972,7566,Robert J.,Donovan,M,associate editor,Los Angeles Times,Robert,100
-1972,7578,Lee,Hills,M,president and executive editor,"Knight Newspapers, Inc.",Lee,77
+1972,7578,Lee,Hills,M,president and executive editor,"Knight Newspapers, Inc.",Lee,78
 1972,7580,John,Hohenberg,M,"executive secretary, The Pulitzer Prizes",Columbia University,John,100
 1972,7600,William J.,McGill,M,president,Columbia University,William,100
 1972,7606,Sylvan,Meyer,M,editor,The Miami News,Sylvan,100
@@ -73,7 +73,7 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 1973,7564,Price,Day,M,editor-in-chief,The Baltimore Sun,Price,100
 1973,7565,William B.,Dickinson,M,executive editor,The Philadelphia Bulletin,William,100
 1973,7566,Robert J.,Donovan,M,associate editor,Los Angeles Times,Robert,100
-1973,7578,Lee,Hills,M,president and executive editor,"Knight Newspapers, Inc.",Lee,77
+1973,7578,Lee,Hills,M,president and executive editor,"Knight Newspapers, Inc.",Lee,78
 1973,7580,John,Hohenberg,M,"executive secretary, The Pulitzer Prizes",Columbia University,John,100
 1973,7600,William J.,McGill,M,president,Columbia University,William,100
 1973,7606,Sylvan,Meyer,M,editor,The Miami News,Sylvan,100
@@ -85,7 +85,7 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 1974,7563,John,Cowles,M,editorial chairman,The Minneapolis Star &amp; Tribune,John,100
 1974,7564,Price,Day,M,editor-in-chief,The Baltimore Sun,Price,100
 1974,7566,Robert J.,Donovan,M,associate editor,Los Angeles Times,Robert,100
-1974,7578,Lee,Hills,M,president and executive editor,"Knight Newspapers, Inc.",Lee,77
+1974,7578,Lee,Hills,M,president and executive editor,"Knight Newspapers, Inc.",Lee,78
 1974,7580,John,Hohenberg,M,"executive secretary, The Pulitzer Prizes",Columbia University,John,100
 1974,7600,William J.,McGill,M,president,Columbia University,William,100
 1974,7606,Sylvan,Meyer,M,editor,The Miami News,Sylvan,100
@@ -99,7 +99,7 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 1975,7563,John,Cowles,M,editorial chairman,The Minneapolis Star &amp; Tribune,John,100
 1975,7564,Price,Day,M,editor-in-chief,The Baltimore Sun,Price,100
 1975,7566,Robert J.,Donovan,M,associate editor,Los Angeles Times,Robert,100
-1975,7578,Lee,Hills,M,president and executive editor,"Knight Newspapers, Inc.",Lee,77
+1975,7578,Lee,Hills,M,president and executive editor,"Knight Newspapers, Inc.",Lee,78
 1975,7580,John,Hohenberg,M,"executive secretary, The Pulitzer Prizes",Columbia University,John,100
 1975,7589,Clayton,Kirkpatrick,M,editor and vice president,Chicago Tribune,Clayton,100
 1975,7600,William J.,McGill,M,president,Columbia University,William,100
@@ -109,11 +109,11 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 1975,7625,James,Reston,M,vice president,The New York Times,James,100
 1975,7631,Vermont C.,Royster,M,contributing editor,The Wall Street Journal,Vermont,100
 1975,7635,Thomas,Winship,M,editor,The Boston Globe,Thomas,100
-1977,7547,Elie,Abel,M,"dean, Graduate School of Journalism",Columbia University,Elie,100
+1977,7547,Elie,Abel,M,"dean, Graduate School of Journalism",Columbia University,Elie,96
 1977,7550,Benjamin,Bradlee,M,executive editor,The Washington Post,Benjamin,100
 1977,7563,John,Cowles,M,editorial chairman,The Minneapolis Star &amp; Tribune,John,100
 1977,7576,Howard H.,Hays,M,editor and publisher,Riverside (CA) Press-Enterprise,Howard,99
-1977,7578,Lee,Hills,M,president and executive editor,"Knight Newspapers, Inc.",Lee,77
+1977,7578,Lee,Hills,M,president and executive editor,"Knight Newspapers, Inc.",Lee,78
 1977,7584,John,Hughes,M,editor,The Christian Science Monitor,John,100
 1977,7589,Clayton,Kirkpatrick,M,editor and vice president,Chicago Tribune,Clayton,100
 1977,7597,Richard H.,Leonard,M,editor and vice president,The Milwaukee Journal,Richard,100
@@ -124,11 +124,11 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 1977,7626,James,Reston,M,columnist,The New York Times,James,100
 1977,7635,Thomas,Winship,M,editor,The Boston Globe,Thomas,100
 1977,7723,Richard T.,Baker,M,"secretary, The Pulitzer Pirze Board","administrator, The Pulitzer Prizes",Richard,100
-1978,7547,Elie,Abel,M,"dean, Graduate School of Journalism",Columbia University,Elie,100
+1978,7547,Elie,Abel,M,"dean, Graduate School of Journalism",Columbia University,Elie,96
 1978,7550,Benjamin,Bradlee,M,executive editor,The Washington Post,Benjamin,100
 1978,7563,John,Cowles,M,editorial chairman,The Minneapolis Star &amp; Tribune,John,100
 1978,7576,Howard H.,Hays,M,editor and publisher,Riverside (CA) Press-Enterprise,Howard,99
-1978,7578,Lee,Hills,M,president and executive editor,"Knight Newspapers, Inc.",Lee,77
+1978,7578,Lee,Hills,M,president and executive editor,"Knight Newspapers, Inc.",Lee,78
 1978,7584,John,Hughes,M,editor,The Christian Science Monitor,John,100
 1978,7589,Clayton,Kirkpatrick,M,editor and vice president,Chicago Tribune,Clayton,100
 1978,7597,Richard H.,Leonard,M,editor and vice president,The Milwaukee Journal,Richard,100
@@ -143,7 +143,7 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 1979,7563,John,Cowles,M,editorial chairman,The Minneapolis Star &amp; Tribune,John,100
 1979,7568,Osborn,Elliott,M,"dean, Graduate School of Journalism",Columbia University,Osborn,100
 1979,7576,Howard H.,Hays,M,editor and publisher,Riverside (CA) Press-Enterprise,Howard,99
-1979,7578,Lee,Hills,M,president and executive editor,"Knight Newspapers, Inc.",Lee,77
+1979,7578,Lee,Hills,M,president and executive editor,"Knight Newspapers, Inc.",Lee,78
 1979,7584,John,Hughes,M,editor,The Christian Science Monitor,John,100
 1979,7590,Clayton,Kirkpatrick,M,chief executive officer,Chicago Tribune,Clayton,100
 1979,7597,Richard H.,Leonard,M,editor and vice president,The Milwaukee Journal,Richard,100
@@ -155,9 +155,9 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 1979,7669,Eugene C.,Patterson,M,editor and president,St. Petersburg Times,Eugene,99
 1979,7723,Richard T.,Baker,M,"secretary, The Pulitzer Pirze Board","administrator, The Pulitzer Prizes",Richard,100
 1980,7568,Osborn,Elliott,M,"dean, Graduate School of Journalism",Columbia University,Osborn,100
-1980,7571,Hanna H.,Gray,F,president,University of Chicago,Hanna,100
+1980,7571,Hanna H.,Gray,F,president,University of Chicago,Hanna,99
 1980,7576,Howard H.,Hays,M,editor and publisher,Riverside (CA) Press-Enterprise,Howard,99
-1980,7578,Lee,Hills,M,president and executive editor,"Knight Newspapers, Inc.",Lee,77
+1980,7578,Lee,Hills,M,president and executive editor,"Knight Newspapers, Inc.",Lee,78
 1980,7584,John,Hughes,M,editor,The Christian Science Monitor,John,100
 1980,7590,Clayton,Kirkpatrick,M,chief executive officer,Chicago Tribune,Clayton,100
 1980,7598,Richard H.,Leonard,M,editor and senior vice president,The Milwaukee Journal,Richard,100
@@ -172,7 +172,7 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 1980,7723,Richard T.,Baker,M,"secretary, The Pulitzer Pirze Board","administrator, The Pulitzer Prizes",Richard,100
 1980,7726,John,"Cowles, Jr.",M,president,The Minneapolis Star &amp; Tribune Company,John,100
 1981,7568,Osborn,Elliott,M,"dean, Graduate School of Journalism",Columbia University,Osborn,100
-1981,7571,Hanna H.,Gray,F,president,University of Chicago,Hanna,100
+1981,7571,Hanna H.,Gray,F,president,University of Chicago,Hanna,99
 1981,7590,Clayton,Kirkpatrick,M,chief executive officer,Chicago Tribune,Clayton,100
 1981,7598,Richard H.,Leonard,M,editor and senior vice president,The Milwaukee Journal,Richard,100
 1981,7618,Warren H.,Phillips,M,chairman and chief executive officer,Dow Jones &amp; Co.,Warren,99
@@ -183,13 +183,13 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 1981,7644,Charlotte,Saikowski,F,chief editorial writer,The Christian Science Monitor,Charlotte,100
 1981,7669,Eugene C.,Patterson,M,editor and president,St. Petersburg Times,Eugene,99
 1981,7719,John,"Cowles, Jr.",M,president,Minneapolis Star and Tribune Company,John,100
-1981,7720,Lee,Hills,M,editorial chairman,"Knight-Ridder Newspapers, Inc.",Lee,77
+1981,7720,Lee,Hills,M,editorial chairman,"Knight-Ridder Newspapers, Inc.",Lee,78
 1981,7721,John,Hughes,M,president,"Hughes Newspapers, Inc.",John,100
 1981,7722,Roger W.,Wilkins,M,associate editor,Washington Star,Roger,100
 1981,7723,Richard T.,Baker,M,"secretary, The Pulitzer Pirze Board","administrator, The Pulitzer Prizes",Richard,100
 1981,7725,Howard H.,Hays,M,editor and co-publisher,Riverside (CA) Press-Enterprise,Howard,99
 1982,7568,Osborn,Elliott,M,"dean, Graduate School of Journalism",Columbia University,Osborn,100
-1982,7571,Hanna H.,Gray,F,president,University of Chicago,Hanna,100
+1982,7571,Hanna H.,Gray,F,president,University of Chicago,Hanna,99
 1982,7598,Richard H.,Leonard,M,editor and senior vice president,The Milwaukee Journal,Richard,100
 1982,7601,William F.,McIlwain,M,editor,Arkansas Gazette,William,100
 1982,7618,Warren H.,Phillips,M,chairman and chief executive officer,Dow Jones &amp; Co.,Warren,99
@@ -203,10 +203,10 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 1982,7667,Robert C.,Christopher,M,secretary of the Board,The Pulitzer Prizes,Robert,100
 1982,7669,Eugene C.,Patterson,M,editor and president,St. Petersburg Times,Eugene,99
 1982,7719,John,"Cowles, Jr.",M,president,Minneapolis Star and Tribune Company,John,100
-1982,7724,Lee,Hills,M,editorial chairman emeritus,"Knight-Ridder Newspapers, Inc.",Lee,77
+1982,7724,Lee,Hills,M,editorial chairman emeritus,"Knight-Ridder Newspapers, Inc.",Lee,78
 1982,7725,Howard H.,Hays,M,editor and co-publisher,Riverside (CA) Press-Enterprise,Howard,99
 1983,7568,Osborn,Elliott,M,"dean, Graduate School of Journalism",Columbia University,Osborn,100
-1983,7571,Hanna H.,Gray,F,president,University of Chicago,Hanna,100
+1983,7571,Hanna H.,Gray,F,president,University of Chicago,Hanna,99
 1983,7576,Howard H.,Hays,M,editor and publisher,Riverside (CA) Press-Enterprise,Howard,99
 1983,7598,Richard H.,Leonard,M,editor and senior vice president,The Milwaukee Journal,Richard,100
 1983,7618,Warren H.,Phillips,M,chairman and chief executive officer,Dow Jones &amp; Co.,Warren,99
@@ -223,7 +223,7 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 1983,7676,Katherine,Fanning,F,editor and publisher,Anchorage (Alaska) Daily News,Katherine,100
 1983,7677,James F.,Hoge,M,publisher,Chicago Sun-Times,James,100
 1984,7568,Osborn,Elliott,M,"dean, Graduate School of Journalism",Columbia University,Osborn,100
-1984,7571,Hanna H.,Gray,F,president,University of Chicago,Hanna,100
+1984,7571,Hanna H.,Gray,F,president,University of Chicago,Hanna,99
 1984,7576,Howard H.,Hays,M,editor and publisher,Riverside (CA) Press-Enterprise,Howard,99
 1984,7598,Richard H.,Leonard,M,editor and senior vice president,The Milwaukee Journal,Richard,100
 1984,7618,Warren H.,Phillips,M,chairman and chief executive officer,Dow Jones &amp; Co.,Warren,99
@@ -241,7 +241,7 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 1984,7668,Michael,Gartner,M,president and editorial chairman,The Des Moines Register and Tribune,Michael,99
 1984,7669,Eugene C.,Patterson,M,editor and president,St. Petersburg Times,Eugene,99
 1985,7568,Osborn,Elliott,M,"dean, Graduate School of Journalism",Columbia University,Osborn,100
-1985,7571,Hanna H.,Gray,F,president,University of Chicago,Hanna,100
+1985,7571,Hanna H.,Gray,F,president,University of Chicago,Hanna,99
 1985,7576,Howard H.,Hays,M,editor and publisher,Riverside (CA) Press-Enterprise,Howard,99
 1985,7598,Richard H.,Leonard,M,editor and senior vice president,The Milwaukee Journal,Richard,100
 1985,7618,Warren H.,Phillips,M,chairman and chief executive officer,Dow Jones &amp; Co.,Warren,99
@@ -259,7 +259,7 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 1985,7667,Robert C.,Christopher,M,secretary of the Board,The Pulitzer Prizes,Robert,100
 1985,7673,Eugene L.,Roberts,M,executive editor,The Philadelphia Inquirer,Eugene,99
 1986,7568,Osborn,Elliott,M,"dean, Graduate School of Journalism",Columbia University,Osborn,100
-1986,7571,Hanna H.,Gray,F,president,University of Chicago,Hanna,100
+1986,7571,Hanna H.,Gray,F,president,University of Chicago,Hanna,99
 1986,7576,Howard H.,Hays,M,editor and publisher,Riverside (CA) Press-Enterprise,Howard,99
 1986,7618,Warren H.,Phillips,M,chairman and chief executive officer,Dow Jones &amp; Co.,Warren,99
 1986,7622,Joseph Jr. (III),Pulitzer,M,editor and publisher,St. Louis Post-Dispatch,Joseph,100
@@ -277,7 +277,7 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 1986,7674,Claude F.,Sitton,M,editorial director and vice president,The News and Observer and The Raleigh (N.C.) Times,Claude,99
 1986,7675,Roger W.,Wilkins,M,senior fellow,Institute for Policy Studies,Roger,100
 1987,7530,Meg,Greenfield,F,editorial page editor,The Washington Post,Meg,100
-1987,7571,Hanna H.,Gray,F,president,University of Chicago,Hanna,100
+1987,7571,Hanna H.,Gray,F,president,University of Chicago,Hanna,99
 1987,7618,Warren H.,Phillips,M,chairman and chief executive officer,Dow Jones &amp; Co.,Warren,99
 1987,7645,Russell,Baker,M,columnist,The New York Times,Russell,100
 1987,7657,Robert C.,Maynard,M,editor and publisher,The Tribune,Robert,100
@@ -310,7 +310,7 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 1988,7692,Howard,Simons,M,curator,"Nieman Foundation, Harvard University",Howard,99
 1988,7694,Peter R.,Kann,M,associate publisher,The Wall Street Journal,Peter,100
 1988,13831,Roger W.,Wilkins,M,senior fellow,Institute for Policy Studies,Roger,100
-1989,7527,Joan,Konner,F,"dean, Graduate School of Journalism",Columbia University,Joan,100
+1989,7527,Joan,Konner,F,"dean, Graduate School of Journalism",Columbia University,Joan,99
 1989,7530,Meg,Greenfield,F,editorial page editor,The Washington Post,Meg,100
 1989,7642,Michael I.,Sovern,M,president,Columbia University,Michael,99
 1989,7645,Russell,Baker,M,columnist,The New York Times,Russell,100
@@ -328,7 +328,7 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 1989,7695,Roger W.,Wilkins,M,"senior fellow, Institute for Policy Studies","and Robinson Professor of History, George Mason University",Roger,100
 1989,13740,David A.,Laventhol,M,president,Times Mirror Company,David,100
 1990,7521,James V.,Risser,M,"director, John S. Knight Fellowships",Stanford University,James,100
-1990,7527,Joan,Konner,F,"dean, Graduate School of Journalism",Columbia University,Joan,100
+1990,7527,Joan,Konner,F,"dean, Graduate School of Journalism",Columbia University,Joan,99
 1990,7530,Meg,Greenfield,F,editorial page editor,The Washington Post,Meg,100
 1990,7579,James F.,Hoge,M,president and publisher,Daily News,James,100
 1990,7642,Michael I.,Sovern,M,president,Columbia University,Michael,99
@@ -347,7 +347,7 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 1990,13827,Eugene L.,Roberts,M,executive editor and president,The Philadelphia Inquirer,Eugene,99
 1991,7521,James V.,Risser,M,"director, John S. Knight Fellowships",Stanford University,James,100
 1991,7523,Helen,Vendler,F,Porter University Professor,Harvard University,Helen,100
-1991,7527,Joan,Konner,F,"dean, Graduate School of Journalism",Columbia University,Joan,100
+1991,7527,Joan,Konner,F,"dean, Graduate School of Journalism",Columbia University,Joan,99
 1991,7530,Meg,Greenfield,F,editorial page editor,The Washington Post,Meg,100
 1991,7531,Burl,Osborne,M,editor and publisher,The Dallas Morning News,Burl,100
 1991,7595,David A.,Laventhol,M,"president, Times Mirror Company","and publisher and chief executive officer, Los Angeles Times",David,100
@@ -367,14 +367,14 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 1992,7521,James V.,Risser,M,"director, John S. Knight Fellowships",Stanford University,James,100
 1992,7522,Walter,Rugaber,M,president and publisher,The Roanoke Times,Walter,99
 1992,7523,Helen,Vendler,F,Porter University Professor,Harvard University,Helen,100
-1992,7527,Joan,Konner,F,"dean, Graduate School of Journalism",Columbia University,Joan,100
+1992,7527,Joan,Konner,F,"dean, Graduate School of Journalism",Columbia University,Joan,99
 1992,7530,Meg,Greenfield,F,editorial page editor,The Washington Post,Meg,100
 1992,7531,Burl,Osborne,M,editor and publisher,The Dallas Morning News,Burl,100
 1992,7642,Michael I.,Sovern,M,president,Columbia University,Michael,99
 1992,7645,Russell,Baker,M,columnist,The New York Times,Russell,100
 1992,7647,Geneva,Overholser,F,editor,The Des Moines Register,Geneva,100
 1992,7648,Claude F.,Sitton,M,"senior lecturer, Emory University","former editor and vice president, The News and Observer",Claude,99
-1992,7649,Jack,Fuller,M,editor and vice president,Chicago Tribune,Jack,99
+1992,7649,Jack,Fuller,M,editor and vice president,Chicago Tribune,Jack,100
 1992,7652,Sissela,Bok,NA,professor,Brandeis University,Sissela,
 1992,7653,John,Dotson,M,president and publisher,Daily Camera,John,100
 1992,7654,John S.,Driscoll,M,editor,The Boston Globe,John,100
@@ -390,7 +390,7 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 1993,7522,Walter,Rugaber,M,president and publisher,The Roanoke Times,Walter,99
 1993,7523,Helen,Vendler,F,Porter University Professor,Harvard University,Helen,100
 1993,7526,Sissela,Bok,NA,writer and philosopher,,Sissela,
-1993,7527,Joan,Konner,F,"dean, Graduate School of Journalism",Columbia University,Joan,100
+1993,7527,Joan,Konner,F,"dean, Graduate School of Journalism",Columbia University,Joan,99
 1993,7528,Peter R.,Kann,M,chairman and chief executive officer,"Dow Jones and Co., Inc.",Peter,100
 1993,7529,John S.,Driscoll,M,vice president,The Boston Globe,John,100
 1993,7530,Meg,Greenfield,F,editorial page editor,The Washington Post,Meg,100
@@ -399,7 +399,7 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 1993,7645,Russell,Baker,M,columnist,The New York Times,Russell,100
 1993,7647,Geneva,Overholser,F,editor,The Des Moines Register,Geneva,100
 1993,7648,Claude F.,Sitton,M,"senior lecturer, Emory University","former editor and vice president, The News and Observer",Claude,99
-1993,7649,Jack,Fuller,M,editor and vice president,Chicago Tribune,Jack,99
+1993,7649,Jack,Fuller,M,editor and vice president,Chicago Tribune,Jack,100
 1993,7650,Robert C.,Maynard,M,former editor and publisher,The Tribune,Robert,100
 1993,7651,Marilyn,Yarbrough,F,William Rand Kenan Jr. Professor of Law,University of North Carolina,Marilyn,100
 1994,7514,George,Rupp,M,president,Columbia University,George,99
@@ -411,12 +411,12 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 1994,7523,Helen,Vendler,F,Porter University Professor,Harvard University,Helen,100
 1994,7524,Marilyn,Yarbrough,F,professor of law,University of North Carolina,Marilyn,100
 1994,7526,Sissela,Bok,NA,writer and philosopher,,Sissela,
-1994,7527,Joan,Konner,F,"dean, Graduate School of Journalism",Columbia University,Joan,100
+1994,7527,Joan,Konner,F,"dean, Graduate School of Journalism",Columbia University,Joan,99
 1994,7528,Peter R.,Kann,M,chairman and chief executive officer,"Dow Jones and Co., Inc.",Peter,100
 1994,7529,John S.,Driscoll,M,vice president,The Boston Globe,John,100
 1994,7530,Meg,Greenfield,F,editorial page editor,The Washington Post,Meg,100
 1994,7531,Burl,Osborne,M,editor and publisher,The Dallas Morning News,Burl,100
-1994,7646,Jack,Fuller,M,president and chief executive officer,Chicago Tribune,Jack,99
+1994,7646,Jack,Fuller,M,president and chief executive officer,Chicago Tribune,Jack,100
 1994,7647,Geneva,Overholser,F,editor,The Des Moines Register,Geneva,100
 1994,7648,Claude F.,Sitton,M,"senior lecturer, Emory University","former editor and vice president, The News and Observer",Claude,99
 1994,13626,Rusell,Baker,M,columnist,The New York Times,Rusell,100
@@ -427,13 +427,13 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 1995,7515,Seymour,Topping,M,"administrator, The Pulitzer Prizes",Columbia University,Seymour,100
 1995,7518,Edward,Seaton,M,editor in chief,Manhattan  Mercury,Edward,100
 1995,7519,John L.,Dotson Jr.,M,president and publisher,Akron Beacon Journal,John,100
-1995,7520,Jack,Fuller,M,president,Tribune Publishing Company,Jack,99
+1995,7520,Jack,Fuller,M,president,Tribune Publishing Company,Jack,100
 1995,7521,James V.,Risser,M,"director, John S. Knight Fellowships",Stanford University,James,100
 1995,7522,Walter,Rugaber,M,president and publisher,The Roanoke Times,Walter,99
 1995,7523,Helen,Vendler,F,Porter University Professor,Harvard University,Helen,100
 1995,7524,Marilyn,Yarbrough,F,professor of law,University of North Carolina,Marilyn,100
 1995,7526,Sissela,Bok,NA,writer and philosopher,,Sissela,
-1995,7527,Joan,Konner,F,"dean, Graduate School of Journalism",Columbia University,Joan,100
+1995,7527,Joan,Konner,F,"dean, Graduate School of Journalism",Columbia University,Joan,99
 1995,7528,Peter R.,Kann,M,chairman and chief executive officer,"Dow Jones and Co., Inc.",Peter,100
 1995,7529,John S.,Driscoll,M,vice president,The Boston Globe,John,100
 1995,7532,Geneva,Overholser,F,ombudsman,The Washington Post,Geneva,100
@@ -448,13 +448,13 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 1996,7517,William,Ketter,M,vice president and assistant to the publisher,The Boston Globe,William,100
 1996,7518,Edward,Seaton,M,editor in chief,Manhattan  Mercury,Edward,100
 1996,7519,John L.,Dotson Jr.,M,president and publisher,Akron Beacon Journal,John,100
-1996,7520,Jack,Fuller,M,president,Tribune Publishing Company,Jack,99
+1996,7520,Jack,Fuller,M,president,Tribune Publishing Company,Jack,100
 1996,7521,James V.,Risser,M,"director, John S. Knight Fellowships",Stanford University,James,100
 1996,7522,Walter,Rugaber,M,president and publisher,The Roanoke Times,Walter,99
 1996,7523,Helen,Vendler,F,Porter University Professor,Harvard University,Helen,100
 1996,7524,Marilyn,Yarbrough,F,professor of law,University of North Carolina,Marilyn,100
 1996,7526,Sissela,Bok,NA,writer and philosopher,,Sissela,
-1996,7527,Joan,Konner,F,"dean, Graduate School of Journalism",Columbia University,Joan,100
+1996,7527,Joan,Konner,F,"dean, Graduate School of Journalism",Columbia University,Joan,99
 1996,7528,Peter R.,Kann,M,chairman and chief executive officer,"Dow Jones and Co., Inc.",Peter,100
 1996,7532,Geneva,Overholser,F,ombudsman,The Washington Post,Geneva,100
 1996,7546,Rena,Pederson,F,editorial page editor/vice president,The Dallas Morning News,Rena,100
@@ -467,11 +467,11 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 1997,7517,William,Ketter,M,vice president and assistant to the publisher,The Boston Globe,William,100
 1997,7518,Edward,Seaton,M,editor in chief,Manhattan  Mercury,Edward,100
 1997,7519,John L.,Dotson Jr.,M,president and publisher,Akron Beacon Journal,John,100
-1997,7520,Jack,Fuller,M,president,Tribune Publishing Company,Jack,99
+1997,7520,Jack,Fuller,M,president,Tribune Publishing Company,Jack,100
 1997,7521,James V.,Risser,M,"director, John S. Knight Fellowships",Stanford University,James,100
 1997,7523,Helen,Vendler,F,Porter University Professor,Harvard University,Helen,100
 1997,7524,Marilyn,Yarbrough,F,professor of law,University of North Carolina,Marilyn,100
-1997,7525,Sandy,Padwe,F,"acting dean, Graduate School of Journalism",Columbia University (ex-officio),Sandy,86
+1997,7525,Sandy,Padwe,F,"acting dean, Graduate School of Journalism",Columbia University (ex-officio),Sandy,87
 1997,7532,Geneva,Overholser,F,ombudsman,The Washington Post,Geneva,100
 1997,7539,Andrew,Barnes,M,"editor, president and C.E.O.",St. Petersburg Times,Andrew,100
 1997,7546,Rena,Pederson,F,editorial page editor/vice president,The Dallas Morning News,Rena,100
@@ -488,7 +488,7 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 1998,7517,William,Ketter,M,vice president and assistant to the publisher,The Boston Globe,William,100
 1998,7518,Edward,Seaton,M,editor in chief,Manhattan  Mercury,Edward,100
 1998,7519,John L.,Dotson Jr.,M,president and publisher,Akron Beacon Journal,John,100
-1998,7520,Jack,Fuller,M,president,Tribune Publishing Company,Jack,99
+1998,7520,Jack,Fuller,M,president,Tribune Publishing Company,Jack,100
 1998,7521,James V.,Risser,M,"director, John S. Knight Fellowships",Stanford University,James,100
 1998,7522,Walter,Rugaber,M,president and publisher,The Roanoke Times,Walter,99
 1998,7523,Helen,Vendler,F,Porter University Professor,Harvard University,Helen,100
@@ -509,7 +509,7 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 1999,7517,William,Ketter,M,vice president and assistant to the publisher,The Boston Globe,William,100
 1999,7518,Edward,Seaton,M,editor in chief,Manhattan  Mercury,Edward,100
 1999,7519,John L.,Dotson Jr.,M,president and publisher,Akron Beacon Journal,John,100
-1999,7520,Jack,Fuller,M,president,Tribune Publishing Company,Jack,99
+1999,7520,Jack,Fuller,M,president,Tribune Publishing Company,Jack,100
 1999,7523,Helen,Vendler,F,Porter University Professor,Harvard University,Helen,100
 1999,7524,Marilyn,Yarbrough,F,professor of law,University of North Carolina,Marilyn,100
 1999,7539,Andrew,Barnes,M,"editor, president and C.E.O.",St. Petersburg Times,Andrew,100
@@ -535,7 +535,7 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 2000,7545,Donald E.,Graham,M,publisher,The Washington Post,Donald,100
 2000,7546,Rena,Pederson,F,editorial page editor/vice president,The Dallas Morning News,Rena,100
 2000,13887,John L.,"Dotson, Jr.",M,president and publisher,Akron Beacon Journal,John,100
-2000,13893,Jack,Fuller,M,president,Tribune Publishing Company,Jack,99
+2000,13893,Jack,Fuller,M,president,Tribune Publishing Company,Jack,100
 2001,7500,Richard,Oppel,M,editor,Austin American-Statesman,Richard,100
 2001,7501,Mike,Pride,M,editor,Concord Monitor,Mike,100
 2001,7502,Paul,Steiger,M,managing editor,The Wall Street Journal,Paul,100
@@ -573,7 +573,7 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 2002,7543,Joann,Byrd,F,editorial page editor,Seattle Post-Intelligencer,Joann,100
 2002,7544,Donald E.,Graham,M,chairman,The Washington Post Company,Donald,100
 2002,7546,Rena,Pederson,F,editorial page editor/vice president,The Dallas Morning News,Rena,100
-2003,7485,Lee C.,Bollinger,M,president,Columbia University,Lee,77
+2003,7485,Lee C.,Bollinger,M,president,Columbia University,Lee,78
 2003,7487,Jim,Amoss,M,editor,The Times-Picayune,Jim,99
 2003,7493,Donald E.,Graham,M,chairman,The Washington Post,Donald,100
 2003,7494,Anders,Gyllenhaal,M,editor and senior vice president,Star Tribune,Anders,100
@@ -593,7 +593,7 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 2003,7542,Jay T.,Harris,M,"director, Center for the Study of Journalism and Democracy",University of Southern California,Jay,99
 2003,7543,Joann,Byrd,F,editorial page editor,Seattle Post-Intelligencer,Joann,100
 2003,13870,Sandra Mims,Rowe,F,editor,The Oregonian,Sandra,100
-2004,7485,Lee C.,Bollinger,M,president,Columbia University,Lee,77
+2004,7485,Lee C.,Bollinger,M,president,Columbia University,Lee,78
 2004,7487,Jim,Amoss,M,editor,The Times-Picayune,Jim,99
 2004,7489,Joann,Byrd,F,former editor editorial page,Seattle Post-Intelligencer,Joann,100
 2004,7490,Kathleen,Carroll,F,executive editor and senior vice president,Associated Press,Kathleen,100
@@ -614,7 +614,7 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 2004,7536,Amanda,Bennett,F,editor,The Philadelphia Inquirer,Amanda,100
 2004,13868,Rena,Pederson,F,editor at large,The Dallas Morning News,Rena,100
 2004,13891,William,Safire,M,columnist,The New York Times,William,100
-2005,7485,Lee C.,Bollinger,M,president,Columbia University,Lee,77
+2005,7485,Lee C.,Bollinger,M,president,Columbia University,Lee,78
 2005,7487,Jim,Amoss,M,editor,The Times-Picayune,Jim,99
 2005,7489,Joann,Byrd,F,former editor editorial page,Seattle Post-Intelligencer,Joann,100
 2005,7490,Kathleen,Carroll,F,executive editor and senior vice president,Associated Press,Kathleen,100
@@ -633,7 +633,7 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 2005,7505,Henry Louis,Gates Jr.,M,W.E.B. DuBois Professor of Humanities,Harvard University,Henry,99
 2005,7536,Amanda,Bennett,F,editor,The Philadelphia Inquirer,Amanda,100
 2005,7540,Andrew,Barnes,M,chairman,Poynter Institute for Media Studies,Andrew,100
-2006,7485,Lee C.,Bollinger,M,president,Columbia University,Lee,77
+2006,7485,Lee C.,Bollinger,M,president,Columbia University,Lee,78
 2006,7487,Jim,Amoss,M,editor,The Times-Picayune,Jim,99
 2006,7489,Joann,Byrd,F,former editor editorial page,Seattle Post-Intelligencer,Joann,100
 2006,7490,Kathleen,Carroll,F,executive editor and senior vice president,Associated Press,Kathleen,100
@@ -652,7 +652,7 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 2006,7504,Sig,Gissler,M,"administrator, Graduate School of Journalism",Columbia University,Sig,100
 2006,7536,Amanda,Bennett,F,editor,The Philadelphia Inquirer,Amanda,100
 2006,13775,Henry Louis,Gates Jr.,M,W.E.B. DuBois Professor of Humanities,Harvard University,Henry,99
-2007,7485,Lee C.,Bollinger,M,president,Columbia University,Lee,77
+2007,7485,Lee C.,Bollinger,M,president,Columbia University,Lee,78
 2007,7486,Danielle,Allen,F,"UPS Foundation Professor,  School of Social Science",Institute for Advanced Study,Danielle,99
 2007,7487,Jim,Amoss,M,editor,The Times-Picayune,Jim,99
 2007,7488,Amanda,Bennett,F,executive editor/Enterprise,Bloomberg News,Amanda,100
@@ -672,7 +672,7 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 2007,7503,Paul C.,Tash,M,"editor, chairman and CEO",The St. Petersburg Times,Paul,100
 2007,7504,Sig,Gissler,M,"administrator, Graduate School of Journalism",Columbia University,Sig,100
 2007,13865,Paul,Steiger,M,managing editor,The Wall Street Journal,Paul,100
-2008,7485,Lee C.,Bollinger,M,president,Columbia University,Lee,77
+2008,7485,Lee C.,Bollinger,M,president,Columbia University,Lee,78
 2008,7486,Danielle,Allen,F,"UPS Foundation Professor,  School of Social Science",Institute for Advanced Study,Danielle,99
 2008,7487,Jim,Amoss,M,editor,The Times-Picayune,Jim,99
 2008,7488,Amanda,Bennett,F,executive editor/Enterprise,Bloomberg News,Amanda,100
@@ -691,7 +691,7 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 2008,7538,Anders,Gyllenhaal,M,executive editor,The Miami Herald,Anders,100
 2008,13884,Mike,Pride,M,editor,Concord Monitor,Mike,100
 2008,13890,Joann,Byrd,F,"former editor, editorial page",Seattle Post-Intelligencer,Joann,100
-2009,7485,Lee C.,Bollinger,M,president,Columbia University,Lee,77
+2009,7485,Lee C.,Bollinger,M,president,Columbia University,Lee,78
 2009,7486,Danielle,Allen,F,"UPS Foundation Professor,  School of Social Science",Institute for Advanced Study,Danielle,99
 2009,7487,Jim,Amoss,M,editor,The Times-Picayune,Jim,99
 2009,7488,Amanda,Bennett,F,executive editor/Enterprise,Bloomberg News,Amanda,100
@@ -708,9 +708,9 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 2009,7534,Ann Marie,Lipinski,F,vice president for civic engagement,The University of Chicago,Ann,100
 2009,7535,Richard,Oppel,M,former editor,Austin American-Statesman,Richard,100
 2009,7538,Anders,Gyllenhaal,M,executive editor,The Miami Herald,Anders,100
-2009,7632,Randell,Beck,M,retired president and publisher,Argus Leader Media,Randell,100
-2009,7633,Keven Ann,Willey,M,vice president/editorial page editor,The Dallas Morning News,Keven,97
-2010,7485,Lee C.,Bollinger,M,president,Columbia University,Lee,77
+2009,7632,Randell,Beck,M,retired president and publisher,Argus Leader Media,Randell,99
+2009,7633,Keven Ann,Willey,M,vice president/editorial page editor,The Dallas Morning News,Keven,98
+2010,7485,Lee C.,Bollinger,M,president,Columbia University,Lee,78
 2010,7486,Danielle,Allen,F,"UPS Foundation Professor,  School of Social Science",Institute for Advanced Study,Danielle,99
 2010,7487,Jim,Amoss,M,editor,The Times-Picayune,Jim,99
 2010,7490,Kathleen,Carroll,F,executive editor and senior vice president,Associated Press,Kathleen,100
@@ -722,13 +722,13 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 2010,7504,Sig,Gissler,M,"administrator, Graduate School of Journalism",Columbia University,Sig,100
 2010,7533,Joyce,Dehli,F,vice president for news,Lee Enterprises,Joyce,99
 2010,7534,Ann Marie,Lipinski,F,vice president for civic engagement,The University of Chicago,Ann,100
-2010,7632,Randell,Beck,M,retired president and publisher,Argus Leader Media,Randell,100
-2010,7633,Keven Ann,Willey,M,vice president/editorial page editor,The Dallas Morning News,Keven,97
+2010,7632,Randell,Beck,M,retired president and publisher,Argus Leader Media,Randell,99
+2010,7633,Keven Ann,Willey,M,vice president/editorial page editor,The Dallas Morning News,Keven,98
 2010,7696,Jim,VandeHei,M,executive editor and co-founder,Politico,Jim,99
 2010,7697,Amanda,Bennett,F,executive editor/projects and investigations,Bloomberg News,Amanda,100
 2010,7698,Paul C.,Tash,M,chairman and CEO,St. Petersburg Times,Paul,100
 2010,13829,Anders,Gyllenhaal,M,executive editor,The Miami Herald,Anders,100
-2011,7485,Lee C.,Bollinger,M,president,Columbia University,Lee,77
+2011,7485,Lee C.,Bollinger,M,president,Columbia University,Lee,78
 2011,7486,Danielle,Allen,F,"UPS Foundation Professor,  School of Social Science",Institute for Advanced Study,Danielle,99
 2011,7487,Jim,Amoss,M,editor,The Times-Picayune,Jim,99
 2011,7490,Kathleen,Carroll,F,executive editor and senior vice president,Associated Press,Kathleen,100
@@ -739,14 +739,14 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 2011,7504,Sig,Gissler,M,"administrator, Graduate School of Journalism",Columbia University,Sig,100
 2011,7533,Joyce,Dehli,F,vice president for news,Lee Enterprises,Joyce,99
 2011,7534,Ann Marie,Lipinski,F,vice president for civic engagement,The University of Chicago,Ann,100
-2011,7632,Randell,Beck,M,retired president and publisher,Argus Leader Media,Randell,100
-2011,7633,Keven Ann,Willey,M,vice president/editorial page editor,The Dallas Morning News,Keven,97
+2011,7632,Randell,Beck,M,retired president and publisher,Argus Leader Media,Randell,99
+2011,7633,Keven Ann,Willey,M,vice president/editorial page editor,The Dallas Morning News,Keven,98
 2011,7696,Jim,VandeHei,M,executive editor and co-founder,Politico,Jim,99
 2011,7698,Paul C.,Tash,M,chairman and CEO,St. Petersburg Times,Paul,100
 2011,7699,Eugene,Robinson,M,columnist and associate editor,The Washington Post,Eugene,99
 2011,7700,Junot,Díaz,NA,author and Rudge and Nancy Allen Professor of Writing,Massachusetts Institute of Technology,Junot,
 2011,13885,David M.,Kennedy,M,"Donald J. McLachlan Professor of History, Emeritus",Stanford University,David,100
-2012,7485,Lee C.,Bollinger,M,president,Columbia University,Lee,77
+2012,7485,Lee C.,Bollinger,M,president,Columbia University,Lee,78
 2012,7486,Danielle,Allen,F,"UPS Foundation Professor,  School of Social Science",Institute for Advanced Study,Danielle,99
 2012,7491,Thomas L.,Friedman,M,columnist,The New York Times,Thomas,100
 2012,7492,Paul,Gigot,M,editorial page editor,The Wall Street Journal,Paul,100
@@ -754,8 +754,8 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 2012,7499,Gregory L.,Moore,M,editor,The Denver Post,Gregory,100
 2012,7504,Sig,Gissler,M,"administrator, Graduate School of Journalism",Columbia University,Sig,100
 2012,7533,Joyce,Dehli,F,vice president for news,Lee Enterprises,Joyce,99
-2012,7632,Randell,Beck,M,retired president and publisher,Argus Leader Media,Randell,100
-2012,7633,Keven Ann,Willey,M,vice president/editorial page editor,The Dallas Morning News,Keven,97
+2012,7632,Randell,Beck,M,retired president and publisher,Argus Leader Media,Randell,99
+2012,7633,Keven Ann,Willey,M,vice president/editorial page editor,The Dallas Morning News,Keven,98
 2012,7696,Jim,VandeHei,M,executive editor and co-founder,Politico,Jim,99
 2012,7699,Eugene,Robinson,M,columnist and associate editor,The Washington Post,Eugene,99
 2012,7700,Junot,Díaz,NA,author and Rudge and Nancy Allen Professor of Writing,Massachusetts Institute of Technology,Junot,
@@ -766,13 +766,13 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 2012,7705,Margaret,Sullivan,F,editor,The Buffalo News,Margaret,100
 2012,13826,Kathleen,Carroll,F,executive editor and senior vice president,Associated Press,Kathleen,100
 2012,13866,Jim,Amoss,M,editor,The Times-Picayune,Jim,99
-2013,7485,Lee C.,Bollinger,M,president,Columbia University,Lee,77
+2013,7485,Lee C.,Bollinger,M,president,Columbia University,Lee,78
 2013,7486,Danielle,Allen,F,"UPS Foundation Professor,  School of Social Science",Institute for Advanced Study,Danielle,99
 2013,7492,Paul,Gigot,M,editorial page editor,The Wall Street Journal,Paul,100
 2013,7497,Nicholas,Lemann,M,"dean, Graduate School of Journalism",Columbia University,Nicholas,100
 2013,7533,Joyce,Dehli,F,vice president for news,Lee Enterprises,Joyce,99
-2013,7632,Randell,Beck,M,retired president and publisher,Argus Leader Media,Randell,100
-2013,7633,Keven Ann,Willey,M,vice president/editorial page editor,The Dallas Morning News,Keven,97
+2013,7632,Randell,Beck,M,retired president and publisher,Argus Leader Media,Randell,99
+2013,7633,Keven Ann,Willey,M,vice president/editorial page editor,The Dallas Morning News,Keven,98
 2013,7699,Eugene,Robinson,M,columnist and associate editor,The Washington Post,Eugene,99
 2013,7700,Junot,Díaz,NA,author and Rudge and Nancy Allen Professor of Writing,Massachusetts Institute of Technology,Junot,
 2013,7702,Robert,Blau,M,managing editor for projects and investigations,Bloomberg News,Robert,100
@@ -780,40 +780,40 @@ year,nid,first_name,last_name,gender,job_title,employer,usable_name,ratio
 2013,7704,Paul,Tash,M,chairman and CEO,Tampa Bay Times,Paul,100
 2013,7706,Steve,Coll,M,author and staff writer,The New Yorker,Steve,100
 2013,7707,Stephen,Engelberg,M,editor-in-chief,ProPublica,Stephen,100
-2013,7708,Aminda,Marqués Gonzalez,NA,vice president and executive editor,The Miami Herald,Aminda,
-2013,7709,Quiara Alegría,Hudes,NA,playwright,,Quiara,
+2013,7708,Aminda,Marqués Gonzalez,F,vice president and executive editor,The Miami Herald,Aminda,100
+2013,7709,Quiara Alegría,Hudes,F,playwright,,Quiara,100
 2013,7710,Sig,Gissler,M,"administrator, The Pulitzer Prizes",Columbia University,Sig,100
 2013,13566,Gregory L.,Moore,M,editor,The Denver Post,Gregory,100
 2013,13875,Thomas L.,Friedman,M,columnist,The New York Times,Thomas,100
-2014,7485,Lee C.,Bollinger,M,president,Columbia University,Lee,77
+2014,7485,Lee C.,Bollinger,M,president,Columbia University,Lee,78
 2014,7486,Danielle,Allen,F,"UPS Foundation Professor,  School of Social Science",Institute for Advanced Study,Danielle,99
 2014,7492,Paul,Gigot,M,editorial page editor,The Wall Street Journal,Paul,100
 2014,7533,Joyce,Dehli,F,vice president for news,Lee Enterprises,Joyce,99
-2014,7632,Randell,Beck,M,retired president and publisher,Argus Leader Media,Randell,100
-2014,7633,Keven Ann,Willey,M,vice president/editorial page editor,The Dallas Morning News,Keven,97
+2014,7632,Randell,Beck,M,retired president and publisher,Argus Leader Media,Randell,99
+2014,7633,Keven Ann,Willey,M,vice president/editorial page editor,The Dallas Morning News,Keven,98
 2014,7699,Eugene,Robinson,M,columnist and associate editor,The Washington Post,Eugene,99
 2014,7700,Junot,Díaz,NA,author and Rudge and Nancy Allen Professor of Writing,Massachusetts Institute of Technology,Junot,
 2014,7703,Steven,Hahn,M,Roy F. and Jeanette P. Nichols Professor of History,University of Pennsylvania,Steven,100
 2014,7704,Paul,Tash,M,chairman and CEO,Tampa Bay Times,Paul,100
 2014,7707,Stephen,Engelberg,M,editor-in-chief,ProPublica,Stephen,100
-2014,7708,Aminda,Marqués Gonzalez,NA,vice president and executive editor,The Miami Herald,Aminda,
-2014,7709,Quiara Alegría,Hudes,NA,playwright,,Quiara,
+2014,7708,Aminda,Marqués Gonzalez,F,vice president and executive editor,The Miami Herald,Aminda,100
+2014,7709,Quiara Alegría,Hudes,F,playwright,,Quiara,100
 2014,7710,Sig,Gissler,M,"administrator, The Pulitzer Prizes",Columbia University,Sig,100
 2014,7711,Steve,Coll,M,dean,"Graduate School of Journalism,  Columbia University",Steve,100
 2014,7712,John,Daniszewski,M,vice president for international news,Associated Press,John,100
 2014,7713,Robert,Blau,M,executive editor,Bloomberg News,Robert,100
 2014,7714,Katherine,Boo,F,staff writer,The New Yorker,Katherine,100
 2014,7715,Gail,Collins,F,op-ed columnist,The New York Times,Gail,96
-2015,7485,Lee C.,Bollinger,M,president,Columbia University,Lee,77
+2015,7485,Lee C.,Bollinger,M,president,Columbia University,Lee,78
 2015,7492,Paul,Gigot,M,editorial page editor,The Wall Street Journal,Paul,100
-2015,7632,Randell,Beck,M,retired president and publisher,Argus Leader Media,Randell,100
-2015,7633,Keven Ann,Willey,M,vice president/editorial page editor,The Dallas Morning News,Keven,97
+2015,7632,Randell,Beck,M,retired president and publisher,Argus Leader Media,Randell,99
+2015,7633,Keven Ann,Willey,M,vice president/editorial page editor,The Dallas Morning News,Keven,98
 2015,7699,Eugene,Robinson,M,columnist and associate editor,The Washington Post,Eugene,99
 2015,7700,Junot,Díaz,NA,author and Rudge and Nancy Allen Professor of Writing,Massachusetts Institute of Technology,Junot,
 2015,7703,Steven,Hahn,M,Roy F. and Jeanette P. Nichols Professor of History,University of Pennsylvania,Steven,100
 2015,7707,Stephen,Engelberg,M,editor-in-chief,ProPublica,Stephen,100
-2015,7708,Aminda,Marqués Gonzalez,NA,vice president and executive editor,The Miami Herald,Aminda,
-2015,7709,Quiara Alegría,Hudes,NA,playwright,,Quiara,
+2015,7708,Aminda,Marqués Gonzalez,F,vice president and executive editor,The Miami Herald,Aminda,100
+2015,7709,Quiara Alegría,Hudes,F,playwright,,Quiara,100
 2015,7711,Steve,Coll,M,dean,"Graduate School of Journalism,  Columbia University",Steve,100
 2015,7712,John,Daniszewski,M,vice president for international news,Associated Press,John,100
 2015,7713,Robert,Blau,M,executive editor,Bloomberg News,Robert,100

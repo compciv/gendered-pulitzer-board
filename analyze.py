@@ -16,15 +16,21 @@ for nid, person in unique_members.items():
     gd = person['gender']
     genderdict[gd].append(person)
 
-print("Since 1968, the estimated gender breakdown for the Pulitzer Prize Board membership is:")
-print("\tF:", len(genderdict['F']))
-print("\tM:", len(genderdict['M']))
-fm_ratio = round(100 * len(genderdict['F'])/len(genderdict['M']))
-print("\tF/M:", str(fm_ratio) + '%')
+unique_member_count = len(unique_members)
 
+print("Since 1968, the estimated gender breakdown for the Pulitzer Prize Board membership is:")
+for gd in ['F', 'M', 'NA']:
+    gendered_members = genderdict[gd]
+    ratio = round(100 * len(gendered_members)/unique_member_count)
+    print("\t" + gd + ':', len(gendered_members), str(ratio) + '%')
+
+
+
+
+#######################
+# Now let's do this same calculation by decade:
 print("-----------------------------------------")
 print("Now let's do a decade-by-decade breakdown")
-# Now let's do this same calculation by decade:
 for decade in [1960, 1970, 1980, 1990, 2000, 2010]:
     # because the data came in CSV, the "year" for each member row is still a string
     # so we can still take advantage of it
@@ -46,11 +52,14 @@ for decade in [1960, 1970, 1980, 1990, 2000, 2010]:
         gd = person['gender']
         genderdict[gd].append(person)
 
+    unique_member_count = len(unique_members)
     print(decade)
-    print("\tF:", len(genderdict['F']))
-    print("\tM:", len(genderdict['M']))
-    fm_ratio = round(100 * len(genderdict['F'])/len(genderdict['M']))
-    print("\tF/M:", str(fm_ratio) + '%')
+    for gd in ['F', 'M', 'NA']:
+        gendered_members = genderdict[gd]
+        ratio = round(100 * len(gendered_members)/unique_member_count)
+        print("\t" + gd + ':', len(gendered_members), str(ratio) + '%')
+
+
 
 
 
@@ -70,20 +79,25 @@ for year in range(1968, 2016): # ugh, hardcoding in the min/max year...
     # we can repeat the previous rigamrole of getting unique_members
     # and doing genderdict, etc.
     # ...mind that you use year_members instead of all_members/decade_members
-    unique_members = {}
-    for d in year_members:
-        unique_members[d['nid']] = d
 
-    genderdict = {'M': [], 'F': [], 'NA': []}
-    for nid, person in unique_members.items():
-        gd = person['gender']
-        genderdict[gd].append(person)
 
-    print(year)
-    print("\tF:", len(genderdict['F']))
-    print("\tM:", len(genderdict['M']))
-    if len(genderdict['F']) > 0:
-        fm_ratio = round(100 * len(genderdict['F'])/len(genderdict['M']))
-    else:
-        fm_ratio = 0
-    print("\tF/M:", str(fm_ratio) + '%')
+
+    if year_members:
+        # note that 1976 doesn't exist, among other years
+        # so we set this conditional to skip if year_members is empty...
+        unique_members = {}
+        for d in year_members:
+            unique_members[d['nid']] = d
+
+        genderdict = {'M': [], 'F': [], 'NA': []}
+        for nid, person in unique_members.items():
+            gd = person['gender']
+            genderdict[gd].append(person)
+
+        unique_member_count = len(unique_members)
+        print(year)
+        for gd in ['F', 'M', 'NA']:
+            gendered_members = genderdict[gd]
+            ratio = round(100 * len(gendered_members)/unique_member_count)
+            print("\t" + gd + ':', len(gendered_members), str(ratio) + '%')
+
