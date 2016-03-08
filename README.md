@@ -26,6 +26,7 @@ Gender bias is alleged across all facets of media, so it makes sense to investig
 
 My choice of looking at the Pulitzer committee is for pragmatic reasons. It's a body composed of individuals with easily discernible first names. And that is good for my [humble gender-detector algorithm](http://www.compciv.org/assignments/exercise-sets/0020-gender-detector-set).
 
+It's worth noting industry numbers on [women in newspaper leadership](http://www.scripps.ohiou.edu/wjmcr/vol01/1-2a.HTM)
 
 An aside: author Nicola Griffith examined the Pulitzer book awards from 2000 to 2015 and whether the winning books could be said to be primarily about women or from a woman's point of view: [Books About Women Don’t Win Big Awards: Some Data](http://nicolagriffith.com/2015/05/26/books-about-women-tend-not-to-win-awards/) .
 
