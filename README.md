@@ -16,17 +16,11 @@ According to the automated analysis, the 1970s did not see a single woman on the
 
 
 
-### Methodology
+### Methodology and Caveats
 
-The analysis detects gender by using the Social Security Administration's baby name data. If a name, such as "Joseph", has more recorded baby boys than baby girls in the SSA records, than "Joseph" is considered by the algorithm to be a name likely given to a man. Yes that's how basic the algorithm is. 
+The automated analysis detects gender by using the Social Security Administration's baby name data. If a name, such as "Joseph", has more recorded baby boys than baby girls in the SSA records, than "Joseph" is considered by the algorithm to be a name likely given to a man. Yes that's how basic the algorithm is. 
 
-
-
-
-### Caveats
-
-
-Note that the gender detection algorithm for this project was extremely basic: literally, determining if the first name of each board member was more likely to belong to a man versus a woman, according to how babies are named, via the Social Security Administration data. No attempt was done for close-calls (though there don't seem to be many of those) -- and people such as __C.K.McClatchy__ are just left out.
+No attempt at disambiguating the guess was done for close-calls (though there don't seem to be many of those) -- and people such as __C.K.McClatchy__ are just left out.
 
 However, a quick spot-check of the Pulitzer website seems to confirm the broad generalizations of the analysis. For example, the algorithm did not find a single woman on the board in the 1970s.
 
