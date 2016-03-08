@@ -6,7 +6,7 @@ from gender import detect_gender
 CLASSIFIED_DATA_HEADERS = ['year', 'nid', 'first_name', 'last_name', 'gender', 'job_title', 'employer',
                             'usable_name', 'ratio']
 
-def get_usable_name(namestr):
+def extract_usable_name(namestr):
     """
     `namestr` is something like "William B"
     this function splits namestr by whitespace and returns
@@ -25,7 +25,7 @@ with open(WRANGLED_DATA_FILENAME) as r:
     # read each row
     ct = 0
     for row in datarows:
-        usablename = get_usable_name(row['first_name'])
+        usablename = extract_usable_name(row['first_name'])
         ct += 1
         print("Row:", ct, "extracting --", usablename, "-- from:", row['first_name'])
         gender_result = detect_gender(usablename)
