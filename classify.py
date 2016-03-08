@@ -3,8 +3,8 @@ from os.path import join
 from csv import DictReader, DictWriter
 from gender import detect_gender
 
-CLASSIFIED_DATA_HEADERS = ['year', 'nid', 'first_name', 'last_name', 'job_title', 'employer',
-                            'usable_name', 'gender', 'ratio']
+CLASSIFIED_DATA_HEADERS = ['year', 'nid', 'first_name', 'last_name', 'gender', 'job_title', 'employer',
+                            'usable_name', 'ratio']
 
 def get_usable_name(namestr):
     """
