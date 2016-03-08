@@ -1,0 +1,1595 @@
+[
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "117"
+        },
+        {
+          "tid": "116"
+        },
+        {
+          "tid": "115"
+        },
+        {
+          "tid": "114"
+        },
+        {
+          "tid": "113"
+        },
+        {
+          "tid": "112"
+        },
+        {
+          "tid": "111"
+        },
+        {
+          "tid": "110"
+        },
+        {
+          "tid": "109"
+        },
+        {
+          "tid": "108"
+        },
+        {
+          "tid": "107"
+        },
+        {
+          "tid": "106"
+        },
+        {
+          "tid": "105"
+        },
+        {
+          "tid": "104"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "president"
+        }
+      ]
+    },
+    "field_bio_photo": {
+      "und": [
+        {
+          "filemime": "image/jpeg",
+          "height": "325",
+          "title": "",
+          "filename": "lcbollinger.jpg",
+          "alt": "Lee C. Bollinger",
+          "timestamp": "1440704727",
+          "filesize": "78955",
+          "fid": "1020",
+          "width": "236",
+          "uri": "public://lcbollinger.jpg",
+          "uid": "11",
+          "status": "1"
+        }
+      ]
+    },
+    "changed": "1453309740",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "1"
+        }
+      ]
+    },
+    "nid": "7485",
+    "title": "Lee C. Bollinger",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Bollinger"
+        }
+      ]
+    },
+    "body": {
+      "und": [
+        {
+          "safe_summary": "",
+          "safe_value": "<p><strong>President Lee C. Bollinger</strong> is a renowned legal scholar, with an expertise in free speech and the First Amendment. He is an alumnus of Columbia&#39;s Law School, where he is also a professor. He became president of Columbia University on June 1, 2002.&nbsp;</p><p>Born in Santa Rosa, California, Bollinger was raised there and in Baker City, Oregon. He went on to graduate from the University of Oregon in 1968 and received a J.D. from Columbia Law School. He served as a law clerk to Judge Wilfred Feinberg of the United States Court of Appeals for the Second Circuit and Chief Justice Warren Burger of the U.S. Supreme Court. Bollinger went on to join the faculty of the University of Michigan Law School in 1973, becoming dean of the school in 1987. He became provost of Dartmouth College in 1994 before returning to the University of Michigan in 1996 as president.</p><p>Bollinger has authored many articles and books on the subject of free speech such as <em>The Tolerant Society</em> (Oxford University Press, 1988) and<em> Images of a Free Press</em> (University of Chicago Press, 1991).</p><p>President Bollinger is married to artist Jean Magnano Bollinger. They have two children.</p>"
+        }
+      ]
+    },
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "Columbia University"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "Lee C."
+        }
+      ]
+    },
+    "field_location_text": {
+      "und": [
+        {
+          "safe_value": "New York, NY"
+        }
+      ]
+    }
+  },
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "113"
+        },
+        {
+          "tid": "112"
+        },
+        {
+          "tid": "111"
+        },
+        {
+          "tid": "110"
+        },
+        {
+          "tid": "109"
+        },
+        {
+          "tid": "108"
+        },
+        {
+          "tid": "107"
+        },
+        {
+          "tid": "106"
+        },
+        {
+          "tid": "105"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "editorial page editor"
+        }
+      ]
+    },
+    "field_bio_photo": {
+      "und": [
+        {
+          "filemime": "image/jpeg",
+          "height": "209",
+          "title": "",
+          "filename": "gigot.jpg",
+          "alt": "Paul Gigot",
+          "timestamp": "1439236138",
+          "filesize": "7334",
+          "fid": "883",
+          "width": "132",
+          "uri": "public://gigot.jpg",
+          "uid": "0",
+          "status": "1"
+        }
+      ]
+    },
+    "changed": "1453326922",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "1"
+        }
+      ]
+    },
+    "nid": "7492",
+    "title": "Paul Gigot",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Gigot"
+        }
+      ]
+    },
+    "body": {
+      "und": [
+        {
+          "safe_summary": "",
+          "safe_value": "<p>With nearly 30 years of service with <em>The Wall Street Journal</em>, <strong>Paul Gigot </strong>has been the paper&#39;s editorial page editor and vice president since September 2001. He is responsible for the newspaper&#39;s editorials, op-ed articles and Leisure &amp; Arts criticism and directs the editorial pages of the <em>Journal&#39;s</em> Asian and European editions and the OpinionJournal.com web-site. He is also the host of the weekly half-hour news program, the Journal Editorial Report, on the Fox News Channel. Gigot joined the <em>Journal </em>in 1980 as a reporter in Chicago, and in 1982 he became the Journal&#39;s Asia correspondent, based in Hong Kong. He won an Overseas Press Club award for his reporting on the Philippines. In 1984, he was named the first editorial page editor of <em>The Asian Wall Street Journal</em>, based in Hong Kong. In 1987, he was assigned to Washington, where he contributed editorials and a weekly column on politics, &quot;Potomac Watch,&quot; which won the 2000 Pulitzer Prize for commentary. Gigot is a summa cum laude graduate of Dartmouth College, where he was chairman of the daily student newspaper.</p>"
+        }
+      ]
+    },
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "The Wall Street Journal"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "Paul"
+        }
+      ]
+    },
+    "field_location_text": {
+      "und": [
+        {
+          "safe_value": "New York, NY"
+        }
+      ]
+    }
+  },
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "111"
+        },
+        {
+          "tid": "110"
+        },
+        {
+          "tid": "109"
+        },
+        {
+          "tid": "108"
+        },
+        {
+          "tid": "107"
+        },
+        {
+          "tid": "106"
+        },
+        {
+          "tid": "105"
+        },
+        {
+          "tid": "104"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "retired president and publisher"
+        }
+      ]
+    },
+    "field_bio_photo": {
+      "und": [
+        {
+          "filemime": "image/jpeg",
+          "height": "323",
+          "title": "",
+          "filename": "beckrandell237.jpg",
+          "alt": "Randell Beck",
+          "timestamp": "1440533757",
+          "filesize": "79104",
+          "fid": "1004",
+          "width": "237",
+          "uri": "public://beckrandell237.jpg",
+          "uid": "11",
+          "status": "1"
+        }
+      ]
+    },
+    "changed": "1453831469",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "1"
+        }
+      ]
+    },
+    "nid": "7632",
+    "title": "Randell Beck",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Beck"
+        }
+      ]
+    },
+    "body": {
+      "und": [
+        {
+          "safe_summary": "",
+          "safe_value": "<p><strong>Randell Beck</strong>, as the prize-winning executive editor of the <em>Argus Leader </em>from 2001 to 2008, led his newspaper through numerous public service, investigative and First Amendment projects. Those included a legal battle that resulted in a landmark state Supreme Court ruling in 2005 unsealing more than 200 criminal pardons issued secretly by the governor of South Dakota.</p><p>Under his direction, the newspaper was also recognized as an industry leader for its recruitment and promotion of journalists of color. Beck chairs a panel of journalists and academics that organizes and hosts the largest training effort of its kind for young Native American journalists.</p><p>Beck recently received the Award for Editorial Leadership from the American Society for Newspaper Editors. Given annually since 2001, the award honors individuals who have &ldquo;championed great journalism during their careers.&rdquo; A graduate of the University of Missouri&rsquo;s School of Journalism, he began his career at the now-defunct <em>Memphis Press-Scimitar</em> as a courts and police reporter in 1979. From 1983 to 1987, he worked at the <em>Knoxville</em> (Tenn.) <em>Journal </em>as reporter covering energy and environment issues. He joined the <em>Kansas City Star </em>in 1987 as a general assignment reporter and became an editor two years later. Beck became assistant managing editor at the <em>San Bernardino County</em> (Calif.) <em>Sun</em> in 1996. In 1998, he joined <em>The News Journal </em>in Wilmington, Del., and served as managing editor of that newspaper from 1999 to 2001.</p>"
+        }
+      ]
+    },
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "Argus Leader Media"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "Randell"
+        }
+      ]
+    },
+    "field_location_text": {
+      "und": [
+        {
+          "safe_value": "Sioux Falls, SD"
+        }
+      ]
+    }
+  },
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "111"
+        },
+        {
+          "tid": "110"
+        },
+        {
+          "tid": "109"
+        },
+        {
+          "tid": "108"
+        },
+        {
+          "tid": "107"
+        },
+        {
+          "tid": "106"
+        },
+        {
+          "tid": "105"
+        },
+        {
+          "tid": "104"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "vice president/editorial page editor"
+        }
+      ]
+    },
+    "field_bio_photo": {
+      "und": [
+        {
+          "filemime": "image/jpeg",
+          "height": "150",
+          "title": "",
+          "filename": "willeysmall.jpg",
+          "alt": "Keven Ann Willey",
+          "timestamp": "1439236146",
+          "filesize": "33847",
+          "fid": "917",
+          "width": "154",
+          "uri": "public://willeysmall.jpg",
+          "uid": "0",
+          "status": "1"
+        }
+      ]
+    },
+    "changed": "1453386321",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "1"
+        }
+      ]
+    },
+    "nid": "7633",
+    "title": "Keven Ann Willey",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Willey"
+        }
+      ]
+    },
+    "body": {
+      "und": [
+        {
+          "safe_summary": "",
+          "safe_value": "<p><strong>Keven Ann Willey</strong>, a native of Washington, D.C., became vice president and editorial page editor of <em>The Dallas Morning News </em>in November 2002. Her editorial department&rsquo;s successful four-year campaign to amend the state constitution to require legislators to publicly record their votes by name was a finalist for the 2008 Pulitzer Prize in editorial writing. Willey received the 2007 Mayborn Award for Community Service from the Texas Daily Newspaper Association and the 2007 James Madison Award from the Freedom of Information Foundation of Texas for the recorded votes effort. Those editorials also won the 2004 Scripps Howard Foundation National Journalism Award for Distinguished Service to the First Amendment.</p><p>Willey attended the University of Arizona and studied briefly in Europe and in Guadalajara, Mexico. She spent the majority of her college career at Northern Arizona University in Flagstaff, where she graduated magna cum laude in 1980 with a bachelor&rsquo;s degree in journalism with emphasis in political science and Spanish. She is a 2001 graduate of the Management Development Program sponsored by the Kellogg Graduate School of Management and the Medill School of Journalism at Northwestern University. She was named a Hoover Fellow at Stanford University.</p><p>Willey began her journalism career at The Associated Press in Phoenix, and later in 1980 joined <em>The Arizona Republic</em> in Phoenix. She spent 1987 to 1988 covering the presidential campaign and has covered eight national political conventions. Willey became <em>The Republic</em>&rsquo;s political columnist in 1989 and was named editorial page editor in 1998. Under her direction <em>The Republic</em>&rsquo;s editorial pages were twice named finalists for the Pulitzer Prize.</p><p>A 2008 Pulitzer Prize jurist, Willey was the 2006 to 2007 president of the Texas Associated Press Managing Editors, a statewide organization of newspaper editors, and is a former board member of the National Conference of Editorial Writers. She is currently a board member of the SMU Tate Lecture Series and a member of the World Affairs Council of Dallas-Fort Worth.</p><p>In years past, Willey won many awards for news writing, column writing and editorial writing, including an award from The Associated Press Managing Editors. She is a former president of the First Amendment Coalition of Arizona and a founding board member of First Amendment Funding Inc. Her work has appeared in <em>The New York Times,</em> and she has been featured on PBS, NPR, CNN, C-SPAN and numerous other television and radio stations nationwide.</p><p>Keven Ann Willey joined the Pulitzer Prize Board in 2009.</p>"
+        }
+      ]
+    },
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "The Dallas Morning News"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "Keven Ann"
+        }
+      ]
+    },
+    "field_location_text": []
+  },
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "109"
+        },
+        {
+          "tid": "108"
+        },
+        {
+          "tid": "107"
+        },
+        {
+          "tid": "106"
+        },
+        {
+          "tid": "105"
+        },
+        {
+          "tid": "104"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "columnist and associate editor"
+        }
+      ]
+    },
+    "field_bio_photo": {
+      "und": [
+        {
+          "filemime": "image/jpeg",
+          "height": "301",
+          "title": "",
+          "filename": "Robinsonboard.jpg",
+          "alt": "Eugene Robinson",
+          "timestamp": "1439236152",
+          "filesize": "48352",
+          "fid": "924",
+          "width": "200",
+          "uri": "public://Robinsonboard.jpg",
+          "uid": "0",
+          "status": "1"
+        }
+      ]
+    },
+    "changed": "1453310365",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "1"
+        }
+      ]
+    },
+    "nid": "7699",
+    "title": "Eugene Robinson",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Robinson"
+        }
+      ]
+    },
+    "body": {
+      "und": [
+        {
+          "safe_summary": "",
+          "safe_value": "<p>A 30-year veteran of <i>The Washington Post</i>, <b>Eugene Robinson</b> launched his twice-weekly column on the paper&rsquo;s op-ed page in February 2005, and within a year it was syndicated to more than 130 newspapers &ndash; making it the fastest-growing column in the history of the Washington Post Writers Group.</p><p>In 2009, he won The Pulitzer Prize for Commentary for his columns about the 2008 presidential campaign and the election of President Barack Obama.</p><p>Robinson&rsquo;s essays on politics, culture and events have helped shape the debate on issues such as the war in Iraq, the limits of presidential power and the rebuilding of the hurricane-ravaged Gulf Coast. He is a regular commentator on NBC&rsquo;s &ldquo;Meet the Press&rdquo; and also appears frequently on MSNBC, CNN and other media outlets.</p><p>Robinson was born and raised in Orangeburg, S.C., graduating from Orangeburg High School, where he was one of a handful of black students on the previously all-white campus. He attended the University of Michigan, where during his senior year he was the first black student to be named co-editor-in-chief of the award-winning student newspaper,<i> The Michigan Daily.</i></p><p>Robinson began his journalism career at the <i>San Francisco Chronicle</i>, covering such stories as the trial of kidnapped newspaper heiress Patricia Hearst. He joined <i>The Washington Post</i> in 1980 as city hall reporter, covering the first term of Marion Barry, Washington&rsquo;s controversial mayor. He became an assistant city editor in 1981, and in 1984 was promoted to city editor, in charge of the paper&rsquo;s coverage of the District of Columbia. During the 1987-88 academic year, Robinson was a Neiman Fellow in Journalism at Harvard University, where he studied Latin American history and politics and the Spanish language.</p><p>On his return to the paper he was named the Post&rsquo;s South America correspondent, based in Buenos Aires, Argentina, a post he held from 1988 to 1992. Subsequently he was London bureau chief from 1992 to 1994, before returning to Washington to become the paper&rsquo;s foreign editor.</p><p>In January 1999, Robinson became an assistant managing editor, in charge of the Style section, which during his tenure won two Pulitzer Prizes and two Missouri Lifestyle Awards as the best newspaper feature section in the nation. His appointment as associate editor and columnist became effective January 1, 2005.</p><p>In January 2008, Robinson became a political analyst and commentator for MSNBC. He appears several times a week on MSNBC shows including &ldquo;Hardball&rdquo; and &ldquo;Countdown with Keith Olbermann.&rdquo; He also was a regular contributor to the network&rsquo;s coverage of the 2008 presidential campaign.</p><p>The recipient of numerous journalism awards, Robinson is on the board of the International Women&#39;s Media Foundation and is a member of the National Association of Black Journalists. He is the author of three books: <i>Coal to Cream: A Black Man&rsquo;s Journey Beyond Color to an Affirmation of Race</i> (Free Press, 1999); <i>Last Dance in Havana</i> (Free Press, 2004) and <i>Disintegration: The Splintering of Black America</i> (Doubleday, 2010).</p><p>Robinson is married, has two sons, and lives in Arlington, Virginia.</p><p>Robinson joined the Pulitzer Prize Board in 2010.</p>"
+        }
+      ]
+    },
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "The Washington Post"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "Eugene"
+        }
+      ]
+    },
+    "field_location_text": []
+  },
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "109"
+        },
+        {
+          "tid": "108"
+        },
+        {
+          "tid": "107"
+        },
+        {
+          "tid": "106"
+        },
+        {
+          "tid": "105"
+        },
+        {
+          "tid": "104"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "author and Rudge and Nancy Allen Professor of Writing"
+        }
+      ]
+    },
+    "field_bio_photo": {
+      "und": [
+        {
+          "filemime": "image/jpeg",
+          "height": "300",
+          "title": "",
+          "filename": "junotdiaz2.jpg",
+          "alt": "Junot Diaz",
+          "timestamp": "1441038300",
+          "filesize": "108459",
+          "fid": "1023",
+          "width": "349",
+          "uri": "public://junotdiaz2.jpg",
+          "uid": "11",
+          "status": "1"
+        }
+      ]
+    },
+    "changed": "1453309535",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "1"
+        }
+      ]
+    },
+    "nid": "7700",
+    "title": "Junot D\u00edaz",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "D\u00edaz"
+        }
+      ]
+    },
+    "body": {
+      "und": [
+        {
+          "safe_summary": "",
+          "safe_value": "<p>A creative writing professor at the Massachusetts Institute of Technology, <strong>Junot D\u00edaz</strong> won the 2008 Pulitzer Prize for Fiction for his best-selling first novel, <em>The Brief Wondrous Life of Oscar Wao</em>.</p><p>The Pulitzer Board described the work as &ldquo;a dazzling, richly layered novel about an overweight, nerdy Dominican-American teenager who comes of age in a multi-generational immigrant family, devouring comic books, spinning fantasies and searching for love.&rdquo;</p><p>Widely acclaimed, the book also won the John Sargent Sr. First Novel Prize, the National Book Critics Circle Award, the Anisfield-Wolf Book Award and the Dayton Literary Peace Prize. &ldquo;Funny, street-smart and keenly observed,&rdquo; a <em>New York Times</em> review of the novel said. &ldquo;An extraordinarily vibrant book that&rsquo;s fueled by adrenaline-powered prose.&rdquo;</p><p>D\u00edaz was born in Santo Domingo, Dominican Republic, and emigrated to New Jersey as a child. Working his way through college, he graduated from Rutgers University with a degree in English.</p><p>D\u00edaz preceded his Pulitzer-winning work with <em>Drown</em>, a debut collection of 10 short stories narrated by adolescent Dominican males living in hard-pressed communities in the Dominican Republic, New York and New Jersey. &ldquo;These stories,&rdquo; said <em>Publisher&rsquo;s Weekly</em>, &ldquo;chronicle their outwardly cool but inwardly anguished attempts to recreate themselves in the midst of eroding family structures and their own burgeoning sexuality.&rdquo;</p><p>D\u00edaz&rsquo;s fiction has also appeared in <em>The New Yorker</em>, <em>African Voices, Best American Short Stories</em> (1996, 1997, 1999, 2000), in Pushcart Prize XXII and in <em>The O&#39;Henry Prize Stories</em> 2009. He is the fiction editor at the<em> Boston Review</em>.</p><p>Much in demand as a speaker, D\u00edaz has been honored frequently for his work. He has received a Eugene McDermott Award, a fellowship from the John Simon Guggenheim Memorial Foundation, a Lila Acheson Wallace Readers Digest Award, the 2002 Pen/Malamud Award, the 2003 US-Japan Creative Artist Fellowship from the National Endowment for the Arts, a fellowship at the Radcliffe Institute for Advanced Study at Harvard University and the Rome Prize from the American Academy of Arts and Letters. Diaz joined the Pulitzer Prize Board in 2010.</p>"
+        }
+      ]
+    },
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "Massachusetts Institute of Technology"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "Junot"
+        }
+      ]
+    },
+    "field_location_text": []
+  },
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "108"
+        },
+        {
+          "tid": "107"
+        },
+        {
+          "tid": "106"
+        },
+        {
+          "tid": "105"
+        },
+        {
+          "tid": "104"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "Roy F. and Jeanette P. Nichols Professor of History"
+        }
+      ]
+    },
+    "field_bio_photo": {
+      "und": [
+        {
+          "filemime": "image/jpeg",
+          "height": "331",
+          "title": "",
+          "filename": "hahn.jpg",
+          "alt": "Steven Hahn",
+          "timestamp": "1440534828",
+          "filesize": "74139",
+          "fid": "1005",
+          "width": "442",
+          "uri": "public://hahn.jpg",
+          "uid": "11",
+          "status": "1"
+        }
+      ]
+    },
+    "changed": "1453310161",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "1"
+        }
+      ]
+    },
+    "nid": "7703",
+    "title": "Steven Hahn",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Hahn"
+        }
+      ]
+    },
+    "body": {
+      "und": [
+        {
+          "safe_summary": "",
+          "safe_value": "<p><strong>Steven Hahn</strong>, the Roy F. and Jeannette P. Nichols Professor of History at the University of Pennsylvania, has written extensively about the American South, African-American history and the international history of slavery, emancipation and race. In 2004, he won the Pulitzer Prize for history for <em>A Nation under Our Feet: Black Political Struggles in the Rural South from Slavery to the Great Migration. </em>The book also received the Bancroft Prize (best book in American history), and the Merle Curti Prize in Social History given by the Organization of American Historians.</p><p>Hahn&rsquo;s historical work has taken many forms. His other books include <em>The Roots of Southern Populism</em> (1983), <em>The Countryside in the Age of Capitalist Transformation</em> (1985) and, most recently, <em>The Political Worlds of Slavery and Freedom</em> (2009). He is also co-editor of <em>Freedom: A Documentary History of Emancipation</em> (2009). Currently, he is writing a book for the Penguin/Viking History of the United States series entitled, <em>A Nation without Borders: The United States and Its World, 1830-1900,</em> as well as a textbook for Bedford-St. Martin&rsquo;s Press, <em>Colonies, Nations, Empires: A History of the United States and the People Who Made It</em>.</p><p>Hahn&rsquo;s articles have appeared in the <em>American Historical Review, Past and Present, the Journal of Southern History</em>, and the <em>Journal of American History</em>, as well as in <em>The New Republic, Dissent, Le Monde Diplomatique</em>, and the <em>Chronicle of Higher Education</em>.</p><p>Through the years, Hahn&rsquo;s scholarship has often been recognized with major awards. In 1984, <em>The Roots of Southern Populism</em> received the Allan Nevins Prize of the Society of American Historians and the Frederick Jackson Turner Award of the Organization of American Historians (best first book in American history). In 1991, his article, &quot;Class and State in Post-emancipation Societies,&quot; in the <em>American Historical Review</em>, received the ABC-Clio History and Life Award for the best essay in the journal literature. He is also the recipient of numerous fellowships, including ones from the John Simon Guggenheim Foundation, the American Council of Learned Societies, and the Center for Advanced Study in the Behavioral Sciences at Stanford. He is an elected member of the Society of American Historians.</p><p>Hahn received his Ph.D. from Yale University (1979) and has also taught at the University of Delaware, the University of California at San Diego, and Northwestern University. He has delivered keynote addresses at many scholarly conferences and university events and has been appointed Pitt Professor at Cambridge University, Lawrence Stone Visiting Professor at Princeton University, and the Nathan I. Huggins Lecturer at Harvard University. His teaching has been recognized with major awards at the University of California at San Diego, Northwestern, and the University of Pennsylvania.</p><p>Hahn has been an expert witness on behalf of the Lawyers Committee for Civil Rights Under Law and the NAACP Legal Defense Fund, and for the past three decades, he has been actively involved in promoting the teaching of history in the public schools in cooperation with the American Council of Learned Societies, the California History Project, and the Gilder Lehrman Foundation. For two years in Chicago he worked with the Odyssey Program, making college-level courses available to interested, though economically disadvantaged, adults.</p><p>Hahn lives in Bryn Mawr, Penn., and has two children, Declan, 17, and Saoirse, 14.</p><p>Steven Hahn joined the Pulitzer Prize Board in 2011.</p>"
+        }
+      ]
+    },
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "University of Pennsylvania"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "Steven"
+        }
+      ]
+    },
+    "field_location_text": {
+      "und": [
+        {
+          "safe_value": "Philadelphia"
+        }
+      ]
+    }
+  },
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "107"
+        },
+        {
+          "tid": "106"
+        },
+        {
+          "tid": "105"
+        },
+        {
+          "tid": "104"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "editor-in-chief"
+        }
+      ]
+    },
+    "field_bio_photo": {
+      "und": [
+        {
+          "filemime": "image/jpeg",
+          "height": "210",
+          "title": "",
+          "filename": "engelberg.jpg",
+          "alt": "Stephen Engelberg",
+          "timestamp": "1440190593",
+          "filesize": "56139",
+          "fid": "996",
+          "width": "200",
+          "uri": "public://engelberg.jpg",
+          "uid": "11",
+          "status": "1"
+        }
+      ]
+    },
+    "changed": "1453386462",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "1"
+        }
+      ]
+    },
+    "nid": "7707",
+    "title": "Stephen Engelberg",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Engelberg"
+        }
+      ]
+    },
+    "body": {
+      "und": [
+        {
+          "safe_summary": "",
+          "safe_value": "<p><strong>Stephen Engelberg </strong>became ProPublica&#39;s editor-in-chief on Jan. 1, 2013. He oversees its day-to-day editorial operations, long-term projects and Web strategy. During his time as managing editor, ProPublica became the first online news organization to win Pulitzer Prizes. In 2010, it won the Investigative Reporting prize for chronicling the life-and-death decisions by a hospital&rsquo;s exhausted doctors when they were isolated by the floodwaters of Hurricane Katrina. A year later, it won the National Reporting prize for exposing Wall Street practices that contributed to the nation&rsquo;s economic meltdown. Before joining ProPublica, he worked for <em>The Norfolk Virginian-Pilot, The Dallas Morning News, The New York Times</em> and <em>The Oregonian</em> of Portland, Ore., where he was a managing editor. During his years at <em>The Oregonian</em>, the paper won the Pulitzer for Breaking News Reporting and was a finalist for its investigative work on methamphetamines and on charities intended to help the disabled. Engelberg was with <em>The Times</em> for 18 years, including stints in Washington, DC, and Warsaw, Poland, as well as in New York. After serving as the bureau chief in Warsaw following the collapse of Communism, he resumed work as an investigative reporter. Engelberg shared in two George Polk Awards for reporting: the first, in 1989, for articles on nuclear proliferation; the second, in 1994, for articles on U.S. immigration. He was a finalist for the Pulitzer Prize as a reporter in 1998 for an investigation of the crash of a commuter airplane. Since 1996, Engelberg has concentrated on editing investigative projects. Engelberg was the first editor of The Times&rsquo; investigative unit and directed teams of reporters who won Pulitzer Prizes for national, foreign and explanatory journalism. Among the winning projects were ones that examined Mexican corruption (published in 1997) and the rise of Al Qaeda (published beginning in January 2001). Engelberg is the co-author of <em>Germs: Biological Weapons and America&rsquo;s Secret War.</em> He shared an Emmy in 2001 for work on a documentary on biological warfare by the PBS program Nova. A native of Lexington, Mass., Engelberg graduated from Princeton University in 1979 with a degree in history. He lives in Montclair, N.J., with his wife, Gabrielle Glaser, and three daughters. Stephen Engelberg joined The Pulitzer Prize Board in 2012.</p>"
+        }
+      ]
+    },
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "ProPublica"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "Stephen"
+        }
+      ]
+    },
+    "field_location_text": []
+  },
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "107"
+        },
+        {
+          "tid": "106"
+        },
+        {
+          "tid": "105"
+        },
+        {
+          "tid": "104"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "vice president and executive editor"
+        }
+      ]
+    },
+    "field_bio_photo": {
+      "und": [
+        {
+          "filemime": "image/jpeg",
+          "height": "255",
+          "title": "",
+          "filename": "gonzalezannounce.jpg",
+          "alt": "Aminda Marqu\u00e9s Gonzalez",
+          "timestamp": "1440185838",
+          "filesize": "34403",
+          "fid": "992",
+          "width": "200",
+          "uri": "public://gonzalezannounce.jpg",
+          "uid": "11",
+          "status": "1"
+        }
+      ]
+    },
+    "changed": "1453310285",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "1"
+        }
+      ]
+    },
+    "nid": "7708",
+    "title": "Aminda Marqu\u00e9s Gonzalez",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Marqu\u00e9s Gonzalez"
+        }
+      ]
+    },
+    "body": {
+      "und": [
+        {
+          "safe_summary": "",
+          "safe_value": "<p>As executive editor of <em>The Miami Herald</em>, Aminda Marqu\u00e9s Gonzalez has oversight and responsibility for the newspaper&rsquo;s print and online news operation, which reaches 1.2 million readers a week. A 1986 graduate of the University of Florida, she began her journalism career 25 years ago as a summer intern at the newspaper covering community news. During nearly a decade of local reporting, Marqu\u00e9s went on to cover Hialeah, the second largest city in the newspaper&rsquo;s home county, and followed the landmark case involving the Santeria religion to the U.S. Supreme Court. She moved to editing in 1994, where she directed government reporting, local politics and breaking news. Named deputy metro editor in 2000, she oversaw metro, state and community news operations. From 2002 to 2007, Marqu\u00e9s was Miami bureau chief for <em>People</em> magazine, overseeing coverage for the southeast U.S., the Caribbean and Latin America. She returned to <em>The Miami Herald</em> in 2007 as a multimedia editor to help launch Miami.com, the newspaper&rsquo;s entertainment website. As executive features/Sunday editor, she directed a redesign of the lifestyle sections from tabloid to broadsheet. She also was responsible for the newsroom&rsquo;s enterprise stories and for oversight of the Sunday paper. Named managing editor in 2010, Marqu\u00e9s led a wide-ranging newsroom reorganization building teams around content, design and the distribution of stories across platforms. During her tenure as managing editor, <em>The Miami Herald</em> was a 2011 Pulitzer Prize finalist for coverage of the earthquake in Haiti. In November 2010, Marqu\u00e9s was named executive editor, the newspaper&rsquo;s first Hispanic editor and only the second woman to hold the post. During her editorship, <em>The Miami Herald</em> was a 2012 finalist for the Pulitzer Prize in Public Service for a series detailing the state&rsquo;s systemic failures in regulating assisted-living facilities. She is a member of the National Advisory Board of the Poynter Institute, sits on the board of the Associated Press Media Editors and has served as a Pulitzer journalism juror. She was named one of the 2011-2012 Alumni of Distinction for the University of Florida College of Journalism and Communications. Marqu\u00e9s and her husband have two children. Marqu\u00e9s joined The Pulitzer Prize Board in 2012.</p>"
+        }
+      ]
+    },
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "The Miami Herald"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "Aminda"
+        }
+      ]
+    },
+    "field_location_text": []
+  },
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "107"
+        },
+        {
+          "tid": "106"
+        },
+        {
+          "tid": "105"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "playwright"
+        }
+      ]
+    },
+    "field_bio_photo": {
+      "und": [
+        {
+          "filemime": "image/jpeg",
+          "height": "319",
+          "title": "",
+          "filename": "hudes250.jpg",
+          "alt": "Quiara Alegr\u00eda Hudes",
+          "timestamp": "1440528429",
+          "filesize": "71120",
+          "fid": "1000",
+          "width": "250",
+          "uri": "public://hudes250.jpg",
+          "uid": "11",
+          "status": "1"
+        }
+      ]
+    },
+    "changed": "1455640786",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "1"
+        }
+      ]
+    },
+    "nid": "7709",
+    "title": "Quiara Alegr\u00eda Hudes",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Hudes"
+        }
+      ]
+    },
+    "body": {
+      "und": [
+        {
+          "safe_summary": "",
+          "safe_value": "<p>A playwright and educator, <strong>Quiara Alegr\u00eda Hudes</strong> won the 2012 Pulitzer Prize for Drama for her play <em>Water by the Spoonful</em>. <em>Variety </em>hailed the play as &ldquo;a combination poem, prayer and app on how to cope in an age of uncertainty, speed and chaos.&rdquo;</p><p>Hudes made her New York debut with the drama <em>Elliot, A Soldier&rsquo;s Fugue</em>, which was a finalist for the Pulitzer Prize for Drama in 2007. <em>The New York Times </em>welcomed Hudes&#39; &quot;confident and arresting voice,&quot; calling the play &quot;a theater work that succeeds on every level while creating something new.&quot;</p><p>Hudes&rsquo; book for Broadway&rsquo;s <em>In the Heights</em> was also a Pulitzer finalist and a Tony nominee, and the piece won the Tony Award for Best Musical in 2008 before touring nationally and internationally to widespread acclaim. <em>New York</em> magazine called <em>In the Heights </em>&quot;an extraordinary blend of old and new, a stylistically groundbreaking 21st-century musical.&quot;</p><p>Originally trained as a musician, Hudes studied classical piano, Afro-Cuban piano, American music, and composition. She received a bachelor&rsquo;s degree in music composition from Yale University and a master of fine arts degree in playwriting from Brown University. Though she no longer composes, Hudes continues to engage music as a deep and common thread in her playwriting. She has collaborated with master musicians like Michel Camilo and Nelson Gonzales, folding their profound musical expression into her dramatic structures.</p><p>Hudes serves on the Dramatists Guild Council and as a Board Member at Philadelphia Young Playwrights, the organization that produced her first play in the 10th grade. Much of Hudes&rsquo; writing is set in Philadelphia, her hometown. She has been honored for her creative exploration of that city&rsquo;s divergent communities, including a Resolution from the City of Philadelphia and her personal favorite honor &ndash; being among the first group of women inducted into the Central High School Hall of Fame since the public school&rsquo;s founding in 1836.</p><p>Hudes lives in New York with her husband and daughter.</p><p>Quiara Alegr\u00eda Hudes joined The Pulitzer Prize Board in 2012.</p>"
+        }
+      ]
+    },
+    "field_employer": [],
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "Quiara Alegr\u00eda"
+        }
+      ]
+    },
+    "field_location_text": {
+      "und": [
+        {
+          "safe_value": "New York, NY"
+        }
+      ]
+    }
+  },
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "106"
+        },
+        {
+          "tid": "105"
+        },
+        {
+          "tid": "104"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "dean"
+        }
+      ]
+    },
+    "field_bio_photo": {
+      "und": [
+        {
+          "filemime": "image/jpeg",
+          "height": "216",
+          "title": "",
+          "filename": "stevecoll200.jpg",
+          "alt": "Steve Coll",
+          "timestamp": "1440184238",
+          "filesize": "58858",
+          "fid": "989",
+          "width": "200",
+          "uri": "public://stevecoll200.jpg",
+          "uid": "11",
+          "status": "1"
+        }
+      ]
+    },
+    "changed": "1453309918",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "1"
+        }
+      ]
+    },
+    "nid": "7711",
+    "title": "Steve Coll",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Coll"
+        }
+      ]
+    },
+    "body": {
+      "und": [
+        {
+          "safe_summary": "",
+          "safe_value": "<p>After a distinguished 20-year career at <em>The Washington Post</em>, rising from general assignment reporter to managing editor, <strong>Steve Coll</strong> joined <em>The New Yorker</em> staff in 2005. The author of seven books, he has also served as president of the New America Foundation, a nonpartisan research and public policy institution, since 2007. He plans to step down as foundation president after a successor is selected. Coll has twice received the Pulitzer Prize, once for Explanatory Reporting, for a series of <em>Washington Post</em> articles that he co-authored with David A. Vise in 1990 about the Securities and Exchange Commission, and in 2005, for General Nonfiction, for his book, <em>Ghost Wars: The Secret History of the C.I.A., Afghanistan, and Bin Laden, From the Soviet Invasion to September 10, 2001</em>. Joining <em>The Washington Post in 1985 </em>as a reporter, Coll moved two years later to New York City to cover the world of corporate takeovers on Wall Street, the stock market crash, the Michael Milken investigations and the SEC as the newspaper&rsquo;s financial correspondent. In 1989, he moved to New Delhi to become the paper&rsquo;s South Asia correspondent. For three years he covered India, Pakistan, Afghanistan, Sri Lanka and Nepal. In 1992, he was appointed the newspaper&rsquo;s first international investigative correspondent, based in London, from where he traveled widely to cover emerging trans-national subjects such as terrorism, nuclear proliferation and global economic integration. His other professional awards include the 1992 Livingston Award for outstanding foreign reporting. He received the 2000 Robert F. Kennedy Memorial Award for his coverage of the civil war in Sierra Leone, as well as the Overseas Press Club Award for international magazine writing. His 2008 book, <em>The Bin Ladens: An Arabian Family in the American Century</em>, received P.E.N. America&rsquo;s John Kenneth Galbraith prize, and was a Pulitzer finalist in Biography. His latest book, <em>Private Empire: ExxonMobil and American Power</em>, has been shortlisted for the Financial Times/Goldman Sachs Business Book of the Year award. His other books are: <em>The Deal of the Century: The Break Up of AT&amp;T</em> (1986); <em>The Taking of Getty Oil</em> (1987); <em>Eagle on the Street</em>, based on the Pulitzer-winning account of the SEC&#39;s battle with Wall Street (with David A. Vise, 1991); <em>On the Grand Trunk Road: A Journey into South Asia</em> (1994). Coll graduated cum laude and a member of Phi Beta Kappa, from Occidental College in 1980 with a degree in English and history. He lives in New York. Steve Coll joined the Pulitzer Prize Board in 2012.</p>"
+        }
+      ]
+    },
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "Graduate School of Journalism,  Columbia University"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "Steve"
+        }
+      ]
+    },
+    "field_location_text": []
+  },
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "106"
+        },
+        {
+          "tid": "105"
+        },
+        {
+          "tid": "104"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "vice president for international news"
+        }
+      ]
+    },
+    "field_bio_photo": {
+      "und": [
+        {
+          "filemime": "image/jpeg",
+          "height": "296",
+          "title": "",
+          "filename": "jjd200.jpg",
+          "alt": "John Daniszewski",
+          "timestamp": "1440188091",
+          "filesize": "56992",
+          "fid": "994",
+          "width": "200",
+          "uri": "public://jjd200.jpg",
+          "uid": "11",
+          "status": "1"
+        }
+      ]
+    },
+    "changed": "1453310019",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "1"
+        }
+      ]
+    },
+    "nid": "7712",
+    "title": "John Daniszewski",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Daniszewski"
+        }
+      ]
+    },
+    "body": {
+      "und": [
+        {
+          "safe_summary": "",
+          "safe_value": "<p><strong>John Daniszewski </strong>became AP&rsquo;s vice president for international news in 2009 after three decades as a reporter, editor and correspondent who has been on assignment in more than 70 countries in Europe, Africa, the Middle East, Latin America and Asia. He is responsible for more than 500 editors and reporters in some 100 bureaus outside the United States producing coverage from some of the most complex and challenging news-gathering environments. Daniszewski played a central role in AP&rsquo;s opening of the first Western news and photo bureau in Pyongyang, North Korea, in 2012, and the Yangon, Myanmar, bureau earlier in 2013 -- the first return to that country by a Western news agency after decades of strict military rule. He worked for the <em>Los Angeles Times</em> from 1996-2006, serving as bureau chief in Cairo, Moscow, Baghdad and London. In 2001, he covered the aftermath of the 9/11 attacks in Pakistan and Afghanistan, and he stayed in Baghdad throughout the U.S. invasion and the toppling of Saddam Hussein&#39;s regime in 2003. He was part of a team that won an Overseas Press Club award in 2007 and that was a Pulitzer Prize finalist that year for coverage of Iraq&rsquo;s descent into civil war. Daniszewski began his journalism career as a stringer for the AP while an undergraduate at the University of Pennsylvania. He joined the AP staff in Philadelphia in 1979 and later worked in Harrisburg and on the national and international editing desks in New York. In 1987, he was assigned overseas to Warsaw, Poland. There he covered the revival of Solidarity and the end of Communist rule. In 1989, he was shot and wounded in Timisoara, Romania, during the uprising against Nicolae Ceausescu&rsquo;s communist regime. He later covered wars across the former Yugoslavia, including the siege of Sarajevo. In 1993, he became AP&rsquo;s bureau chief in Johannesburg, South Africa. He led the AP&rsquo;s coverage of the election of President Nelson Mandela and the end of apartheid before leaving in 1996 to go to the Times. He returned to AP as international editor in 2006 and was named a managing editor the next year. Daniszewski graduated from the University of Pennsylvania&rsquo;s Wharton School. An Ohio native, he is married to Dru Menaker, senior media advisor for the international development organization IREX. They live in Nyack, NY, and have two children in college, Benjamin and Anna. He is a member of the North American Committee of the International Press Institute and the Board of Governors of the Overseas Press Club Foundation. John Daniszewski joined the Pulitzer Prize Board in 2014.</p>"
+        }
+      ]
+    },
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "Associated Press"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "John"
+        }
+      ]
+    },
+    "field_location_text": []
+  },
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "106"
+        },
+        {
+          "tid": "105"
+        },
+        {
+          "tid": "104"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "executive editor"
+        }
+      ]
+    },
+    "field_bio_photo": {
+      "und": [
+        {
+          "filemime": "image/jpeg",
+          "height": "285",
+          "title": "",
+          "filename": "blau2.jpg",
+          "alt": "Robert Blau",
+          "timestamp": "1440183010",
+          "filesize": "117830",
+          "fid": "987",
+          "width": "248",
+          "uri": "public://blau2.jpg",
+          "uid": "11",
+          "status": "1"
+        }
+      ]
+    },
+    "changed": "1453309620",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "1"
+        }
+      ]
+    },
+    "nid": "7713",
+    "title": "Robert Blau",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Blau"
+        }
+      ]
+    },
+    "body": {
+      "und": [
+        {
+          "safe_summary": "",
+          "safe_value": "<p><strong>Robert Blau</strong> is executive editor at Bloomberg News, a global newsgathering organization. Blau has carved an eclectic path up the journalistic ranks. After a stint as a freelancer writing about music, he was hired in 1985 by the <em>Chicago Tribune</em>, where his first job was reviewing the movies that Gene Siskel, the paper&rsquo;s famed critic, didn&rsquo;t want to. He moved on to the crime beat, capturing the experience in a memoir, <em>The Cop Shop</em>. Later, as an investigative reporter, he covered everything from mobsters in Chicago to the plight of impoverished children in Cambodia. A series he designed on population issues, &quot;Gambling with Life,&quot; including his portrait of a Chicago mother of 13 children, won the Overseas Press Club award and was a finalist for the Pulitzer Prize. His inaugural editing job was reinventing the paper&rsquo;s opinion section as a home for first-person narrative, from an account of one family&#39;s alcoholism to Saul Bellow&rsquo;s reconstruction of the Democratic conventions of his youth. Following a Nieman Fellowship at Harvard in 1997, Blau assembled the Tribune&rsquo;s projects team, which produced a burst of outstanding work. The team&rsquo;s body of work on the criminal-justice system was largely responsible for the moratorium on capital punishment in Illinois, won numerous national awards and sparked similar investigations across the country. &quot;Gateway to Gridlock,&quot; about the failures of the airline industry, was awarded the 2001 Pulitzer Prize for Explanatory Reporting. Another multi-part narrative traced the fatal trajectory of a single pane of glass that fell from a Chicago skyscraper. And a project portrayed the final days of the accounting firm Arthur Andersen. Each was a Pulitzer finalist. While Blau served as managing editor of <em>The Baltimore Sun</em>, the paper produced a steady stream of investigative work, collecting dozens of honors including the George Polk Award, the Meyer Berger Award, the Loeb Award and the Investigative Reporters and Editors Prize. An investigation into Baltimore&rsquo;s system of &quot;ground rent&quot; was a Pulitzer finalist in Local Reporting. Blau also reorganized the Sun newsroom for the Internet and helped establish a Web-first newsgathering operation. Blau joined Bloomberg News in 2008, and has helped lead its push into global public-service journalism. Its investigations have forced unprecedented transparency from the Federal Reserve, documented the unanticipated ripples of the Lehman Brothers collapse, explored the human cost of the gold-mining industry and tallied the economic and emotional price of end-of-life health care. Blau, a native of New York City, received his undergraduate degree from the State University of New York at Albany, where he studied literature and journalism with novelist William Kennedy. He earned his master&rsquo;s degree from Columbia University&rsquo;s Graduate School of Journalism in 1985. He was a Pulitzer juror in 2010 on the Investigative Reporting jury, and chaired the Public Service jury&rsquo;s deliberations in 2011. Blau is married to Leah Eskin, a food columnist. They have two children, Hannah and Noah. The family lives in Baltimore. Blau joined the Pulitzer Prize Board in Fall, 2011.</p>"
+        }
+      ]
+    },
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "Bloomberg News"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "Robert"
+        }
+      ]
+    },
+    "field_location_text": {
+      "und": [
+        {
+          "safe_value": "New York, NY"
+        }
+      ]
+    }
+  },
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "106"
+        },
+        {
+          "tid": "105"
+        },
+        {
+          "tid": "104"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "staff writer"
+        }
+      ]
+    },
+    "field_bio_photo": {
+      "und": [
+        {
+          "filemime": "image/jpeg",
+          "height": "214",
+          "title": "",
+          "filename": "boo200.jpg",
+          "alt": "Katherine Boo",
+          "timestamp": "1440184614",
+          "filesize": "36225",
+          "fid": "990",
+          "width": "200",
+          "uri": "public://boo200.jpg",
+          "uid": "11",
+          "status": "1"
+        }
+      ]
+    },
+    "changed": "1453309783",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "1"
+        }
+      ]
+    },
+    "nid": "7714",
+    "title": "Katherine Boo",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Boo"
+        }
+      ]
+    },
+    "body": {
+      "und": [
+        {
+          "safe_summary": "",
+          "safe_value": "<p><strong>Katherine Boo</strong>, a staff writer for <em>The New Yorker</em> magazine, was a reporter at <em>The Washington Post</em> when her series on mistreatment of mentally challenged people in Washington, D.C., resulted in the 2000 Pulitzer Prize for Public Service for <em>The Post.</em> The Pulitzer citation praised her work for exposing &quot;wretched neglect and abuse in the city&rsquo;s group homes for the mentally retarded, which forced officials to acknowledge the conditions and begin reforms.&quot; Boo is noted for her work focusing on poverty. In 2012, she won the National Book Award for Nonfiction for &quot;Behind the Beautiful Forevers: Life, Death and Hope in a Mumbai Undercity,&quot; which examined life in the airport slums of Mumbai, India. The book, which was a finalist for a Pulitzer Prize in Nonfiction, also won nonfiction prizes from PEN, the Los Angeles Times Book Awards, the New York Public Library and the American Academy of Arts and Letters. Reared in and around Washington, D.C., Boo began her journalism career at the Washington City Paper and later worked at <em>The Washington Monthly</em>. She joined <em>The Washington Post</em> in 1993, serving first as an editor in the Outlook section, then as an investigative reporter. She left in 2001 to write for <em>The New Yorker</em>. One of her <em>New Yorker</em> articles, &quot;The Marriage Cure,&quot; examined efforts to teach poor people in an Oklahoma community about marriage in the hope that it would help them rise out of poverty. The piece won the National Magazine Award for Feature Writing in 2004. Another <em>New Yorker</em> article, &quot;After Welfare,&quot; won the 2002 Sidney Hillman Award, honoring work that advances social justice. Boo graduated summa cum laude from Barnard College and in 2002 received a McArthur &quot;genius&quot; award. She is married to Sunil Khilnani, a writer and professor who directs the King&rsquo;s India Institute at King&rsquo;s College London. Katherine Boo joined the Pulitzer Prize Board in 2014.</p>"
+        }
+      ]
+    },
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "The New Yorker"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "Katherine"
+        }
+      ]
+    },
+    "field_location_text": []
+  },
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "106"
+        },
+        {
+          "tid": "105"
+        },
+        {
+          "tid": "104"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "op-ed columnist"
+        }
+      ]
+    },
+    "field_bio_photo": {
+      "und": [
+        {
+          "filemime": "image/jpeg",
+          "height": "214",
+          "title": "",
+          "filename": "collins200.jpg",
+          "alt": "Gail Collins",
+          "timestamp": "1440182515",
+          "filesize": "49222",
+          "fid": "986",
+          "width": "200",
+          "uri": "public://collins200.jpg",
+          "uid": "11",
+          "status": "1"
+        }
+      ]
+    },
+    "changed": "1453831606",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "1"
+        }
+      ]
+    },
+    "nid": "7715",
+    "title": "Gail Collins",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Collins"
+        }
+      ]
+    },
+    "body": {
+      "und": [
+        {
+          "safe_summary": "",
+          "safe_value": "<p><strong>Gail Collins</strong> joined the editorial board of <em>The New York Times</em> in 1995 and six years later became the first woman editor of <em>The Times</em>&rsquo; editorial page. At the beginning of 2007, she stepped down and took a leave in order to finish a book, &quot;When Everything Changed: The Amazing Journey of American Women from 1960 to the Present.&quot; She returned to the paper as an Op-Ed columnist later in 2007. Before joining <em>The New York Times</em>, Collins was a columnist at <em>New York Newsday</em> and the <em>New York Daily News</em>. She also was a financial reporter for United Press International. Her first jobs in journalism were in Connecticut. She was a senior editor for <em>Connecticut Magazine</em>, a weekly columnist for the <em>Connecticut Business Journal</em> and the host of a public affairs program for Connecticut Public Television. She founded the Connecticut State News Bureau, which provided coverage of the state capitol and Connecticut politics. When she sold it in 1977, the CSNB was the largest news service of its kind in the country, with more than 30 weekly and daily newspapers. Collins&rsquo; most recent book is &quot;As Texas Goes: How the Lone Star State Hijacked the American Agenda,&quot; published in 2012. She is also the author of &quot;America&rsquo;s Women,&quot; &quot;Scorpion Tongues: Gossip, Celebrity and American Politics,&quot; a biography of William Henry Harrison and &quot;The Millennium Book,&quot; which she co-authored with her husband, Dan Collins, a writer and editor. A native of Cincinnati, Collins is a graduate of Marquette University with a B.A. in journalism, and a graduate of the University of Massachusetts, Amherst, with an M.A. in government. She is a recipient of an Associated Press award for commentary, 1994; a Women in Communications Matrix Award, 1989; and a Meyer Berger Award, Columbia University, 1987. She was a Bagehot Fellow in Economic Journalism at Columbia in 1981-1982. Gail Collins joined The Pulitzer Prize Board in 2014.</p>"
+        }
+      ]
+    },
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "The New York Times"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "Gail"
+        }
+      ]
+    },
+    "field_location_text": []
+  },
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "105"
+        },
+        {
+          "tid": "104"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "Administrator"
+        }
+      ]
+    },
+    "field_bio_photo": {
+      "und": [
+        {
+          "filemime": "image/jpeg",
+          "height": "200",
+          "title": "",
+          "filename": "pridephoto.jpg",
+          "alt": "Mike Pride",
+          "timestamp": "1439236152",
+          "filesize": "31677",
+          "fid": "927",
+          "width": "120",
+          "uri": "public://pridephoto.jpg",
+          "uid": "0",
+          "status": "1"
+        }
+      ]
+    },
+    "changed": "1453832050",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "1"
+        }
+      ]
+    },
+    "nid": "7727",
+    "title": "Mike Pride",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Pride"
+        }
+      ]
+    },
+    "body": {
+      "und": [
+        {
+          "safe_summary": "",
+          "safe_value": "<p><strong>Mike Pride</strong> is the administrator of the Pulitzer Prizes and editor emeritus of the Concord (N.H.) Monitor, where he ran the newsroom for 30 years.</p><p>During his tenure as editor of the Monitor, the paper was often cited for excellence in journalism. TIME once described it as one of the best papers in the country, and it was chosen as a New England Newspaper of the Year 19 times. The National Press Foundation named Pride national editor of the year in 1986 for guiding the Monitor&rsquo;s coverage of the Challenger disaster. He later won the Yankee Quill Award for contributions to New England Journalism.</p><p>Pride was a Nieman Fellow at Harvard University in 1984-85 and has also been a fellow at Stanford University and a scholar-in-residence at Gettysburg College. He has written extensively about politics, poetry, journalism and history and in the early 2000s served as a regular columnist for Brill&rsquo;s Content. His work has also appeared in Newsweek, The Boston Globe, the Baltimore Sun, Historical New Hampshire, Green Mountains Review, Sewanee Review, Nieman Reports, Columbia Journalism Review and many other publications.</p><p>He has authored or co-authored four books on New Hampshire history: My Brave Boys, The New Hampshire Century, Abraham Lincoln in New Hampshire, We Went to War and Our War. He also helped Steve Raymond, a Bataan Death March survivor, compile and publish his memoir, Too Dead to Die.</p><p>Pride grew up in Florida. He attended the University of Florida and the University of South Florida, where he received a B.A. in American Studies and also did graduate work in American history. He served in the US. Army from 1966 to 1970. &nbsp;Before his move to New Hampshire, he worked at the St. Petersburg Times, The Tampa Tribune, the Clearwater Sun and the Tallahassee Democrat.</p><p>Pride served on four Pulitzer Prize journalism juries and judged the American Society of Newspaper Editors writing awards. He was a member of the Pulitzer Prize board from 1999 through 2008. He became administrator of the prizes in 2014. He and his wife Monique live in New York City and Goshen, N.H.</p>"
+        }
+      ]
+    },
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "The Pulitzer Prizes"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "Mike"
+        }
+      ]
+    },
+    "field_location_text": []
+  },
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "105"
+        },
+        {
+          "tid": "104"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "former vice president for news"
+        }
+      ]
+    },
+    "field_bio_photo": {
+      "und": [
+        {
+          "filemime": "image/jpeg",
+          "height": "344",
+          "title": "",
+          "filename": "jdehlibio250.jpg",
+          "alt": "",
+          "timestamp": "1440448688",
+          "filesize": "124238",
+          "fid": "998",
+          "width": "250",
+          "uri": "public://jdehlibio250.jpg",
+          "uid": "11",
+          "status": "1"
+        }
+      ]
+    },
+    "changed": "1453831739",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "1"
+        }
+      ]
+    },
+    "nid": "7728",
+    "title": "Joyce Dehli",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Dehli"
+        }
+      ]
+    },
+    "body": {
+      "und": [
+        {
+          "safe_summary": "",
+          "safe_value": "<p><strong>Joyce Dehli</strong>, the former Vice President of Lee Enterprises, joined the Pulitzer Prize Board in May, 2008.</p><p>Lee Enterprises publishes 54 daily newspapers and their Web sites. They include the <em>St. Louis Post-Dispatch</em>, the <em>Arizona Daily Star</em> in Tucson, the <em>Wisconsin State Journal</em> in Madison, and other mid-size and small newspapers.</p><p>Dehli, who was appointed vice president for news in 2006, led strategic efforts to strengthen the company&#39;s print and online journalism. She also oversaw journalism training, which included the curriculum of Lee Online University, a companywide program she helped create. From late 2004 to 2006, she served as Lee&#39;s editorial training manager and then director of editorial development. She conducted extensive training in enterprise journalism, newsroom leadership and ethical decision-making.</p><p>As managing editor of the <em>Wisconsin State Journal</em> from 2003 to 2004 and assistant managing editor from 2001 to 2003, she helped to lead the newspaper&#39;s emphasis on investigative journalism, which included reports on statehouse corruption, a prosecutor&#39;s justice-for-sale scheme, the unraveling of a poor neighborhood within an affluent city, and racial disparities in local schools.</p><p>From 1996 to 2001, she served as night city editor, enterprise editor and city editor at the<em> State Journal</em>. She joined the newspaper in 1987 as a beat reporter and later moved into project reporting. She began her journalism career in Louisville, Kentucky, where she reported for <em>The Courier-Journal</em> and <em>The Louisville Times</em> from 1981 to 1984.</p><p>Dehli, a 2002 Poynter Ethics Fellow, has been a guest teacher and roundtable panelist at The Poynter Institute, delivered a presentation for the National Institute on Computer-Assisted Reporting on mining databases for local stories, and taught journalists about analyzing databases. She holds a bachelor&#39;s degree in journalism from Marquette University in Milwaukee and a master&#39;s degree in English literature from the University of Wisconsin-Madison.</p><p>In March of 2008, Dehli served as a juror for the Pulitzer Prize in Local Reporting.</p>"
+        }
+      ]
+    },
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "Lee Enterprises"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "Joyce"
+        }
+      ]
+    },
+    "field_location_text": []
+  },
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "105"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "UPS Foundation Professor, School of Social Science"
+        }
+      ]
+    },
+    "field_bio_photo": {
+      "und": [
+        {
+          "filemime": "image/jpeg",
+          "height": "400",
+          "title": "",
+          "filename": "dallen2.jpg",
+          "alt": "Danielle Allen",
+          "timestamp": "1441223514",
+          "filesize": "94260",
+          "fid": "1029",
+          "width": "300",
+          "uri": "public://dallen2.jpg",
+          "uid": "11",
+          "status": "1"
+        }
+      ]
+    },
+    "changed": "1453311498",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "1"
+        }
+      ]
+    },
+    "nid": "13873",
+    "title": "Danielle Allen",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Allen"
+        }
+      ]
+    },
+    "body": {
+      "und": [
+        {
+          "safe_summary": "",
+          "safe_value": "<p><strong>Danielle Allen</strong> is a scholar whose intellectual scope spans the fields of the classics, philosophy, and political theory. Her book <em>The World of Prometheus: The Politics of Punishing in Democratic Athens</em> examines the theory and practice of punishment in classical Athens as it affected both the intellectual elite and ordinary citizens. Allen weaves evidence from legal statutes and court speeches with contemporaneous literary and philosophical documents to explore the challenges posed by punishment to democratic Athenian politics and society.</p><p class=\"article\">Allen&#39;s work contributes new perspectives to discussions of race and politics that go well beyond the confines of traditional and canonical scholarship. Her latest book, Talking to Strangers: Anxieties of Citizenship Since Brown v. Board of Education, combines brief readings of philosophers and political theorists with personal reflections on race politics in Chicago. By doing so, Allen proposes strikingly practical techniques of citizenship that she hopes can help us become more trustworthy to others and overcome the fossilized distrust among us.</p><p class=\"article\">A 2001 MacArthur Fellow, Allen is a professor in the University of Chicago&#39;s departments of the classics and political science and in the Committee on Social Thought. She received a B.A. from Princeton University, an M.A. and Ph.D. from Harvard University, and an M.Phil. and Ph.D. from the University of Cambridge. Allen is the author of numerous articles on topics ranging from ancient poetry to Plato to bees to Ralph Ellison and September 11. She joined the Institute for Advanced Study in 2007.</p><p class=\"article\">Danielle Allen joined the Pulitzer Prize Board in 2006.</p>"
+        }
+      ]
+    },
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "Institute for Advanced Studies"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "Danielle"
+        }
+      ]
+    },
+    "field_location_text": {
+      "und": [
+        {
+          "safe_value": "Princeton, NJ"
+        }
+      ]
+    }
+  }
+]

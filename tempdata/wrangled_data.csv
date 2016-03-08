@@ -1,0 +1,824 @@
+year,nid,first_name,last_name,job_title,employer
+1968,7549,Barry,Bingham  Sr.,editor-in-chief and president,Louisville Courier-Journal
+1968,7554,Erwin D.,Canham,Editor,Christian Science Monitor
+1968,7558,Norman,Chandler,President and Publisher,Los Angeles Times
+1968,7580,John,Hohenberg,"executive secretary, The Pulitzer Prizes",Columbia University
+1968,7588,Grayson,Kirk,president,Columbia University
+1968,7599,Ralph,McGill,publisher,The Atlanta Constitution
+1968,7603,Kenneth,MacDonald,vice president and editor,Des Moines Register and Tribune
+1968,7605,W.D.,Maxwell,vice president and editor,Chicago Tribune
+1968,7608,Paul,Miller,president/chairman of the board,"Gannett Newspapers, Inc."
+1968,7610,Newbold,Noyes,editor,The Evening Star
+1968,7622,Joseph Jr. (III),Pulitzer,editor and publisher,St. Louis Post-Dispatch
+1968,7625,James,Reston,vice president,The New York Times
+1968,7630,Vermont C.,Royster,editor and senior vice president,The Wall Street Journal
+1969,7550,Benjamin,Bradlee,executive editor,The Washington Post
+1969,7554,Erwin D.,Canham,Editor,Christian Science Monitor
+1969,7555,Wallace,Caroll,editor and publisher,Winston (N.C.) Journal
+1969,7558,Norman,Chandler,President and Publisher,Los Angeles Times
+1969,7561,Andrew W.,Cordier,Acting President,Columbia University
+1969,7565,William B.,Dickinson,executive editor,The Philadelphia Bulletin
+1969,7580,John,Hohenberg,"executive secretary, The Pulitzer Prizes",Columbia University
+1969,7603,Kenneth,MacDonald,vice president and editor,Des Moines Register and Tribune
+1969,7606,Sylvan,Meyer,editor,The Miami News
+1969,7610,Newbold,Noyes,editor,The Evening Star
+1969,7622,Joseph Jr. (III),Pulitzer,editor and publisher,St. Louis Post-Dispatch
+1969,7625,James,Reston,vice president,The New York Times
+1969,7630,Vermont C.,Royster,editor and senior vice president,The Wall Street Journal
+1970,7550,Benjamin,Bradlee,executive editor,The Washington Post
+1970,7554,Erwin D.,Canham,Editor,Christian Science Monitor
+1970,7555,Wallace,Caroll,editor and publisher,Winston (N.C.) Journal
+1970,7561,Andrew W.,Cordier,Acting President,Columbia University
+1970,7565,William B.,Dickinson,executive editor,The Philadelphia Bulletin
+1970,7578,Lee,Hills,president and executive editor,"Knight Newspapers, Inc."
+1970,7580,John,Hohenberg,"executive secretary, The Pulitzer Prizes",Columbia University
+1970,7585,Norman E.,Isaacs,"Lecturer and Editor-in-Residence, Graduate School of Journalism",Columbia University
+1970,7603,Kenneth,MacDonald,vice president and editor,Des Moines Register and Tribune
+1970,7606,Sylvan,Meyer,editor,The Miami News
+1970,7610,Newbold,Noyes,editor,The Evening Star
+1970,7622,Joseph Jr. (III),Pulitzer,editor and publisher,St. Louis Post-Dispatch
+1970,7625,James,Reston,vice president,The New York Times
+1970,7630,Vermont C.,Royster,editor and senior vice president,The Wall Street Journal
+1971,7550,Benjamin,Bradlee,executive editor,The Washington Post
+1971,7555,Wallace,Caroll,editor and publisher,Winston (N.C.) Journal
+1971,7563,John,Cowles,editorial chairman,The Minneapolis Star &amp; Tribune
+1971,7564,Price,Day,editor-in-chief,The Baltimore Sun
+1971,7565,William B.,Dickinson,executive editor,The Philadelphia Bulletin
+1971,7566,Robert J.,Donovan,associate editor,Los Angeles Times
+1971,7578,Lee,Hills,president and executive editor,"Knight Newspapers, Inc."
+1971,7580,John,Hohenberg,"executive secretary, The Pulitzer Prizes",Columbia University
+1971,7600,William J.,McGill,president,Columbia University
+1971,7606,Sylvan,Meyer,editor,The Miami News
+1971,7610,Newbold,Noyes,editor,The Evening Star
+1971,7622,Joseph Jr. (III),Pulitzer,editor and publisher,St. Louis Post-Dispatch
+1971,7625,James,Reston,vice president,The New York Times
+1971,7630,Vermont C.,Royster,editor and senior vice president,The Wall Street Journal
+1972,7550,Benjamin,Bradlee,executive editor,The Washington Post
+1972,7555,Wallace,Caroll,editor and publisher,Winston (N.C.) Journal
+1972,7563,John,Cowles,editorial chairman,The Minneapolis Star &amp; Tribune
+1972,7564,Price,Day,editor-in-chief,The Baltimore Sun
+1972,7565,William B.,Dickinson,executive editor,The Philadelphia Bulletin
+1972,7566,Robert J.,Donovan,associate editor,Los Angeles Times
+1972,7578,Lee,Hills,president and executive editor,"Knight Newspapers, Inc."
+1972,7580,John,Hohenberg,"executive secretary, The Pulitzer Prizes",Columbia University
+1972,7600,William J.,McGill,president,Columbia University
+1972,7606,Sylvan,Meyer,editor,The Miami News
+1972,7610,Newbold,Noyes,editor,The Evening Star
+1972,7622,Joseph Jr. (III),Pulitzer,editor and publisher,St. Louis Post-Dispatch
+1972,7625,James,Reston,vice president,The New York Times
+1972,7630,Vermont C.,Royster,editor and senior vice president,The Wall Street Journal
+1973,7550,Benjamin,Bradlee,executive editor,The Washington Post
+1973,7555,Wallace,Caroll,editor and publisher,Winston (N.C.) Journal
+1973,7563,John,Cowles,editorial chairman,The Minneapolis Star &amp; Tribune
+1973,7564,Price,Day,editor-in-chief,The Baltimore Sun
+1973,7565,William B.,Dickinson,executive editor,The Philadelphia Bulletin
+1973,7566,Robert J.,Donovan,associate editor,Los Angeles Times
+1973,7578,Lee,Hills,president and executive editor,"Knight Newspapers, Inc."
+1973,7580,John,Hohenberg,"executive secretary, The Pulitzer Prizes",Columbia University
+1973,7600,William J.,McGill,president,Columbia University
+1973,7606,Sylvan,Meyer,editor,The Miami News
+1973,7610,Newbold,Noyes,editor,The Evening Star
+1973,7622,Joseph Jr. (III),Pulitzer,editor and publisher,St. Louis Post-Dispatch
+1973,7625,James,Reston,vice president,The New York Times
+1973,7631,Vermont C.,Royster,contributing editor,The Wall Street Journal
+1974,7550,Benjamin,Bradlee,executive editor,The Washington Post
+1974,7563,John,Cowles,editorial chairman,The Minneapolis Star &amp; Tribune
+1974,7564,Price,Day,editor-in-chief,The Baltimore Sun
+1974,7566,Robert J.,Donovan,associate editor,Los Angeles Times
+1974,7578,Lee,Hills,president and executive editor,"Knight Newspapers, Inc."
+1974,7580,John,Hohenberg,"executive secretary, The Pulitzer Prizes",Columbia University
+1974,7600,William J.,McGill,president,Columbia University
+1974,7606,Sylvan,Meyer,editor,The Miami News
+1974,7610,Newbold,Noyes,editor,The Evening Star
+1974,7614,Eugene C.,Patterson,editor and president,St. Petersburg Times
+1974,7622,Joseph Jr. (III),Pulitzer,editor and publisher,St. Louis Post-Dispatch
+1974,7625,James,Reston,vice president,The New York Times
+1974,7631,Vermont C.,Royster,contributing editor,The Wall Street Journal
+1974,7635,Thomas,Winship,editor,The Boston Globe
+1975,7550,Benjamin,Bradlee,executive editor,The Washington Post
+1975,7563,John,Cowles,editorial chairman,The Minneapolis Star &amp; Tribune
+1975,7564,Price,Day,editor-in-chief,The Baltimore Sun
+1975,7566,Robert J.,Donovan,associate editor,Los Angeles Times
+1975,7578,Lee,Hills,president and executive editor,"Knight Newspapers, Inc."
+1975,7580,John,Hohenberg,"executive secretary, The Pulitzer Prizes",Columbia University
+1975,7589,Clayton,Kirkpatrick,editor and vice president,Chicago Tribune
+1975,7600,William J.,McGill,president,Columbia University
+1975,7610,Newbold,Noyes,editor,The Evening Star
+1975,7614,Eugene C.,Patterson,editor and president,St. Petersburg Times
+1975,7622,Joseph Jr. (III),Pulitzer,editor and publisher,St. Louis Post-Dispatch
+1975,7625,James,Reston,vice president,The New York Times
+1975,7631,Vermont C.,Royster,contributing editor,The Wall Street Journal
+1975,7635,Thomas,Winship,editor,The Boston Globe
+1977,7547,Elie,Abel,"dean, Graduate School of Journalism",Columbia University
+1977,7550,Benjamin,Bradlee,executive editor,The Washington Post
+1977,7563,John,Cowles,editorial chairman,The Minneapolis Star &amp; Tribune
+1977,7576,Howard H.,Hays,editor and publisher,Riverside (CA) Press-Enterprise
+1977,7578,Lee,Hills,president and executive editor,"Knight Newspapers, Inc."
+1977,7584,John,Hughes,editor,The Christian Science Monitor
+1977,7589,Clayton,Kirkpatrick,editor and vice president,Chicago Tribune
+1977,7597,Richard H.,Leonard,editor and vice president,The Milwaukee Journal
+1977,7600,William J.,McGill,president,Columbia University
+1977,7614,Eugene C.,Patterson,editor and president,St. Petersburg Times
+1977,7617,Warren H.,Phillips,president and chief executive officer,Dow Jones &amp; Co.
+1977,7622,Joseph Jr. (III),Pulitzer,editor and publisher,St. Louis Post-Dispatch
+1977,7626,James,Reston,columnist,The New York Times
+1977,7635,Thomas,Winship,editor,The Boston Globe
+1977,7723,Richard T.,Baker,"secretary, The Pulitzer Pirze Board","administrator, The Pulitzer Prizes"
+1978,7547,Elie,Abel,"dean, Graduate School of Journalism",Columbia University
+1978,7550,Benjamin,Bradlee,executive editor,The Washington Post
+1978,7563,John,Cowles,editorial chairman,The Minneapolis Star &amp; Tribune
+1978,7576,Howard H.,Hays,editor and publisher,Riverside (CA) Press-Enterprise
+1978,7578,Lee,Hills,president and executive editor,"Knight Newspapers, Inc."
+1978,7584,John,Hughes,editor,The Christian Science Monitor
+1978,7589,Clayton,Kirkpatrick,editor and vice president,Chicago Tribune
+1978,7597,Richard H.,Leonard,editor and vice president,The Milwaukee Journal
+1978,7600,William J.,McGill,president,Columbia University
+1978,7614,Eugene C.,Patterson,editor and president,St. Petersburg Times
+1978,7617,Warren H.,Phillips,president and chief executive officer,Dow Jones &amp; Co.
+1978,7622,Joseph Jr. (III),Pulitzer,editor and publisher,St. Louis Post-Dispatch
+1978,7626,James,Reston,columnist,The New York Times
+1978,7635,Thomas,Winship,editor,The Boston Globe
+1978,7723,Richard T.,Baker,"secretary, The Pulitzer Pirze Board","administrator, The Pulitzer Prizes"
+1979,7550,Benjamin,Bradlee,executive editor,The Washington Post
+1979,7563,John,Cowles,editorial chairman,The Minneapolis Star &amp; Tribune
+1979,7568,Osborn,Elliott,"dean, Graduate School of Journalism",Columbia University
+1979,7576,Howard H.,Hays,editor and publisher,Riverside (CA) Press-Enterprise
+1979,7578,Lee,Hills,president and executive editor,"Knight Newspapers, Inc."
+1979,7584,John,Hughes,editor,The Christian Science Monitor
+1979,7590,Clayton,Kirkpatrick,chief executive officer,Chicago Tribune
+1979,7597,Richard H.,Leonard,editor and vice president,The Milwaukee Journal
+1979,7600,William J.,McGill,president,Columbia University
+1979,7618,Warren H.,Phillips,chairman and chief executive officer,Dow Jones &amp; Co.
+1979,7622,Joseph Jr. (III),Pulitzer,editor and publisher,St. Louis Post-Dispatch
+1979,7626,James,Reston,columnist,The New York Times
+1979,7635,Thomas,Winship,editor,The Boston Globe
+1979,7669,Eugene C.,Patterson,editor and president,St. Petersburg Times
+1979,7723,Richard T.,Baker,"secretary, The Pulitzer Pirze Board","administrator, The Pulitzer Prizes"
+1980,7568,Osborn,Elliott,"dean, Graduate School of Journalism",Columbia University
+1980,7571,Hanna H.,Gray,president,University of Chicago
+1980,7576,Howard H.,Hays,editor and publisher,Riverside (CA) Press-Enterprise
+1980,7578,Lee,Hills,president and executive editor,"Knight Newspapers, Inc."
+1980,7584,John,Hughes,editor,The Christian Science Monitor
+1980,7590,Clayton,Kirkpatrick,chief executive officer,Chicago Tribune
+1980,7598,Richard H.,Leonard,editor and senior vice president,The Milwaukee Journal
+1980,7600,William J.,McGill,president,Columbia University
+1980,7618,Warren H.,Phillips,chairman and chief executive officer,Dow Jones &amp; Co.
+1980,7622,Joseph Jr. (III),Pulitzer,editor and publisher,St. Louis Post-Dispatch
+1980,7624,William J.,Raspberry,columnist,The Washington Post
+1980,7626,James,Reston,columnist,The New York Times
+1980,7635,Thomas,Winship,editor,The Boston Globe
+1980,7637,Roger W.,Wilkins,senior fellow,Joint Center for Political Studies
+1980,7669,Eugene C.,Patterson,editor and president,St. Petersburg Times
+1980,7723,Richard T.,Baker,"secretary, The Pulitzer Pirze Board","administrator, The Pulitzer Prizes"
+1980,7726,John,"Cowles, Jr.",president,The Minneapolis Star &amp; Tribune Company
+1981,7568,Osborn,Elliott,"dean, Graduate School of Journalism",Columbia University
+1981,7571,Hanna H.,Gray,president,University of Chicago
+1981,7590,Clayton,Kirkpatrick,chief executive officer,Chicago Tribune
+1981,7598,Richard H.,Leonard,editor and senior vice president,The Milwaukee Journal
+1981,7618,Warren H.,Phillips,chairman and chief executive officer,Dow Jones &amp; Co.
+1981,7622,Joseph Jr. (III),Pulitzer,editor and publisher,St. Louis Post-Dispatch
+1981,7624,William J.,Raspberry,columnist,The Washington Post
+1981,7635,Thomas,Winship,editor,The Boston Globe
+1981,7642,Michael I.,Sovern,president,Columbia University
+1981,7644,Charlotte,Saikowski,chief editorial writer,The Christian Science Monitor
+1981,7669,Eugene C.,Patterson,editor and president,St. Petersburg Times
+1981,7719,John,"Cowles, Jr.",president,Minneapolis Star and Tribune Company
+1981,7720,Lee,Hills,editorial chairman,"Knight-Ridder Newspapers, Inc."
+1981,7721,John,Hughes,president,"Hughes Newspapers, Inc."
+1981,7722,Roger W.,Wilkins,associate editor,Washington Star
+1981,7723,Richard T.,Baker,"secretary, The Pulitzer Pirze Board","administrator, The Pulitzer Prizes"
+1981,7725,Howard H.,Hays,editor and co-publisher,Riverside (CA) Press-Enterprise
+1982,7568,Osborn,Elliott,"dean, Graduate School of Journalism",Columbia University
+1982,7571,Hanna H.,Gray,president,University of Chicago
+1982,7598,Richard H.,Leonard,editor and senior vice president,The Milwaukee Journal
+1982,7601,William F.,McIlwain,editor,Arkansas Gazette
+1982,7618,Warren H.,Phillips,chairman and chief executive officer,Dow Jones &amp; Co.
+1982,7622,Joseph Jr. (III),Pulitzer,editor and publisher,St. Louis Post-Dispatch
+1982,7624,William J.,Raspberry,columnist,The Washington Post
+1982,7635,Thomas,Winship,editor,The Boston Globe
+1982,7637,Roger W.,Wilkins,senior fellow,Joint Center for Political Studies
+1982,7642,Michael I.,Sovern,president,Columbia University
+1982,7644,Charlotte,Saikowski,chief editorial writer,The Christian Science Monitor
+1982,7662,David A.,Laventhol,"publisher and chief executive officer, Newsday","and group vice president, Times Mirror Company"
+1982,7667,Robert C.,Christopher,secretary of the Board,The Pulitzer Prizes
+1982,7669,Eugene C.,Patterson,editor and president,St. Petersburg Times
+1982,7719,John,"Cowles, Jr.",president,Minneapolis Star and Tribune Company
+1982,7724,Lee,Hills,editorial chairman emeritus,"Knight-Ridder Newspapers, Inc."
+1982,7725,Howard H.,Hays,editor and co-publisher,Riverside (CA) Press-Enterprise
+1983,7568,Osborn,Elliott,"dean, Graduate School of Journalism",Columbia University
+1983,7571,Hanna H.,Gray,president,University of Chicago
+1983,7576,Howard H.,Hays,editor and publisher,Riverside (CA) Press-Enterprise
+1983,7598,Richard H.,Leonard,editor and senior vice president,The Milwaukee Journal
+1983,7618,Warren H.,Phillips,chairman and chief executive officer,Dow Jones &amp; Co.
+1983,7622,Joseph Jr. (III),Pulitzer,editor and publisher,St. Louis Post-Dispatch
+1983,7624,William J.,Raspberry,columnist,The Washington Post
+1983,7635,Thomas,Winship,editor,The Boston Globe
+1983,7637,Roger W.,Wilkins,senior fellow,Joint Center for Political Studies
+1983,7642,Michael I.,Sovern,president,Columbia University
+1983,7644,Charlotte,Saikowski,chief editorial writer,The Christian Science Monitor
+1983,7662,David A.,Laventhol,"publisher and chief executive officer, Newsday","and group vice president, Times Mirror Company"
+1983,7668,Michael,Gartner,president and editorial chairman,The Des Moines Register and Tribune
+1983,7669,Eugene C.,Patterson,editor and president,St. Petersburg Times
+1983,7673,Eugene L.,Roberts,executive editor,The Philadelphia Inquirer
+1983,7676,Katherine,Fanning,editor and publisher,Anchorage (Alaska) Daily News
+1983,7677,James F.,Hoge,publisher,Chicago Sun-Times
+1984,7568,Osborn,Elliott,"dean, Graduate School of Journalism",Columbia University
+1984,7571,Hanna H.,Gray,president,University of Chicago
+1984,7576,Howard H.,Hays,editor and publisher,Riverside (CA) Press-Enterprise
+1984,7598,Richard H.,Leonard,editor and senior vice president,The Milwaukee Journal
+1984,7618,Warren H.,Phillips,chairman and chief executive officer,Dow Jones &amp; Co.
+1984,7622,Joseph Jr. (III),Pulitzer,editor and publisher,St. Louis Post-Dispatch
+1984,7624,William J.,Raspberry,columnist,The Washington Post
+1984,7627,Eugene L.,Roberts,executive editor and senior vice president,The Philadelphia Inquirer
+1984,7635,Thomas,Winship,editor,The Boston Globe
+1984,7637,Roger W.,Wilkins,senior fellow,Joint Center for Political Studies
+1984,7642,Michael I.,Sovern,president,Columbia University
+1984,7661,James F.,Hoge,publisher,New York Daily News
+1984,7662,David A.,Laventhol,"publisher and chief executive officer, Newsday","and group vice president, Times Mirror Company"
+1984,7663,C.K.,McClatchy,editor and president,McClatchy Newspapers
+1984,7665,Charlotte,Saikowski,"chief, Washington bureau",The Christian Science Monitor
+1984,7667,Robert C.,Christopher,secretary of the Board,The Pulitzer Prizes
+1984,7668,Michael,Gartner,president and editorial chairman,The Des Moines Register and Tribune
+1984,7669,Eugene C.,Patterson,editor and president,St. Petersburg Times
+1985,7568,Osborn,Elliott,"dean, Graduate School of Journalism",Columbia University
+1985,7571,Hanna H.,Gray,president,University of Chicago
+1985,7576,Howard H.,Hays,editor and publisher,Riverside (CA) Press-Enterprise
+1985,7598,Richard H.,Leonard,editor and senior vice president,The Milwaukee Journal
+1985,7618,Warren H.,Phillips,chairman and chief executive officer,Dow Jones &amp; Co.
+1985,7622,Joseph Jr. (III),Pulitzer,editor and publisher,St. Louis Post-Dispatch
+1985,7624,William J.,Raspberry,columnist,The Washington Post
+1985,7637,Roger W.,Wilkins,senior fellow,Joint Center for Political Studies
+1985,7642,Michael I.,Sovern,president,Columbia University
+1985,7660,Michael,Gartner,president and editorial chairman,The Des Moines Register
+1985,7661,James F.,Hoge,publisher,New York Daily News
+1985,7662,David A.,Laventhol,"publisher and chief executive officer, Newsday","and group vice president, Times Mirror Company"
+1985,7663,C.K.,McClatchy,editor and president,McClatchy Newspapers
+1985,7664,Eugene C.,Patterson,chairman and chief executive officer,St. Petersburg Times
+1985,7665,Charlotte,Saikowski,"chief, Washington bureau",The Christian Science Monitor
+1985,7666,Thomas,Winship,inaugural fellow,Gannett Center for Media Studies
+1985,7667,Robert C.,Christopher,secretary of the Board,The Pulitzer Prizes
+1985,7673,Eugene L.,Roberts,executive editor,The Philadelphia Inquirer
+1986,7568,Osborn,Elliott,"dean, Graduate School of Journalism",Columbia University
+1986,7571,Hanna H.,Gray,president,University of Chicago
+1986,7576,Howard H.,Hays,editor and publisher,Riverside (CA) Press-Enterprise
+1986,7618,Warren H.,Phillips,chairman and chief executive officer,Dow Jones &amp; Co.
+1986,7622,Joseph Jr. (III),Pulitzer,editor and publisher,St. Louis Post-Dispatch
+1986,7624,William J.,Raspberry,columnist,The Washington Post
+1986,7642,Michael I.,Sovern,president,Columbia University
+1986,7645,Russell,Baker,columnist,The New York Times
+1986,7661,James F.,Hoge,publisher,New York Daily News
+1986,7663,C.K.,McClatchy,editor and president,McClatchy Newspapers
+1986,7665,Charlotte,Saikowski,"chief, Washington bureau",The Christian Science Monitor
+1986,7667,Robert C.,Christopher,secretary of the Board,The Pulitzer Prizes
+1986,7670,Michael,Gartner,general news executive,Gannett Company
+1986,7671,David A.,Laventhol,senior vice president,Times Mirror Company
+1986,7672,Richard H.,Leonard,associate editor and senior vice president,The Milwaukee Journal
+1986,7673,Eugene L.,Roberts,executive editor,The Philadelphia Inquirer
+1986,7674,Claude F.,Sitton,editorial director and vice president,The News and Observer and The Raleigh (N.C.) Times
+1986,7675,Roger W.,Wilkins,senior fellow,Institute for Policy Studies
+1987,7530,Meg,Greenfield,editorial page editor,The Washington Post
+1987,7571,Hanna H.,Gray,president,University of Chicago
+1987,7618,Warren H.,Phillips,chairman and chief executive officer,Dow Jones &amp; Co.
+1987,7645,Russell,Baker,columnist,The New York Times
+1987,7657,Robert C.,Maynard,editor and publisher,The Tribune
+1987,7661,James F.,Hoge,publisher,New York Daily News
+1987,7663,C.K.,McClatchy,editor and president,McClatchy Newspapers
+1987,7665,Charlotte,Saikowski,"chief, Washington bureau",The Christian Science Monitor
+1987,7667,Robert C.,Christopher,secretary of the Board,The Pulitzer Prizes
+1987,7673,Eugene L.,Roberts,executive editor,The Philadelphia Inquirer
+1987,7674,Claude F.,Sitton,editorial director and vice president,The News and Observer and The Raleigh (N.C.) Times
+1987,7675,Roger W.,Wilkins,senior fellow,Institute for Policy Studies
+1987,7685,Frederick T.C.,Yu,"acting dean, Graduate School of Journalism",Columbia University
+1987,7686,Michael,Gartner,editor,The Courier-Journal
+1987,7687,David A.,Laventhol,president,Times Mirror Company
+1987,7688,Burl,Osborne,president and editor,The Dallas Morning News
+1987,13739,Michael I.,Sovern,President,Columbia University
+1988,7530,Meg,Greenfield,editorial page editor,The Washington Post
+1988,7642,Michael I.,Sovern,president,Columbia University
+1988,7645,Russell,Baker,columnist,The New York Times
+1988,7657,Robert C.,Maynard,editor and publisher,The Tribune
+1988,7661,James F.,Hoge,publisher,New York Daily News
+1988,7665,Charlotte,Saikowski,"chief, Washington bureau",The Christian Science Monitor
+1988,7667,Robert C.,Christopher,secretary of the Board,The Pulitzer Prizes
+1988,7674,Claude F.,Sitton,editorial director and vice president,The News and Observer and The Raleigh (N.C.) Times
+1988,7685,Frederick T.C.,Yu,"acting dean, Graduate School of Journalism",Columbia University
+1988,7687,David A.,Laventhol,president,Times Mirror Company
+1988,7688,Burl,Osborne,president and editor,The Dallas Morning News
+1988,7689,Michael,Gartner,"general news executive, Gannett Co., Inc., Washington, D.C.","and editor, The Daily Tribune, Ames, Iowa"
+1988,7690,C.K.,McClatchy,editor and chairman of the board,McClatchy Newspapers
+1988,7691,Eugene L.,Roberts,executive editor,The Philadelphia Inquirer
+1988,7692,Howard,Simons,curator,"Nieman Foundation, Harvard University"
+1988,7694,Peter R.,Kann,associate publisher,The Wall Street Journal
+1988,13831,Roger W.,Wilkins,senior fellow,Institute for Policy Studies
+1989,7527,Joan,Konner,"dean, Graduate School of Journalism",Columbia University
+1989,7530,Meg,Greenfield,editorial page editor,The Washington Post
+1989,7642,Michael I.,Sovern,president,Columbia University
+1989,7645,Russell,Baker,columnist,The New York Times
+1989,7655,Michael,Gartner,"editor, The Daily Tribune, Ames, Iowa","and president, NBC News"
+1989,7657,Robert C.,Maynard,editor and publisher,The Tribune
+1989,7661,James F.,Hoge,publisher,New York Daily News
+1989,7665,Charlotte,Saikowski,"chief, Washington bureau",The Christian Science Monitor
+1989,7667,Robert C.,Christopher,secretary of the Board,The Pulitzer Prizes
+1989,7674,Claude F.,Sitton,editorial director and vice president,The News and Observer and The Raleigh (N.C.) Times
+1989,7678,Peter R.,Kann,publisher,The Wall Street Journal
+1989,7680,Burl,Osborne,president and editor,The Dallas Morning News
+1989,7681,Eugene L.,Roberts,executive editor and president,The Philadelphia Inquirer
+1989,7692,Howard,Simons,curator,"Nieman Foundation, Harvard University"
+1989,7693,Sissela,Bok,associate professor,Brandeis University
+1989,7695,Roger W.,Wilkins,"senior fellow, Institute for Policy Studies","and Robinson Professor of History, George Mason University"
+1989,13740,David A.,Laventhol,president,Times Mirror Company
+1990,7521,James V.,Risser,"director, John S. Knight Fellowships",Stanford University
+1990,7527,Joan,Konner,"dean, Graduate School of Journalism",Columbia University
+1990,7530,Meg,Greenfield,editorial page editor,The Washington Post
+1990,7579,James F.,Hoge,president and publisher,Daily News
+1990,7642,Michael I.,Sovern,president,Columbia University
+1990,7645,Russell,Baker,columnist,The New York Times
+1990,7647,Geneva,Overholser,editor,The Des Moines Register
+1990,7652,Sissela,Bok,professor,Brandeis University
+1990,7655,Michael,Gartner,"editor, The Daily Tribune, Ames, Iowa","and president, NBC News"
+1990,7657,Robert C.,Maynard,editor and publisher,The Tribune
+1990,7667,Robert C.,Christopher,secretary of the Board,The Pulitzer Prizes
+1990,7678,Peter R.,Kann,publisher,The Wall Street Journal
+1990,7679,David A.,Laventhol,pubisher and chief executive officer Los Angeles Times,"and president, Times Mirror Company"
+1990,7680,Burl,Osborne,president and editor,The Dallas Morning News
+1990,7682,Walter,Rugaber,president and publisher,Roanoke (Va.) Times &amp; World-News
+1990,7683,Charlotte,Saikowski,former chief of Washington bureau,The Christian Science Monitor
+1990,7684,Claude F.,Sitton,editor and vice president,The News and Observer
+1990,13827,Eugene L.,Roberts,executive editor and president,The Philadelphia Inquirer
+1991,7521,James V.,Risser,"director, John S. Knight Fellowships",Stanford University
+1991,7523,Helen,Vendler,Porter University Professor,Harvard University
+1991,7527,Joan,Konner,"dean, Graduate School of Journalism",Columbia University
+1991,7530,Meg,Greenfield,editorial page editor,The Washington Post
+1991,7531,Burl,Osborne,editor and publisher,The Dallas Morning News
+1991,7595,David A.,Laventhol,"president, Times Mirror Company","and publisher and chief executive officer, Los Angeles Times"
+1991,7628,Eugene L.,Roberts,former executive editor and senior vice president,The Philadelphia Inquirer
+1991,7642,Michael I.,Sovern,president,Columbia University
+1991,7645,Russell,Baker,columnist,The New York Times
+1991,7647,Geneva,Overholser,editor,The Des Moines Register
+1991,7648,Claude F.,Sitton,"senior lecturer, Emory University","former editor and vice president, The News and Observer"
+1991,7652,Sissela,Bok,professor,Brandeis University
+1991,7655,Michael,Gartner,"editor, The Daily Tribune, Ames, Iowa","and president, NBC News"
+1991,7657,Robert C.,Maynard,editor and publisher,The Tribune
+1991,7667,Robert C.,Christopher,secretary of the Board,The Pulitzer Prizes
+1991,7682,Walter,Rugaber,president and publisher,Roanoke (Va.) Times &amp; World-News
+1991,7716,James F.,Hoge,publisher and chief operating officer,New York Daily News
+1991,7717,Peter R.,Kann,"president and chief operating officer, Dow Jones &amp;  Co. Inc.","and publisher, The Wall Street Journal"
+1991,7718,Marilyn,Yarbrough,dean,University of Tennessee College of Law
+1992,7521,James V.,Risser,"director, John S. Knight Fellowships",Stanford University
+1992,7522,Walter,Rugaber,president and publisher,The Roanoke Times
+1992,7523,Helen,Vendler,Porter University Professor,Harvard University
+1992,7527,Joan,Konner,"dean, Graduate School of Journalism",Columbia University
+1992,7530,Meg,Greenfield,editorial page editor,The Washington Post
+1992,7531,Burl,Osborne,editor and publisher,The Dallas Morning News
+1992,7642,Michael I.,Sovern,president,Columbia University
+1992,7645,Russell,Baker,columnist,The New York Times
+1992,7647,Geneva,Overholser,editor,The Des Moines Register
+1992,7648,Claude F.,Sitton,"senior lecturer, Emory University","former editor and vice president, The News and Observer"
+1992,7649,Jack,Fuller,editor and vice president,Chicago Tribune
+1992,7652,Sissela,Bok,professor,Brandeis University
+1992,7653,John,Dotson,president and publisher,Daily Camera
+1992,7654,John S.,Driscoll,editor,The Boston Globe
+1992,7656,Peter R.,Kann,chairman and publisher,"Dow Jones &amp; Co., Inc."
+1992,7657,Robert C.,Maynard,editor and publisher,The Tribune
+1992,7658,Marilyn,Yarbrough,"William J. Maier, Jr. Chair of Law",West Virginia University
+1992,7659,Robert C.,Christopher,administrator,The Pulitzer Prizes
+1992,13738,Michael,Gartner,"editor, The Daily Tribune, Ames, Iowa","and president, NBC News"
+1993,7515,Seymour,Topping,"administrator, The Pulitzer Prizes",Columbia University
+1993,7518,Edward,Seaton,editor in chief,Manhattan  Mercury
+1993,7519,John L.,Dotson Jr.,president and publisher,Akron Beacon Journal
+1993,7521,James V.,Risser,"director, John S. Knight Fellowships",Stanford University
+1993,7522,Walter,Rugaber,president and publisher,The Roanoke Times
+1993,7523,Helen,Vendler,Porter University Professor,Harvard University
+1993,7526,Sissela,Bok,writer and philosopher,
+1993,7527,Joan,Konner,"dean, Graduate School of Journalism",Columbia University
+1993,7528,Peter R.,Kann,chairman and chief executive officer,"Dow Jones and Co., Inc."
+1993,7529,John S.,Driscoll,vice president,The Boston Globe
+1993,7530,Meg,Greenfield,editorial page editor,The Washington Post
+1993,7531,Burl,Osborne,editor and publisher,The Dallas Morning News
+1993,7642,Michael I.,Sovern,president,Columbia University
+1993,7645,Russell,Baker,columnist,The New York Times
+1993,7647,Geneva,Overholser,editor,The Des Moines Register
+1993,7648,Claude F.,Sitton,"senior lecturer, Emory University","former editor and vice president, The News and Observer"
+1993,7649,Jack,Fuller,editor and vice president,Chicago Tribune
+1993,7650,Robert C.,Maynard,former editor and publisher,The Tribune
+1993,7651,Marilyn,Yarbrough,William Rand Kenan Jr. Professor of Law,University of North Carolina
+1994,7514,George,Rupp,president,Columbia University
+1994,7515,Seymour,Topping,"administrator, The Pulitzer Prizes",Columbia University
+1994,7518,Edward,Seaton,editor in chief,Manhattan  Mercury
+1994,7519,John L.,Dotson Jr.,president and publisher,Akron Beacon Journal
+1994,7521,James V.,Risser,"director, John S. Knight Fellowships",Stanford University
+1994,7522,Walter,Rugaber,president and publisher,The Roanoke Times
+1994,7523,Helen,Vendler,Porter University Professor,Harvard University
+1994,7524,Marilyn,Yarbrough,professor of law,University of North Carolina
+1994,7526,Sissela,Bok,writer and philosopher,
+1994,7527,Joan,Konner,"dean, Graduate School of Journalism",Columbia University
+1994,7528,Peter R.,Kann,chairman and chief executive officer,"Dow Jones and Co., Inc."
+1994,7529,John S.,Driscoll,vice president,The Boston Globe
+1994,7530,Meg,Greenfield,editorial page editor,The Washington Post
+1994,7531,Burl,Osborne,editor and publisher,The Dallas Morning News
+1994,7646,Jack,Fuller,president and chief executive officer,Chicago Tribune
+1994,7647,Geneva,Overholser,editor,The Des Moines Register
+1994,7648,Claude F.,Sitton,"senior lecturer, Emory University","former editor and vice president, The News and Observer"
+1994,13626,Rusell,Baker,columnist,The New York Times
+1995,7509,Louis D.,Boccardi,president and chief executive officer,Associated Press
+1995,7510,John S.,Carroll,editor and executive vice president,Los Angeles Times
+1995,7512,Sandra Mims,Rowe,editor,The Oregonian
+1995,7514,George,Rupp,president,Columbia University
+1995,7515,Seymour,Topping,"administrator, The Pulitzer Prizes",Columbia University
+1995,7518,Edward,Seaton,editor in chief,Manhattan  Mercury
+1995,7519,John L.,Dotson Jr.,president and publisher,Akron Beacon Journal
+1995,7520,Jack,Fuller,president,Tribune Publishing Company
+1995,7521,James V.,Risser,"director, John S. Knight Fellowships",Stanford University
+1995,7522,Walter,Rugaber,president and publisher,The Roanoke Times
+1995,7523,Helen,Vendler,Porter University Professor,Harvard University
+1995,7524,Marilyn,Yarbrough,professor of law,University of North Carolina
+1995,7526,Sissela,Bok,writer and philosopher,
+1995,7527,Joan,Konner,"dean, Graduate School of Journalism",Columbia University
+1995,7528,Peter R.,Kann,chairman and chief executive officer,"Dow Jones and Co., Inc."
+1995,7529,John S.,Driscoll,vice president,The Boston Globe
+1995,7532,Geneva,Overholser,ombudsman,The Washington Post
+1995,13878,Meg,Greenfield,editorial page editor,The Washington Post
+1995,13889,Burl,Osborne,editor and publisher,The Dallas Morning News
+1996,7508,William,Safire,columnist,The New York Times
+1996,7509,Louis D.,Boccardi,president and chief executive officer,Associated Press
+1996,7510,John S.,Carroll,editor and executive vice president,Los Angeles Times
+1996,7512,Sandra Mims,Rowe,editor,The Oregonian
+1996,7514,George,Rupp,president,Columbia University
+1996,7515,Seymour,Topping,"administrator, The Pulitzer Prizes",Columbia University
+1996,7517,William,Ketter,vice president and assistant to the publisher,The Boston Globe
+1996,7518,Edward,Seaton,editor in chief,Manhattan  Mercury
+1996,7519,John L.,Dotson Jr.,president and publisher,Akron Beacon Journal
+1996,7520,Jack,Fuller,president,Tribune Publishing Company
+1996,7521,James V.,Risser,"director, John S. Knight Fellowships",Stanford University
+1996,7522,Walter,Rugaber,president and publisher,The Roanoke Times
+1996,7523,Helen,Vendler,Porter University Professor,Harvard University
+1996,7524,Marilyn,Yarbrough,professor of law,University of North Carolina
+1996,7526,Sissela,Bok,writer and philosopher,
+1996,7527,Joan,Konner,"dean, Graduate School of Journalism",Columbia University
+1996,7528,Peter R.,Kann,chairman and chief executive officer,"Dow Jones and Co., Inc."
+1996,7532,Geneva,Overholser,ombudsman,The Washington Post
+1996,7546,Rena,Pederson,editorial page editor/vice president,The Dallas Morning News
+1997,7508,William,Safire,columnist,The New York Times
+1997,7509,Louis D.,Boccardi,president and chief executive officer,Associated Press
+1997,7510,John S.,Carroll,editor and executive vice president,Los Angeles Times
+1997,7512,Sandra Mims,Rowe,editor,The Oregonian
+1997,7514,George,Rupp,president,Columbia University
+1997,7515,Seymour,Topping,"administrator, The Pulitzer Prizes",Columbia University
+1997,7517,William,Ketter,vice president and assistant to the publisher,The Boston Globe
+1997,7518,Edward,Seaton,editor in chief,Manhattan  Mercury
+1997,7519,John L.,Dotson Jr.,president and publisher,Akron Beacon Journal
+1997,7520,Jack,Fuller,president,Tribune Publishing Company
+1997,7521,James V.,Risser,"director, John S. Knight Fellowships",Stanford University
+1997,7523,Helen,Vendler,Porter University Professor,Harvard University
+1997,7524,Marilyn,Yarbrough,professor of law,University of North Carolina
+1997,7525,Sandy,Padwe,"acting dean, Graduate School of Journalism",Columbia University (ex-officio)
+1997,7532,Geneva,Overholser,ombudsman,The Washington Post
+1997,7539,Andrew,Barnes,"editor, president and C.E.O.",St. Petersburg Times
+1997,7546,Rena,Pederson,editorial page editor/vice president,The Dallas Morning News
+1997,13855,Bok,Sissela,writer and philosopher,
+1998,7502,Paul,Steiger,managing editor,The Wall Street Journal
+1998,7505,Henry Louis,Gates Jr.,W.E.B. DuBois Professor of Humanities,Harvard University
+1998,7508,William,Safire,columnist,The New York Times
+1998,7509,Louis D.,Boccardi,president and chief executive officer,Associated Press
+1998,7510,John S.,Carroll,editor and executive vice president,Los Angeles Times
+1998,7512,Sandra Mims,Rowe,editor,The Oregonian
+1998,7513,Tom,Goldstein,"dean, Graduate School of Journalism",Columbia University
+1998,7514,George,Rupp,president,Columbia University
+1998,7515,Seymour,Topping,"administrator, The Pulitzer Prizes",Columbia University
+1998,7517,William,Ketter,vice president and assistant to the publisher,The Boston Globe
+1998,7518,Edward,Seaton,editor in chief,Manhattan  Mercury
+1998,7519,John L.,Dotson Jr.,president and publisher,Akron Beacon Journal
+1998,7520,Jack,Fuller,president,Tribune Publishing Company
+1998,7521,James V.,Risser,"director, John S. Knight Fellowships",Stanford University
+1998,7522,Walter,Rugaber,president and publisher,The Roanoke Times
+1998,7523,Helen,Vendler,Porter University Professor,Harvard University
+1998,7524,Marilyn,Yarbrough,professor of law,University of North Carolina
+1998,7539,Andrew,Barnes,"editor, president and C.E.O.",St. Petersburg Times
+1998,7546,Rena,Pederson,editorial page editor/vice president,The Dallas Morning News
+1998,13828,Geneva,Overholser,ombudsman,The Washington Post
+1999,7502,Paul,Steiger,managing editor,The Wall Street Journal
+1999,7505,Henry Louis,Gates Jr.,W.E.B. DuBois Professor of Humanities,Harvard University
+1999,7508,William,Safire,columnist,The New York Times
+1999,7509,Louis D.,Boccardi,president and chief executive officer,Associated Press
+1999,7510,John S.,Carroll,editor and executive vice president,Los Angeles Times
+1999,7512,Sandra Mims,Rowe,editor,The Oregonian
+1999,7513,Tom,Goldstein,"dean, Graduate School of Journalism",Columbia University
+1999,7514,George,Rupp,president,Columbia University
+1999,7515,Seymour,Topping,"administrator, The Pulitzer Prizes",Columbia University
+1999,7516,Doris Kearns,Goodwin,historian and biographer,self-employed
+1999,7517,William,Ketter,vice president and assistant to the publisher,The Boston Globe
+1999,7518,Edward,Seaton,editor in chief,Manhattan  Mercury
+1999,7519,John L.,Dotson Jr.,president and publisher,Akron Beacon Journal
+1999,7520,Jack,Fuller,president,Tribune Publishing Company
+1999,7523,Helen,Vendler,Porter University Professor,Harvard University
+1999,7524,Marilyn,Yarbrough,professor of law,University of North Carolina
+1999,7539,Andrew,Barnes,"editor, president and C.E.O.",St. Petersburg Times
+1999,7546,Rena,Pederson,editorial page editor/vice president,The Dallas Morning News
+1999,13876,Walter,Rugaber,president and publisher,The Roanoke Times
+1999,13888,James V.,Risser,director,"John S. Knight Fellowships, Stanford University"
+2000,7500,Richard,Oppel,editor,Austin American-Statesman
+2000,7501,Mike,Pride,editor,Concord Monitor
+2000,7502,Paul,Steiger,managing editor,The Wall Street Journal
+2000,7505,Henry Louis,Gates Jr.,W.E.B. DuBois Professor of Humanities,Harvard University
+2000,7508,William,Safire,columnist,The New York Times
+2000,7509,Louis D.,Boccardi,president and chief executive officer,Associated Press
+2000,7510,John S.,Carroll,editor and executive vice president,Los Angeles Times
+2000,7512,Sandra Mims,Rowe,editor,The Oregonian
+2000,7513,Tom,Goldstein,"dean, Graduate School of Journalism",Columbia University
+2000,7514,George,Rupp,president,Columbia University
+2000,7515,Seymour,Topping,"administrator, The Pulitzer Prizes",Columbia University
+2000,7516,Doris Kearns,Goodwin,historian and biographer,self-employed
+2000,7517,William,Ketter,vice president and assistant to the publisher,The Boston Globe
+2000,7518,Edward,Seaton,editor in chief,Manhattan  Mercury
+2000,7539,Andrew,Barnes,"editor, president and C.E.O.",St. Petersburg Times
+2000,7543,Joann,Byrd,editorial page editor,Seattle Post-Intelligencer
+2000,7545,Donald E.,Graham,publisher,The Washington Post
+2000,7546,Rena,Pederson,editorial page editor/vice president,The Dallas Morning News
+2000,13887,John L.,"Dotson, Jr.",president and publisher,Akron Beacon Journal
+2000,13893,Jack,Fuller,president,Tribune Publishing Company
+2001,7500,Richard,Oppel,editor,Austin American-Statesman
+2001,7501,Mike,Pride,editor,Concord Monitor
+2001,7502,Paul,Steiger,managing editor,The Wall Street Journal
+2001,7505,Henry Louis,Gates Jr.,W.E.B. DuBois Professor of Humanities,Harvard University
+2001,7506,Andrew,Barnes,chairman and chief executive officer,St. Petersburg Times
+2001,7508,William,Safire,columnist,The New York Times
+2001,7509,Louis D.,Boccardi,president and chief executive officer,Associated Press
+2001,7510,John S.,Carroll,editor and executive vice president,Los Angeles Times
+2001,7512,Sandra Mims,Rowe,editor,The Oregonian
+2001,7513,Tom,Goldstein,"dean, Graduate School of Journalism",Columbia University
+2001,7514,George,Rupp,president,Columbia University
+2001,7515,Seymour,Topping,"administrator, The Pulitzer Prizes",Columbia University
+2001,7516,Doris Kearns,Goodwin,historian and biographer,self-employed
+2001,7517,William,Ketter,vice president and assistant to the publisher,The Boston Globe
+2001,7541,Jay T.,Harris,former publisher,San Jose Mercury News
+2001,7543,Joann,Byrd,editorial page editor,Seattle Post-Intelligencer
+2001,7544,Donald E.,Graham,chairman,The Washington Post Company
+2001,7546,Rena,Pederson,editorial page editor/vice president,The Dallas Morning News
+2001,13892,Edward,Seaton,editor in chief,Manhattan Mercury
+2002,7494,Anders,Gyllenhaal,editor and senior vice president,Star Tribune
+2002,7496,David M.,Kennedy,"Donald J. McLachlan Professor of History, Emeritus",Stanford University
+2002,7500,Richard,Oppel,editor,Austin American-Statesman
+2002,7501,Mike,Pride,editor,Concord Monitor
+2002,7502,Paul,Steiger,managing editor,The Wall Street Journal
+2002,7505,Henry Louis,Gates Jr.,W.E.B. DuBois Professor of Humanities,Harvard University
+2002,7506,Andrew,Barnes,chairman and chief executive officer,St. Petersburg Times
+2002,7508,William,Safire,columnist,The New York Times
+2002,7509,Louis D.,Boccardi,president and chief executive officer,Associated Press
+2002,7510,John S.,Carroll,editor and executive vice president,Los Angeles Times
+2002,7512,Sandra Mims,Rowe,editor,The Oregonian
+2002,7513,Tom,Goldstein,"dean, Graduate School of Journalism",Columbia University
+2002,7514,George,Rupp,president,Columbia University
+2002,7515,Seymour,Topping,"administrator, The Pulitzer Prizes",Columbia University
+2002,7541,Jay T.,Harris,former publisher,San Jose Mercury News
+2002,7543,Joann,Byrd,editorial page editor,Seattle Post-Intelligencer
+2002,7544,Donald E.,Graham,chairman,The Washington Post Company
+2002,7546,Rena,Pederson,editorial page editor/vice president,The Dallas Morning News
+2003,7485,Lee C.,Bollinger,president,Columbia University
+2003,7487,Jim,Amoss,editor,The Times-Picayune
+2003,7493,Donald E.,Graham,chairman,The Washington Post
+2003,7494,Anders,Gyllenhaal,editor and senior vice president,Star Tribune
+2003,7496,David M.,Kennedy,"Donald J. McLachlan Professor of History, Emeritus",Stanford University
+2003,7500,Richard,Oppel,editor,Austin American-Statesman
+2003,7501,Mike,Pride,editor,Concord Monitor
+2003,7502,Paul,Steiger,managing editor,The Wall Street Journal
+2003,7504,Sig,Gissler,"administrator, Graduate School of Journalism",Columbia University
+2003,7505,Henry Louis,Gates Jr.,W.E.B. DuBois Professor of Humanities,Harvard University
+2003,7506,Andrew,Barnes,chairman and chief executive officer,St. Petersburg Times
+2003,7507,Rena,Pederson,editor at large,The Dallas Morning News
+2003,7508,William,Safire,columnist,The New York Times
+2003,7509,Louis D.,Boccardi,president and chief executive officer,Associated Press
+2003,7510,John S.,Carroll,editor and executive vice president,Los Angeles Times
+2003,7511,David A.,Klatell,"interim dean, Graduate School of Journalism",Columbia University
+2003,7537,Amanda,Bennett,editor,Lexington Herald-Leader
+2003,7542,Jay T.,Harris,"director, Center for the Study of Journalism and Democracy",University of Southern California
+2003,7543,Joann,Byrd,editorial page editor,Seattle Post-Intelligencer
+2003,13870,Sandra Mims,Rowe,editor,The Oregonian
+2004,7485,Lee C.,Bollinger,president,Columbia University
+2004,7487,Jim,Amoss,editor,The Times-Picayune
+2004,7489,Joann,Byrd,former editor editorial page,Seattle Post-Intelligencer
+2004,7490,Kathleen,Carroll,executive editor and senior vice president,Associated Press
+2004,7491,Thomas L.,Friedman,columnist,The New York Times
+2004,7493,Donald E.,Graham,chairman,The Washington Post
+2004,7494,Anders,Gyllenhaal,editor and senior vice president,Star Tribune
+2004,7495,Jay T.,Harris,"Wallis Annenberg Chair, Director, Center for the Study of Journalism and Democracy, Annenberg School of Communication",University of Southern California
+2004,7496,David M.,Kennedy,"Donald J. McLachlan Professor of History, Emeritus",Stanford University
+2004,7497,Nicholas,Lemann,"dean, Graduate School of Journalism",Columbia University
+2004,7498,Ann Marie,Lipinski,senior vice president and editor, Chicago Tribune
+2004,7499,Gregory L.,Moore,editor,The Denver Post
+2004,7500,Richard,Oppel,editor,Austin American-Statesman
+2004,7501,Mike,Pride,editor,Concord Monitor
+2004,7502,Paul,Steiger,managing editor,The Wall Street Journal
+2004,7504,Sig,Gissler,"administrator, Graduate School of Journalism",Columbia University
+2004,7505,Henry Louis,Gates Jr.,W.E.B. DuBois Professor of Humanities,Harvard University
+2004,7506,Andrew,Barnes,chairman and chief executive officer,St. Petersburg Times
+2004,7536,Amanda,Bennett,editor,The Philadelphia Inquirer
+2004,13868,Rena,Pederson,editor at large,The Dallas Morning News
+2004,13891,William,Safire,columnist,The New York Times
+2005,7485,Lee C.,Bollinger,president,Columbia University
+2005,7487,Jim,Amoss,editor,The Times-Picayune
+2005,7489,Joann,Byrd,former editor editorial page,Seattle Post-Intelligencer
+2005,7490,Kathleen,Carroll,executive editor and senior vice president,Associated Press
+2005,7491,Thomas L.,Friedman,columnist,The New York Times
+2005,7493,Donald E.,Graham,chairman,The Washington Post
+2005,7494,Anders,Gyllenhaal,editor and senior vice president,Star Tribune
+2005,7495,Jay T.,Harris,"Wallis Annenberg Chair, Director, Center for the Study of Journalism and Democracy, Annenberg School of Communication",University of Southern California
+2005,7496,David M.,Kennedy,"Donald J. McLachlan Professor of History, Emeritus",Stanford University
+2005,7497,Nicholas,Lemann,"dean, Graduate School of Journalism",Columbia University
+2005,7498,Ann Marie,Lipinski,senior vice president and editor, Chicago Tribune
+2005,7499,Gregory L.,Moore,editor,The Denver Post
+2005,7500,Richard,Oppel,editor,Austin American-Statesman
+2005,7501,Mike,Pride,editor,Concord Monitor
+2005,7502,Paul,Steiger,managing editor,The Wall Street Journal
+2005,7504,Sig,Gissler,"administrator, Graduate School of Journalism",Columbia University
+2005,7505,Henry Louis,Gates Jr.,W.E.B. DuBois Professor of Humanities,Harvard University
+2005,7536,Amanda,Bennett,editor,The Philadelphia Inquirer
+2005,7540,Andrew,Barnes,chairman,Poynter Institute for Media Studies
+2006,7485,Lee C.,Bollinger,president,Columbia University
+2006,7487,Jim,Amoss,editor,The Times-Picayune
+2006,7489,Joann,Byrd,former editor editorial page,Seattle Post-Intelligencer
+2006,7490,Kathleen,Carroll,executive editor and senior vice president,Associated Press
+2006,7491,Thomas L.,Friedman,columnist,The New York Times
+2006,7493,Donald E.,Graham,chairman,The Washington Post
+2006,7494,Anders,Gyllenhaal,editor and senior vice president,Star Tribune
+2006,7495,Jay T.,Harris,"Wallis Annenberg Chair, Director, Center for the Study of Journalism and Democracy, Annenberg School of Communication",University of Southern California
+2006,7496,David M.,Kennedy,"Donald J. McLachlan Professor of History, Emeritus",Stanford University
+2006,7497,Nicholas,Lemann,"dean, Graduate School of Journalism",Columbia University
+2006,7498,Ann Marie,Lipinski,senior vice president and editor, Chicago Tribune
+2006,7499,Gregory L.,Moore,editor,The Denver Post
+2006,7500,Richard,Oppel,editor,Austin American-Statesman
+2006,7501,Mike,Pride,editor,Concord Monitor
+2006,7502,Paul,Steiger,managing editor,The Wall Street Journal
+2006,7503,Paul C.,Tash,"editor, chairman and CEO",The St. Petersburg Times
+2006,7504,Sig,Gissler,"administrator, Graduate School of Journalism",Columbia University
+2006,7536,Amanda,Bennett,editor,The Philadelphia Inquirer
+2006,13775,Henry Louis,Gates Jr.,W.E.B. DuBois Professor of Humanities,Harvard University
+2007,7485,Lee C.,Bollinger,president,Columbia University
+2007,7486,Danielle,Allen,"UPS Foundation Professor,  School of Social Science",Institute for Advanced Study
+2007,7487,Jim,Amoss,editor,The Times-Picayune
+2007,7488,Amanda,Bennett,executive editor/Enterprise,Bloomberg News
+2007,7489,Joann,Byrd,former editor editorial page,Seattle Post-Intelligencer
+2007,7490,Kathleen,Carroll,executive editor and senior vice president,Associated Press
+2007,7491,Thomas L.,Friedman,columnist,The New York Times
+2007,7492,Paul,Gigot,editorial page editor,The Wall Street Journal
+2007,7493,Donald E.,Graham,chairman,The Washington Post
+2007,7494,Anders,Gyllenhaal,editor and senior vice president,Star Tribune
+2007,7495,Jay T.,Harris,"Wallis Annenberg Chair, Director, Center for the Study of Journalism and Democracy, Annenberg School of Communication",University of Southern California
+2007,7496,David M.,Kennedy,"Donald J. McLachlan Professor of History, Emeritus",Stanford University
+2007,7497,Nicholas,Lemann,"dean, Graduate School of Journalism",Columbia University
+2007,7498,Ann Marie,Lipinski,senior vice president and editor, Chicago Tribune
+2007,7499,Gregory L.,Moore,editor,The Denver Post
+2007,7500,Richard,Oppel,editor,Austin American-Statesman
+2007,7501,Mike,Pride,editor,Concord Monitor
+2007,7503,Paul C.,Tash,"editor, chairman and CEO",The St. Petersburg Times
+2007,7504,Sig,Gissler,"administrator, Graduate School of Journalism",Columbia University
+2007,13865,Paul,Steiger,managing editor,The Wall Street Journal
+2008,7485,Lee C.,Bollinger,president,Columbia University
+2008,7486,Danielle,Allen,"UPS Foundation Professor,  School of Social Science",Institute for Advanced Study
+2008,7487,Jim,Amoss,editor,The Times-Picayune
+2008,7488,Amanda,Bennett,executive editor/Enterprise,Bloomberg News
+2008,7490,Kathleen,Carroll,executive editor and senior vice president,Associated Press
+2008,7491,Thomas L.,Friedman,columnist,The New York Times
+2008,7492,Paul,Gigot,editorial page editor,The Wall Street Journal
+2008,7493,Donald E.,Graham,chairman,The Washington Post
+2008,7495,Jay T.,Harris,"Wallis Annenberg Chair, Director, Center for the Study of Journalism and Democracy, Annenberg School of Communication",University of Southern California
+2008,7496,David M.,Kennedy,"Donald J. McLachlan Professor of History, Emeritus",Stanford University
+2008,7497,Nicholas,Lemann,"dean, Graduate School of Journalism",Columbia University
+2008,7498,Ann Marie,Lipinski,senior vice president and editor, Chicago Tribune
+2008,7499,Gregory L.,Moore,editor,The Denver Post
+2008,7500,Richard,Oppel,editor,Austin American-Statesman
+2008,7503,Paul C.,Tash,"editor, chairman and CEO",The St. Petersburg Times
+2008,7504,Sig,Gissler,"administrator, Graduate School of Journalism",Columbia University
+2008,7538,Anders,Gyllenhaal,executive editor,The Miami Herald
+2008,13884,Mike,Pride,editor,Concord Monitor
+2008,13890,Joann,Byrd,"former editor, editorial page",Seattle Post-Intelligencer
+2009,7485,Lee C.,Bollinger,president,Columbia University
+2009,7486,Danielle,Allen,"UPS Foundation Professor,  School of Social Science",Institute for Advanced Study
+2009,7487,Jim,Amoss,editor,The Times-Picayune
+2009,7488,Amanda,Bennett,executive editor/Enterprise,Bloomberg News
+2009,7490,Kathleen,Carroll,executive editor and senior vice president,Associated Press
+2009,7491,Thomas L.,Friedman,columnist,The New York Times
+2009,7492,Paul,Gigot,editorial page editor,The Wall Street Journal
+2009,7495,Jay T.,Harris,"Wallis Annenberg Chair, Director, Center for the Study of Journalism and Democracy, Annenberg School of Communication",University of Southern California
+2009,7496,David M.,Kennedy,"Donald J. McLachlan Professor of History, Emeritus",Stanford University
+2009,7497,Nicholas,Lemann,"dean, Graduate School of Journalism",Columbia University
+2009,7499,Gregory L.,Moore,editor,The Denver Post
+2009,7503,Paul C.,Tash,"editor, chairman and CEO",The St. Petersburg Times
+2009,7504,Sig,Gissler,"administrator, Graduate School of Journalism",Columbia University
+2009,7533,Joyce,Dehli,vice president for news,Lee Enterprises
+2009,7534,Ann Marie,Lipinski,vice president for civic engagement,The University of Chicago
+2009,7535,Richard,Oppel,former editor,Austin American-Statesman
+2009,7538,Anders,Gyllenhaal,executive editor,The Miami Herald
+2009,7632,Randell,Beck,retired president and publisher,Argus Leader Media
+2009,7633,Keven Ann,Willey,vice president/editorial page editor,The Dallas Morning News
+2010,7485,Lee C.,Bollinger,president,Columbia University
+2010,7486,Danielle,Allen,"UPS Foundation Professor,  School of Social Science",Institute for Advanced Study
+2010,7487,Jim,Amoss,editor,The Times-Picayune
+2010,7490,Kathleen,Carroll,executive editor and senior vice president,Associated Press
+2010,7491,Thomas L.,Friedman,columnist,The New York Times
+2010,7492,Paul,Gigot,editorial page editor,The Wall Street Journal
+2010,7496,David M.,Kennedy,"Donald J. McLachlan Professor of History, Emeritus",Stanford University
+2010,7497,Nicholas,Lemann,"dean, Graduate School of Journalism",Columbia University
+2010,7499,Gregory L.,Moore,editor,The Denver Post
+2010,7504,Sig,Gissler,"administrator, Graduate School of Journalism",Columbia University
+2010,7533,Joyce,Dehli,vice president for news,Lee Enterprises
+2010,7534,Ann Marie,Lipinski,vice president for civic engagement,The University of Chicago
+2010,7632,Randell,Beck,retired president and publisher,Argus Leader Media
+2010,7633,Keven Ann,Willey,vice president/editorial page editor,The Dallas Morning News
+2010,7696,Jim,VandeHei,executive editor and co-founder,Politico
+2010,7697,Amanda,Bennett,executive editor/projects and investigations,Bloomberg News
+2010,7698,Paul C.,Tash,chairman and CEO,St. Petersburg Times
+2010,13829,Anders,Gyllenhaal,executive editor,The Miami Herald
+2011,7485,Lee C.,Bollinger,president,Columbia University
+2011,7486,Danielle,Allen,"UPS Foundation Professor,  School of Social Science",Institute for Advanced Study
+2011,7487,Jim,Amoss,editor,The Times-Picayune
+2011,7490,Kathleen,Carroll,executive editor and senior vice president,Associated Press
+2011,7491,Thomas L.,Friedman,columnist,The New York Times
+2011,7492,Paul,Gigot,editorial page editor,The Wall Street Journal
+2011,7497,Nicholas,Lemann,"dean, Graduate School of Journalism",Columbia University
+2011,7499,Gregory L.,Moore,editor,The Denver Post
+2011,7504,Sig,Gissler,"administrator, Graduate School of Journalism",Columbia University
+2011,7533,Joyce,Dehli,vice president for news,Lee Enterprises
+2011,7534,Ann Marie,Lipinski,vice president for civic engagement,The University of Chicago
+2011,7632,Randell,Beck,retired president and publisher,Argus Leader Media
+2011,7633,Keven Ann,Willey,vice president/editorial page editor,The Dallas Morning News
+2011,7696,Jim,VandeHei,executive editor and co-founder,Politico
+2011,7698,Paul C.,Tash,chairman and CEO,St. Petersburg Times
+2011,7699,Eugene,Robinson,columnist and associate editor,The Washington Post
+2011,7700,Junot,Díaz,author and Rudge and Nancy Allen Professor of Writing,Massachusetts Institute of Technology
+2011,13885,David M.,Kennedy,"Donald J. McLachlan Professor of History, Emeritus",Stanford University
+2012,7485,Lee C.,Bollinger,president,Columbia University
+2012,7486,Danielle,Allen,"UPS Foundation Professor,  School of Social Science",Institute for Advanced Study
+2012,7491,Thomas L.,Friedman,columnist,The New York Times
+2012,7492,Paul,Gigot,editorial page editor,The Wall Street Journal
+2012,7497,Nicholas,Lemann,"dean, Graduate School of Journalism",Columbia University
+2012,7499,Gregory L.,Moore,editor,The Denver Post
+2012,7504,Sig,Gissler,"administrator, Graduate School of Journalism",Columbia University
+2012,7533,Joyce,Dehli,vice president for news,Lee Enterprises
+2012,7632,Randell,Beck,retired president and publisher,Argus Leader Media
+2012,7633,Keven Ann,Willey,vice president/editorial page editor,The Dallas Morning News
+2012,7696,Jim,VandeHei,executive editor and co-founder,Politico
+2012,7699,Eugene,Robinson,columnist and associate editor,The Washington Post
+2012,7700,Junot,Díaz,author and Rudge and Nancy Allen Professor of Writing,Massachusetts Institute of Technology
+2012,7701,Ann Marie,Lipinski,"curator, The Nieman Foundation",Harvard University
+2012,7702,Robert,Blau,managing editor for projects and investigations,Bloomberg News
+2012,7703,Steven,Hahn,Roy F. and Jeanette P. Nichols Professor of History,University of Pennsylvania
+2012,7704,Paul,Tash,chairman and CEO,Tampa Bay Times
+2012,7705,Margaret,Sullivan,editor,The Buffalo News
+2012,13826,Kathleen,Carroll,executive editor and senior vice president,Associated Press
+2012,13866,Jim,Amoss,editor,The Times-Picayune
+2013,7485,Lee C.,Bollinger,president,Columbia University
+2013,7486,Danielle,Allen,"UPS Foundation Professor,  School of Social Science",Institute for Advanced Study
+2013,7492,Paul,Gigot,editorial page editor,The Wall Street Journal
+2013,7497,Nicholas,Lemann,"dean, Graduate School of Journalism",Columbia University
+2013,7533,Joyce,Dehli,vice president for news,Lee Enterprises
+2013,7632,Randell,Beck,retired president and publisher,Argus Leader Media
+2013,7633,Keven Ann,Willey,vice president/editorial page editor,The Dallas Morning News
+2013,7699,Eugene,Robinson,columnist and associate editor,The Washington Post
+2013,7700,Junot,Díaz,author and Rudge and Nancy Allen Professor of Writing,Massachusetts Institute of Technology
+2013,7702,Robert,Blau,managing editor for projects and investigations,Bloomberg News
+2013,7703,Steven,Hahn,Roy F. and Jeanette P. Nichols Professor of History,University of Pennsylvania
+2013,7704,Paul,Tash,chairman and CEO,Tampa Bay Times
+2013,7706,Steve,Coll,author and staff writer,The New Yorker
+2013,7707,Stephen,Engelberg,editor-in-chief,ProPublica
+2013,7708,Aminda,Marqués Gonzalez,vice president and executive editor,The Miami Herald
+2013,7709,Quiara Alegría,Hudes,playwright,
+2013,7710,Sig,Gissler,"administrator, The Pulitzer Prizes",Columbia University
+2013,13566,Gregory L.,Moore,editor,The Denver Post
+2013,13875,Thomas L.,Friedman,columnist,The New York Times
+2014,7485,Lee C.,Bollinger,president,Columbia University
+2014,7486,Danielle,Allen,"UPS Foundation Professor,  School of Social Science",Institute for Advanced Study
+2014,7492,Paul,Gigot,editorial page editor,The Wall Street Journal
+2014,7533,Joyce,Dehli,vice president for news,Lee Enterprises
+2014,7632,Randell,Beck,retired president and publisher,Argus Leader Media
+2014,7633,Keven Ann,Willey,vice president/editorial page editor,The Dallas Morning News
+2014,7699,Eugene,Robinson,columnist and associate editor,The Washington Post
+2014,7700,Junot,Díaz,author and Rudge and Nancy Allen Professor of Writing,Massachusetts Institute of Technology
+2014,7703,Steven,Hahn,Roy F. and Jeanette P. Nichols Professor of History,University of Pennsylvania
+2014,7704,Paul,Tash,chairman and CEO,Tampa Bay Times
+2014,7707,Stephen,Engelberg,editor-in-chief,ProPublica
+2014,7708,Aminda,Marqués Gonzalez,vice president and executive editor,The Miami Herald
+2014,7709,Quiara Alegría,Hudes,playwright,
+2014,7710,Sig,Gissler,"administrator, The Pulitzer Prizes",Columbia University
+2014,7711,Steve,Coll,dean,"Graduate School of Journalism,  Columbia University"
+2014,7712,John,Daniszewski,vice president for international news,Associated Press
+2014,7713,Robert,Blau,executive editor,Bloomberg News
+2014,7714,Katherine,Boo,staff writer,The New Yorker
+2014,7715,Gail,Collins,op-ed columnist,The New York Times
+2015,7485,Lee C.,Bollinger,president,Columbia University
+2015,7492,Paul,Gigot,editorial page editor,The Wall Street Journal
+2015,7632,Randell,Beck,retired president and publisher,Argus Leader Media
+2015,7633,Keven Ann,Willey,vice president/editorial page editor,The Dallas Morning News
+2015,7699,Eugene,Robinson,columnist and associate editor,The Washington Post
+2015,7700,Junot,Díaz,author and Rudge and Nancy Allen Professor of Writing,Massachusetts Institute of Technology
+2015,7703,Steven,Hahn,Roy F. and Jeanette P. Nichols Professor of History,University of Pennsylvania
+2015,7707,Stephen,Engelberg,editor-in-chief,ProPublica
+2015,7708,Aminda,Marqués Gonzalez,vice president and executive editor,The Miami Herald
+2015,7709,Quiara Alegría,Hudes,playwright,
+2015,7711,Steve,Coll,dean,"Graduate School of Journalism,  Columbia University"
+2015,7712,John,Daniszewski,vice president for international news,Associated Press
+2015,7713,Robert,Blau,executive editor,Bloomberg News
+2015,7714,Katherine,Boo,staff writer,The New Yorker
+2015,7715,Gail,Collins,op-ed columnist,The New York Times
+2015,7727,Mike,Pride,Administrator,The Pulitzer Prizes
+2015,7728,Joyce,Dehli,former vice president for news,Lee Enterprises
+2015,13873,Danielle,Allen,"UPS Foundation Professor, School of Social Science",Institute for Advanced Studies

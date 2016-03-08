@@ -1,0 +1,1724 @@
+[
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "122"
+        },
+        {
+          "tid": "121"
+        },
+        {
+          "tid": "120"
+        },
+        {
+          "tid": "119"
+        },
+        {
+          "tid": "118"
+        },
+        {
+          "tid": "117"
+        },
+        {
+          "tid": "116"
+        },
+        {
+          "tid": "115"
+        },
+        {
+          "tid": "114"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "managing editor"
+        }
+      ]
+    },
+    "field_bio_photo": {
+      "und": [
+        {
+          "filemime": "image/jpeg",
+          "height": "142",
+          "title": "",
+          "filename": "psteiger.jpg",
+          "alt": "Paul Steiger",
+          "timestamp": "1439236138",
+          "filesize": "4871",
+          "fid": "893",
+          "width": "100",
+          "uri": "public://psteiger.jpg",
+          "uid": "0",
+          "status": "1"
+        }
+      ]
+    },
+    "changed": "1441220732",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "1"
+        }
+      ]
+    },
+    "nid": "7502",
+    "title": "Paul Steiger",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Steiger"
+        }
+      ]
+    },
+    "body": {
+      "und": [
+        {
+          "safe_summary": "",
+          "safe_value": "<p><strong>Paul Steiger</strong> is the managing editor of the <em>Wall Street Journal</em> and a vice president of Dow Jones &amp; Company. The editors of the <em>Wall Street Journal Online, the Wall Street Journal Europe</em> and <em>the Wall Street Journal Asia</em> also report to him.</p><p class=\"article\">Mr. Steiger joined the <em>Journal</em> in 1966 as a reporter in the San Francisco bureau. In 1968, he moved to the <em>Los Angeles Times</em> as a staff writer and in 1971 transferred to that paper&#39;s Washington, DC, bureau as an economics correspondent. He returned to Los Angeles in 1978 to serve as the <em>Times&#39;</em> business editor.</p><p class=\"article\">In 1983, Mr. Steiger rejoined the <em>Journal</em> as an assistant managing editor in New York and became a deputy managing editor in April 1985. He was appointed managing editor in June 1991 and became a vice president of the <em>Journal</em> in May 1992. Under his leadership, <em>Wall Street Journal</em> reporters and editors have won 14 Pulitzer Prizes in 14 years.</p><p class=\"article\">In 2002, Mr. Steiger was selected the first recipient of the American Society of Newspaper Editors&#39; Leadership Award, honoring his more than a decade of leadership at the <em>Wall Street Journal.</em> The John E. Anderson Graduate School of Management at UCLA honored him with the 2002 Gerald Loeb Award for lifetime achievement. Also in 2002, he was awarded the Columbia Journalism Award, given to honor a &quot;singular journalistic performance in the public interest,&quot; and the highest honor awarded by the Columbia University School of Journalism. He was named a 2001-2002 Poynter Fellow by Yale University. The National Press Foundation awarded him the 2001 George Beveridge Editor of the Year Award for qualities that produce excellence in media. In 2006, the National Academy of Television Arts &amp; Sciences awarded him an Emmy for Lifetime Achievement in Business &amp; Financial Reporting. Mr. Steiger personally won three Gerald Loeb Awards and two John Hancock awards for his economics and business coverage. He is co-author of the book, <em>The &#39;70s Crash and How to Survive It,</em> published in 1970.</p><p class=\"article\">Born in New York City, Mr. Steiger graduated from Yale University with a bachelor&#39;s degree in economics. He joined the Pulitzer Prize Board in 1998.</p>"
+        }
+      ]
+    },
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "The Wall Street Journal"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "Paul"
+        }
+      ]
+    },
+    "field_location_text": {
+      "und": [
+        {
+          "safe_value": "New York, NY"
+        }
+      ]
+    }
+  },
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "122"
+        },
+        {
+          "tid": "121"
+        },
+        {
+          "tid": "120"
+        },
+        {
+          "tid": "119"
+        },
+        {
+          "tid": "118"
+        },
+        {
+          "tid": "117"
+        },
+        {
+          "tid": "116"
+        },
+        {
+          "tid": "115"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "W.E.B. DuBois Professor of Humanities"
+        }
+      ]
+    },
+    "field_bio_photo": {
+      "und": [
+        {
+          "filemime": "image/jpeg",
+          "height": "291",
+          "title": "",
+          "filename": "gates236.jpg",
+          "alt": "Henry Louis Gates Jr.",
+          "timestamp": "1440619613",
+          "filesize": "43817",
+          "fid": "1018",
+          "width": "236",
+          "uri": "public://gates236.jpg",
+          "uid": "11",
+          "status": "1"
+        }
+      ]
+    },
+    "changed": "1440619613",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "1"
+        }
+      ]
+    },
+    "nid": "7505",
+    "title": "Henry Louis Gates Jr.",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Gates Jr."
+        }
+      ]
+    },
+    "body": {
+      "und": [
+        {
+          "safe_summary": "",
+          "safe_value": "<p><strong>Henry Louis Gates Jr.,</strong> is the W.E.B. Du Bois Professor of the Humanities, chair of the Afro-American Studies Department and director of the W.E.B. Du Bois Institute for Afro-American Research at Harvard University.</p><p>With 40 honorary degrees, Gates is a world-renowned scholar and teacher of African and African-American history and culture. He has authored seven books and written numerous essays and reviews on a broad range of African and African-American issues, including slavery, race, feminism, dialect and identity.</p><p>In 1989 he won the American Book Award for <em>The Signifying Monkey: A Theory of Afro-American Literary Criticism</em>. And he recently completed his second major documentary, <em>America Beyond the Color Line.</em> He also authored <em>Colored People: A Memoir</em> in 1994, tracing his childhood experiences in a small West Virginia town in the 1950s and 1960s; <em>The Future of the Race</em> (1996), co-authored with Cornel West; and <em>Thirteen Ways of Looking at a Black Man</em> (1997).</p><p>Gates has edited several anthologies, including <em>The Norton Anthology of African American Literature</em> (1996). He wrote a 1994 cover story for <em>Time</em> magazine on the new black Renaissance in art, and has written numerous articles for the <em>New Yorker</em>. In 2000, Gates authored, along with Cornel West, the widely acclaimed <em>The African American Century: How Black Americans Have Shaped Our Century</em>. That came on the heels of the authoritative and groundbreaking <em>Africana: The Encyclopedia of the African and African American Experience</em>, a collaboration with K. Anthony Appiah. It was also published on a CD-ROM as Encarta Africana by Microsoft. More recently, Gates authenticated the first novel by a female fugitive slave, <em>The Bondwoman&#39;s Narrative</em>.</p><p>Gates began his tenure at Harvard in 1991 after serving on the faculties at Duke, Cornell, and Yale. He is a 1973 summa cum laude, Phi Beta Kappa graduate of Yale, and earned his M.A. and Ph.D. (1979) from Clare College, The University of Cambridge.</p><p>Gates has received dozens of awards and honors, including the National Humanities Award presented by President Bill Clinton in 1998, the MacArthur Foundation &quot;genius grant&quot; (1981), and election to the American Academy of Arts and Letters (1999).</p><p>He has been named one of the &quot;25 Most Influential Americans&quot; by Time magazine in 1997, the year he joined the Pulitzer Board.</p>"
+        }
+      ]
+    },
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "Harvard University"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "Henry Louis"
+        }
+      ]
+    },
+    "field_location_text": {
+      "und": [
+        {
+          "safe_value": "Cambridge, MA"
+        }
+      ]
+    }
+  },
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "124"
+        },
+        {
+          "tid": "123"
+        },
+        {
+          "tid": "122"
+        },
+        {
+          "tid": "121"
+        },
+        {
+          "tid": "120"
+        },
+        {
+          "tid": "119"
+        },
+        {
+          "tid": "118"
+        },
+        {
+          "tid": "117"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "columnist"
+        }
+      ]
+    },
+    "field_bio_photo": {
+      "und": [
+        {
+          "filemime": "image/jpeg",
+          "height": "101",
+          "title": "",
+          "filename": "wsafire.jpg",
+          "alt": "William Safire",
+          "timestamp": "1439236138",
+          "filesize": "4835",
+          "fid": "898",
+          "width": "100",
+          "uri": "public://wsafire.jpg",
+          "uid": "0",
+          "status": "1"
+        }
+      ]
+    },
+    "changed": "1441381617",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "1"
+        }
+      ]
+    },
+    "nid": "7508",
+    "title": "William Safire",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Safire"
+        }
+      ]
+    },
+    "body": {
+      "und": [
+        {
+          "safe_summary": "",
+          "safe_value": "<p><strong>William Safire,</strong> who won the Pulitzer Prize for commentary in 1978, has been a political columnist for the <em>New York Times</em> since 1973. Readers also know him for his <em>New York Times Magazine</em> column &quot;On Language&quot; upon which he has based 13 books. Previously, Safire served as a senior White House speech-writer for President Nixon.</p><p class=\"article\">The New York City native began his journalism career as a reporter with the <em>New York Herald Tribune,</em> after attending Syracuse University for two years. Safire also spent time as a radio and TV producer as well as a U.S. Army correspondent. In the late 1950s, while serving as a vice president of a New York public relations firm, he was responsible for bringing together then-Vice President Nixon and Soviet Premier Nikita Khrushchev for their Cold-War era &quot;kitchen debate&quot; in Moscow.</p><p class=\"article\">Among Safire&#39;s numerous books are four novels: <em>Freedom</em> (1987) about Lincoln and the Civil War, <em>Full Disclosure</em> (1977), <em>Sleeper Spy</em> (1995), and <em>Scandalmonger</em> (2000) about press freedom and vituperation in the post-Revolutionary era. Other works include a political dictionary, a commentary on the Book of Job, and anthologies.</p><p class=\"article\">Safire also serves as chairman of the Dana Foundation, a philanthropic organization supporting arts education and neuroscience, and serves on the board of trustees of Syracuse University.</p>"
+        }
+      ]
+    },
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "The New York Times"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "William"
+        }
+      ]
+    },
+    "field_location_text": {
+      "und": [
+        {
+          "safe_value": "New York, NY"
+        }
+      ]
+    }
+  },
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "125"
+        },
+        {
+          "tid": "124"
+        },
+        {
+          "tid": "123"
+        },
+        {
+          "tid": "122"
+        },
+        {
+          "tid": "121"
+        },
+        {
+          "tid": "120"
+        },
+        {
+          "tid": "119"
+        },
+        {
+          "tid": "118"
+        },
+        {
+          "tid": "117"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "president and chief executive officer"
+        }
+      ]
+    },
+    "field_bio_photo": {
+      "und": [
+        {
+          "filemime": "image/jpeg",
+          "height": "231",
+          "title": "",
+          "filename": "boccardi.jpg",
+          "alt": "Louis Boccardi",
+          "timestamp": "1439236138",
+          "filesize": "45265",
+          "fid": "899",
+          "width": "200",
+          "uri": "public://boccardi.jpg",
+          "uid": "0",
+          "status": "1"
+        }
+      ]
+    },
+    "changed": "1441382079",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "0"
+        }
+      ]
+    },
+    "nid": "7509",
+    "title": "Louis D. Boccardi",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Boccardi"
+        }
+      ]
+    },
+    "body": {
+      "und": [
+        {
+          "safe_summary": "",
+          "safe_value": "<p><strong>Louis D. Boccardi</strong>, president and chief executive officer of Associated Press, has been elected chair of the Pulitzer Prize Board. His selection was announced by President George Rupp. Columbia University awards the annual prizes on the board&#39;s recommendation.</p><p class=\"article\">Boccardi has been president and chief executive officer of Associated Press, the world&#39;s largest news organization, since 1985. Prior to assuming the presidency, he served one year as executive vice president and chief operating officer and 10 years as executive editor in charge of AP&#39;s news operations.</p><p class=\"article\">Born in New York City, Boccardi holds a B.A. degree from Fordham College and a master&#39;s degree in journalism from Columbia. He joined the AP as executive assistant to the general news editor in 1967 after eight years with New York newspapers, during which he rose to the position of assistant managing editor of the World-Telegram and Sun and its successor newspaper, The World Journal Tribune. He was appointed AP managing editor in 1969, executive editor in 1973 and vice president in 1975.</p><p>In 1990 Boccardi was elected a fellow of the Society of Professional Journalists, the highest honor SPJ awards journalists for public service. He has received the William Allen White Foundation Award for Journalistic Merit, the Overseas Press Club Lifetime Achievement Award, and the Columbia University Graduate School of Journalism Award and was elected a Distinguished Service Member of the American Society of Newspaper Editors. Boccardi and the AP were awarded the 2001 John Peter and Anna Catherine Zenger award for Freedom of the Press and the Public&#39;s Right to Know.</p><p class=\"article\">Boccardi is a member of the national advisory board of the Freedom Forum Center for Media Studies, the board of trustees of the Newseum, and the board of visitors of Columbia&#39;s Graduate School of Journalism, and is an honorary trustee of the William Allen White Foundation at the University of Kansas.</p><p class=\"article\">Elected to the Pulitzer Prize Board in 1994, Boccardi succeeds Edward Seaton, editor in chief of The Manhattan (Kan.) Mercury, who has retired from the board after having served as chair. Members of the board serve a maximum of nine years.</p><p class=\"small\">Columbia University press release published May 08, 2001</p>"
+        }
+      ]
+    },
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "Associated Press"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "Louis D."
+        }
+      ]
+    },
+    "field_location_text": []
+  },
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "125"
+        },
+        {
+          "tid": "124"
+        },
+        {
+          "tid": "123"
+        },
+        {
+          "tid": "122"
+        },
+        {
+          "tid": "121"
+        },
+        {
+          "tid": "120"
+        },
+        {
+          "tid": "119"
+        },
+        {
+          "tid": "118"
+        },
+        {
+          "tid": "117"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "editor and executive vice president"
+        }
+      ]
+    },
+    "field_bio_photo": {
+      "und": [
+        {
+          "filemime": "image/jpeg",
+          "height": "205",
+          "title": "",
+          "filename": "johnSCarroll.jpg",
+          "alt": "John S. Carroll",
+          "timestamp": "1439236138",
+          "filesize": "37826",
+          "fid": "900",
+          "width": "200",
+          "uri": "public://johnSCarroll.jpg",
+          "uid": "0",
+          "status": "1"
+        }
+      ]
+    },
+    "changed": "1441309703",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "1"
+        }
+      ]
+    },
+    "nid": "7510",
+    "title": "John S. Carroll",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Carroll"
+        }
+      ]
+    },
+    "body": {
+      "und": [
+        {
+          "safe_summary": "",
+          "safe_value": "<p><strong>John S. Carroll</strong>, 60,&nbsp; has been editor and executive vice president of the <em>Los Angeles Times </em>since 2000 and vice president of Times Mirror since 1998.</p><p>Previously, he was editor of <em>The Baltimore Sun</em> and senior vice president of The Baltimore Sun Company for nine years. Prior to that he served as editor, vice president and executive vice president at the <em>Lexington Herald-Leader</em>.</p><p>The Rhode Island native spent two years in the military after earning a bachelor&#39;s degree in English literature from Haverford College. He later studied as a Nieman Fellow at Harvard University and as a Visiting Journalist Fellow at Oxford University, in the late 1980s.</p><p>His first reporting job was as staff reporter at the <em>Providence Journal-Bulletin</em> in 1963. He went on to become a reporter and later a foreign correspondent at <em>The Baltimore Sun </em>and worked as an editor at the <em>Philadelphia Inquirer</em> in the 1970s.</p><p>Named Editor of the Year by the National Press Foundation in 1998, Carroll also has a longtime affiliation with the American Society of Newspaper Editors, having served on the organization&#39;s board of directors and its Writing Awards Board.</p><p>Carroll was elected as a Pulitzer Prize Board member in 1994. Carroll has also served as a Pulitzer Prize juror.</p>"
+        }
+      ]
+    },
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "Los Angeles Times"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "John S."
+        }
+      ]
+    },
+    "field_location_text": []
+  },
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "125"
+        },
+        {
+          "tid": "124"
+        },
+        {
+          "tid": "123"
+        },
+        {
+          "tid": "122"
+        },
+        {
+          "tid": "121"
+        },
+        {
+          "tid": "120"
+        },
+        {
+          "tid": "119"
+        },
+        {
+          "tid": "118"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "editor"
+        }
+      ]
+    },
+    "field_bio_photo": {
+      "und": [
+        {
+          "filemime": "image/jpeg",
+          "height": "232",
+          "title": "",
+          "filename": "sandraMRowe.jpg",
+          "alt": "Sandra Rowe",
+          "timestamp": "1439236138",
+          "filesize": "47740",
+          "fid": "902",
+          "width": "200",
+          "uri": "public://sandraMRowe.jpg",
+          "uid": "0",
+          "status": "1"
+        }
+      ]
+    },
+    "changed": "1441222347",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "1"
+        }
+      ]
+    },
+    "nid": "7512",
+    "title": "Sandra Mims Rowe",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Rowe"
+        }
+      ]
+    },
+    "body": {
+      "und": [
+        {
+          "safe_summary": "",
+          "safe_value": "<p><strong>Sandra Mims Rowe</strong> is editor of <em>The Oregonian</em>, the largest daily newspaper in the Northwest.</p><p class=\"article\">Rowe has been editor of <em>The Oregonian</em> since 1993. She previously made her mark in journalism in Virginia where she spent 22 years at T<em>he Virginian-Pilot and The Ledger-Star</em>. Rowe rose to executive editor and vice president at the combined papers in 1984, a post she held until 1993. On her watch, the papers won the Pulitzer Prize for general news reporting in 1985. For her work in Virginia, Rowe was inducted into the Virginia Journalism Hall of Fame in 2000.</p><p class=\"article\">Also, under her leadership, <em>The Oregonian</em> has won three Pulitzer Prizes and been a finalist four additional times. <em>The Oregonian</em> won the prize for explanatory reporting in 1999 and, in 2001, both the feature writing prize and the Gold Medal for Public Service.</p><p>Rowe has also served in a leadership role for many distinguished journalism organizations. She is a past president of the American Society of Newspaper Editors (ASNE). Currently she chairs the Knight Foundation Journalism Advisory Board, is a board member for the Medill School of Journalism&#39;s Board of Visitors at Northwestern University, and is chair of the Board of Visitors for the Knight Fellowships at Stanford University.</p><p class=\"article\">She is a 1970 graduate of East Carolina University and completed the Management Development Program in 1990 at Harvard&#39;s Graduate School of Business.</p>"
+        }
+      ]
+    },
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "The Oregonian"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "Sandra Mims"
+        }
+      ]
+    },
+    "field_location_text": []
+  },
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "122"
+        },
+        {
+          "tid": "121"
+        },
+        {
+          "tid": "120"
+        },
+        {
+          "tid": "119"
+        },
+        {
+          "tid": "118"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "dean, Graduate School of Journalism"
+        }
+      ]
+    },
+    "field_bio_photo": [],
+    "changed": "1441313332",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "1"
+        }
+      ]
+    },
+    "nid": "7513",
+    "title": "Tom Goldstein",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Goldstein"
+        }
+      ]
+    },
+    "body": {
+      "und": [
+        {
+          "safe_summary": "",
+          "safe_value": "<p><strong>Tom Goldstein</strong> worked as a reporter at AP, <em>Newsday, The Wall Street Journal </em>and <em>The New York Times</em>. He was press secretary to New York City Mayor Edward Koch. Goldstein has written &ldquo;The News at Any Cost,&rdquo; &ldquo;A Two-Faced Press&rdquo; and co-authored &ldquo;The Lawyers Guide to Writing Well.&rdquo; He edited the &ldquo;Killing the Messenger: 100 years of Press Criticism.&rdquo; Goldstein is a graduate of Yale and Columbia&rsquo;s law school and journalism school.</p><p>Tom Goldstein joined the Pulitzer Prize Board in 1998.</p><p>&nbsp;</p>"
+        }
+      ]
+    },
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "Columbia University"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "Tom"
+        }
+      ]
+    },
+    "field_location_text": []
+  },
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "126"
+        },
+        {
+          "tid": "125"
+        },
+        {
+          "tid": "124"
+        },
+        {
+          "tid": "123"
+        },
+        {
+          "tid": "122"
+        },
+        {
+          "tid": "121"
+        },
+        {
+          "tid": "120"
+        },
+        {
+          "tid": "119"
+        },
+        {
+          "tid": "118"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "president"
+        }
+      ]
+    },
+    "field_bio_photo": {
+      "und": [
+        {
+          "filemime": "image/jpeg",
+          "height": "321",
+          "title": "",
+          "filename": "georupp.jpg",
+          "alt": "George Rupp",
+          "timestamp": "1439236138",
+          "filesize": "17766",
+          "fid": "903",
+          "width": "210",
+          "uri": "public://georupp.jpg",
+          "uid": "0",
+          "status": "1"
+        }
+      ]
+    },
+    "changed": "1441309155",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "1"
+        }
+      ]
+    },
+    "nid": "7514",
+    "title": "George Rupp",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Rupp"
+        }
+      ]
+    },
+    "body": {
+      "und": [
+        {
+          "safe_summary": "",
+          "safe_value": "<p class=\"article\" style=\"margin: 3px 0px 8px 5px; padding: 0px; line-height: 1.3em; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13.2px; background-color: rgb(255, 255, 255);\">During his nine-year tenure as president of Columbia University,&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Dr. Rupp</strong>&nbsp;focused on enhancing undergraduate education, on strengthening the relationship of the campus to surrounding communities and New York City as a whole, and on increasing the university&rsquo;s international orientation. At the same time, he completed both a financial restructuring of the university and a $2.84 billion fund-raising campaign that achieved eight successive records in dollars raised.</p><p class=\"article\" style=\"margin: 3px 0px 8px 5px; padding: 0px; line-height: 1.3em; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13.2px; background-color: rgb(255, 255, 255);\">Prior to his time at Columbia, Dr. Rupp served as president of Rice University, where in the course of his eight years applications for admission almost tripled, federal research support more than doubled, and the value of the Rice endowment increased by more than $500 million to $1.25 billion.</p><p class=\"article\" style=\"margin: 3px 0px 8px 5px; padding: 0px; line-height: 1.3em; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13.2px; background-color: rgb(255, 255, 255);\">Before going to Rice, Dr. Rupp was the John Lord O&rsquo;Brian Professor of Divinity and dean of the Harvard Divinity School. Under his leadership, the curriculum of the school was revised to address more directly the pluralistic character of contemporary religious life. Further developments included new programs in women&rsquo;s studies and religion, Jewish-Christian relations, and religion and medicine.</p><p class=\"article\" style=\"margin: 3px 0px 8px 5px; padding: 0px; line-height: 1.3em; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13.2px; background-color: rgb(255, 255, 255);\">Born in New Jersey of immigrant parents, Dr. Rupp has studied and conducted research for extended periods in both Europe and Asia. He studied in Germany before he was awarded an A.B. from Princeton University in 1964, a B.D. from Yale Divinity School in 1967, and a Ph.D. from Harvard in 1972. He was Vice Chancellor of the University of Redlands in Redlands, California. Rupp left Redlands to become Dean of Academic Affairs at the University of Wisconsin&ndash;Green Bay in 1977, where he remained until 1979. He is an ordained Presbyterian minister.</p><p class=\"article\" style=\"margin: 3px 0px 8px 5px; padding: 0px; line-height: 1.3em; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13.2px; background-color: rgb(255, 255, 255);\">He is the author of numerous articles and five books including:<br style=\"margin: 0px; padding: 0px;\" /><em style=\"margin: 0px; padding: 0px;\">Globalization Challenged: Commitment, Conflict, and Community;&nbsp;Christologies and Cultures: Toward a Typology of Worldviews;&nbsp;Beyond Existentialism and Zen: Religion in a Pluralistic World;</em>&nbsp;and&nbsp;<em style=\"margin: 0px; padding: 0px;\">&#39;Culture Protestantism&#39;: German Liberal Theology at the Turn of the 20th Century</em></p><p class=\"article\" style=\"margin: 3px 0px 8px 5px; padding: 0px; line-height: 1.3em; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13.2px; background-color: rgb(255, 255, 255);\">George and his wife Nancy are the parents of two adult daughters who are teaching and writing, one with scholarly expertise in East Asia and the other a specialist in African studies, and the grandparents of two girls and three boys.</p>"
+        }
+      ]
+    },
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "Columbia University"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "George"
+        }
+      ]
+    },
+    "field_location_text": []
+  },
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "127"
+        },
+        {
+          "tid": "126"
+        },
+        {
+          "tid": "125"
+        },
+        {
+          "tid": "124"
+        },
+        {
+          "tid": "123"
+        },
+        {
+          "tid": "122"
+        },
+        {
+          "tid": "121"
+        },
+        {
+          "tid": "120"
+        },
+        {
+          "tid": "119"
+        },
+        {
+          "tid": "118"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "administrator, The Pulitzer Prizes"
+        }
+      ]
+    },
+    "field_bio_photo": {
+      "und": [
+        {
+          "filemime": "image/jpeg",
+          "height": "295",
+          "title": "",
+          "filename": "topping.jpg",
+          "alt": "Seymour Topping",
+          "timestamp": "1439236138",
+          "filesize": "13869",
+          "fid": "904",
+          "width": "250",
+          "uri": "public://topping.jpg",
+          "uid": "0",
+          "status": "1"
+        }
+      ]
+    },
+    "changed": "1440618005",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "1"
+        }
+      ]
+    },
+    "nid": "7515",
+    "title": "Seymour Topping",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Topping"
+        }
+      ]
+    },
+    "body": {
+      "und": [
+        {
+          "safe_summary": "",
+          "safe_value": "<p><strong>Seymour Toppin</strong>g has had a varied career as foreign correspondent, editor, university professor and author.</p><p>He retired in 2002 as Administrator of the Pulitzer after nine years of service and was appointed San Paolo Professor Emeritus of International Journalism at Columbia University.</p><p>Prior to Columbia, he was a member of the <em>New York Times</em> for thirty years as chief correspondent in Moscow and Southeast Asia, foreign editor, deputy managing editor and managing editor from 1986 to 1987.</p><p>After service as an infantry officer in the Pacific during World War II, he covered the Chinese Civil War for The Associated Press, the French Indochinese War, London and Berlin before joining the <em>New York Times</em> in 1959.</p><p>Born in New York in 1921, he is graduate of the School of Journalism at the University of Missouri.</p><p>He is the author of <em>Journey Between Two Chinas</em>, (Harper and Row), 1972; <em>The Peking Letter: A Novel of the Chinese Civil War</em> (Public Affairs 1999,) and just completed another historical novel, <em>Fatal Crossing, A Novel of Vietnam 1945</em> (East Bridge 2004.) He co-authored <em>Report from Red China (</em>Quadrangle Books 1971.)</p><p>He is married to Audrey Ronning Topping, a photo journalist, whose father, Chester Ronning, served as Canadian ambassador to China, and grandparents were Lutheran missionaries in China.</p><p>Board member (Administrator) 1993-2001.</p>"
+        }
+      ]
+    },
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "Columbia University"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "Seymour"
+        }
+      ]
+    },
+    "field_location_text": {
+      "und": [
+        {
+          "safe_value": "New York, NY"
+        }
+      ]
+    }
+  },
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "121"
+        },
+        {
+          "tid": "120"
+        },
+        {
+          "tid": "119"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "historian and biographer"
+        }
+      ]
+    },
+    "field_bio_photo": [],
+    "changed": "1440701851",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "1"
+        }
+      ]
+    },
+    "nid": "7516",
+    "title": "Doris Kearns Goodwin",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Goodwin"
+        }
+      ]
+    },
+    "body": [],
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "self-employed"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "Doris Kearns"
+        }
+      ]
+    },
+    "field_location_text": []
+  },
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "124"
+        },
+        {
+          "tid": "123"
+        },
+        {
+          "tid": "122"
+        },
+        {
+          "tid": "121"
+        },
+        {
+          "tid": "120"
+        },
+        {
+          "tid": "119"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "vice president and assistant to the publisher"
+        }
+      ]
+    },
+    "field_bio_photo": [],
+    "changed": "1440790097",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "1"
+        }
+      ]
+    },
+    "nid": "7517",
+    "title": "William Ketter",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Ketter"
+        }
+      ]
+    },
+    "body": {
+      "und": [
+        {
+          "safe_summary": "",
+          "safe_value": "<p>1996-1998 editor and vice president, The Patriot Ledger, Quincy, MA. 1999-2000 chairman, journalism department, Boston University. 1996-2001 Pulitzer Prize Board member. No photo currently available.</p>"
+        }
+      ]
+    },
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "The Boston Globe"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "William"
+        }
+      ]
+    },
+    "field_location_text": {
+      "und": [
+        {
+          "safe_value": "Boston, MA"
+        }
+      ]
+    }
+  },
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "127"
+        },
+        {
+          "tid": "126"
+        },
+        {
+          "tid": "125"
+        },
+        {
+          "tid": "124"
+        },
+        {
+          "tid": "123"
+        },
+        {
+          "tid": "122"
+        },
+        {
+          "tid": "121"
+        },
+        {
+          "tid": "120"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "editor in chief"
+        }
+      ]
+    },
+    "field_bio_photo": {
+      "und": [
+        {
+          "filemime": "image/jpeg",
+          "height": "225",
+          "title": "",
+          "filename": "seaton.jpg",
+          "alt": "Edward Seaton",
+          "timestamp": "1439236138",
+          "filesize": "45975",
+          "fid": "905",
+          "width": "150",
+          "uri": "public://seaton.jpg",
+          "uid": "0",
+          "status": "1"
+        }
+      ]
+    },
+    "changed": "1441382190",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "1"
+        }
+      ]
+    },
+    "nid": "7518",
+    "title": "Edward Seaton",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Seaton"
+        }
+      ]
+    },
+    "body": {
+      "und": [
+        {
+          "safe_summary": "",
+          "safe_value": "<p><strong>Edward Seaton</strong> began his career in journalism as a general assignment reporter and copy editor at The Courier-Journal in Louisville, Kentucky. An honors graduate of Harvard College, he studied on a Fulbright grant in Ecuador and did graduate work in journalism at the University of Missouri. He was made a Knight of the Order of Christopher Columbus by the Dominican Republic for his work for press freedom, and is a recipient of Columbia&#39;s Maria Moors Cabot Prize.</p><p class=\"article\">Past president of both the American Society of Newspaper Editors and the Inter American Press Association, Seaton is president of the ASNE Foundation and serves on IAPA&#39;s executive committee. He is a member of the board of the International Center for Journalists, the advisory committee of the Knight International Press Fellowship Program and Columbia&#39;s Cabot Awards Board.</p><p class=\"article\">Seaton was elected to the board in 1992.</p>"
+        }
+      ]
+    },
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "Manhattan  Mercury"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "Edward"
+        }
+      ]
+    },
+    "field_location_text": {
+      "und": [
+        {
+          "safe_value": "Manhattan, Kan."
+        }
+      ]
+    }
+  },
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "127"
+        },
+        {
+          "tid": "126"
+        },
+        {
+          "tid": "125"
+        },
+        {
+          "tid": "124"
+        },
+        {
+          "tid": "123"
+        },
+        {
+          "tid": "122"
+        },
+        {
+          "tid": "121"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "president and publisher"
+        }
+      ]
+    },
+    "field_bio_photo": {
+      "und": [
+        {
+          "filemime": "image/jpeg",
+          "height": "381",
+          "title": "",
+          "filename": "jdotson.jpg",
+          "alt": "John L. Dotson",
+          "timestamp": "1440605797",
+          "filesize": "88898",
+          "fid": "1012",
+          "width": "300",
+          "uri": "public://jdotson.jpg",
+          "uid": "11",
+          "status": "1"
+        }
+      ]
+    },
+    "changed": "1441379534",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "1"
+        }
+      ]
+    },
+    "nid": "7519",
+    "title": "John L. Dotson Jr.",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Dotson Jr."
+        }
+      ]
+    },
+    "body": {
+      "und": [
+        {
+          "safe_summary": "",
+          "safe_value": "<p>Prior to joining the Akron Beacon Journal<strong>, John Dotson</strong> was publisher of the <em>Daily Camera</em> in Boulder, Colo.</p><p class=\"article\">In prior positions, he was director of night operations at the <em>Philadelphia Inquirer</em>, transportation and circulation administration manager of the <em>Philadelphia Daily News</em>, and executive assistant to Philadelphia Newspapers, Inc., President Sam Keel. He also worked in several editorial departments of the Inquirer.</p><p class=\"article\">John joined PNI in 1983 after 17 years at <em>Newsweek</em>, where he held posts as Los Angeles bureau chief and senior editor/news editor in New York. He also worked at the <em>Newark Evening News </em>and <em>Detroit Free Press.</em></p><p class=\"article\">As news editor at <em>Newsweek</em>, John coordinated the magazine&#39;s worldwide network of correspondents for seven years. He also handled <em>Newsweek</em>&#39;s logistical arrangements for the Republican and Democratic national conventions in 1976 and 1980.</p><p class=\"article\">He is a member of the board of visitors of the John S. Knight Fellowship Program, which offers working journalists a year&#39;s study at Stanford University in California. He also is a director of the Institute for Journalism Education, which runs several training programs for minority journalists, and is a member of the ANPA Minority Opportunity Committee. John also serves on the advisory boards for the schools of journalism at University of Colorado, University of North Carolina and University of Southern California.</p><p class=\"article\">In Boulder, he is chairman of the Boulder Chamber of Commerce&#39;s Economic Futures Panel. He also is a member o the development committee of the San Juan Family Learning Center, and agency devoted to aiding disadvantaged families in Boulder.</p><p class=\"article\">John is a graduate of Temple University in Philadelphia. He received an honorary doctorate from Temple in 1981. He is married and is the father of five.</p><p class=\"article\"><em>(June 10, 1991)</em></p>"
+        }
+      ]
+    },
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "Akron Beacon Journal"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "John L."
+        }
+      ]
+    },
+    "field_location_text": []
+  },
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "125"
+        },
+        {
+          "tid": "124"
+        },
+        {
+          "tid": "123"
+        },
+        {
+          "tid": "122"
+        },
+        {
+          "tid": "121"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "president"
+        }
+      ]
+    },
+    "field_bio_photo": [],
+    "changed": "1441382488",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "1"
+        }
+      ]
+    },
+    "nid": "7520",
+    "title": "Jack Fuller",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Fuller"
+        }
+      ]
+    },
+    "body": {
+      "und": [
+        {
+          "safe_summary": "",
+          "safe_value": "<p>No biography/photo currently available.</p>"
+        }
+      ]
+    },
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "Tribune Publishing Company"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "Jack"
+        }
+      ]
+    },
+    "field_location_text": []
+  },
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "129"
+        },
+        {
+          "tid": "128"
+        },
+        {
+          "tid": "127"
+        },
+        {
+          "tid": "126"
+        },
+        {
+          "tid": "125"
+        },
+        {
+          "tid": "124"
+        },
+        {
+          "tid": "123"
+        },
+        {
+          "tid": "122"
+        },
+        {
+          "tid": "121"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "Porter University Professor"
+        }
+      ]
+    },
+    "field_bio_photo": [],
+    "changed": "1441382696",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "1"
+        }
+      ]
+    },
+    "nid": "7523",
+    "title": "Helen Vendler",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Vendler"
+        }
+      ]
+    },
+    "body": [],
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "Harvard University"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "Helen"
+        }
+      ]
+    },
+    "field_location_text": {
+      "und": [
+        {
+          "safe_value": "Cambridge, MA"
+        }
+      ]
+    }
+  },
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "126"
+        },
+        {
+          "tid": "125"
+        },
+        {
+          "tid": "124"
+        },
+        {
+          "tid": "123"
+        },
+        {
+          "tid": "122"
+        },
+        {
+          "tid": "121"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "professor of law"
+        }
+      ]
+    },
+    "field_bio_photo": [],
+    "changed": "1441380983",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "1"
+        }
+      ]
+    },
+    "nid": "7524",
+    "title": "Marilyn Yarbrough",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Yarbrough"
+        }
+      ]
+    },
+    "body": {
+      "und": [
+        {
+          "safe_summary": "",
+          "safe_value": "<p>No biography/photo currently available.</p>"
+        }
+      ]
+    },
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "University of North Carolina"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "Marilyn"
+        }
+      ]
+    },
+    "field_location_text": {
+      "und": [
+        {
+          "safe_value": "Chapel Hill, NC"
+        }
+      ]
+    }
+  },
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "123"
+        },
+        {
+          "tid": "122"
+        },
+        {
+          "tid": "121"
+        },
+        {
+          "tid": "120"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "editor, president and C.E.O."
+        }
+      ]
+    },
+    "field_bio_photo": {
+      "und": [
+        {
+          "filemime": "image/jpeg",
+          "height": "400",
+          "title": "",
+          "filename": "andrewBarnes320.jpg",
+          "alt": "Andrew Barnes",
+          "timestamp": "1440618785",
+          "filesize": "24616",
+          "fid": "1017",
+          "width": "320",
+          "uri": "public://andrewBarnes320.jpg",
+          "uid": "11",
+          "status": "1"
+        }
+      ]
+    },
+    "changed": "1441053417",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "1"
+        }
+      ]
+    },
+    "nid": "7539",
+    "title": "Andrew Barnes",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Barnes"
+        }
+      ]
+    },
+    "body": {
+      "und": [
+        {
+          "safe_summary": "",
+          "safe_value": "<p style=\"margin: 0px 0px 20px; padding: 0px; border: 0px; vertical-align: baseline; box-sizing: inherit; color: rgb(51, 51, 51); font-family: 'Open Sans', 'Segoe UI', Helvetica, sans-serif; font-size: 13px; line-height: 19.9939994812012px; background-color: rgb(255, 255, 255);\"><strong style=\"margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; box-sizing: inherit; font-family: Arial, Helvetica, sans-serif !important;\">Andrew Barnes</strong>, chairman of the Poynter Institute for Media Studies, and former chairman and CEO of the&nbsp;<em style=\"margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; box-sizing: inherit;\">St. Petersburg Times</em>, is a native of New York City and a graduate of Harvard University where he took his degree in history.</p><p style=\"margin: 0px 0px 20px; padding: 0px; border: 0px; vertical-align: baseline; box-sizing: inherit; color: rgb(51, 51, 51); font-family: 'Open Sans', 'Segoe UI', Helvetica, sans-serif; font-size: 13px; line-height: 19.9939994812012px; background-color: rgb(255, 255, 255);\">He began his professional career on the&nbsp;<em style=\"margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; box-sizing: inherit;\">Providence</em>&nbsp;(R.I.)&nbsp;<em style=\"margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; box-sizing: inherit;\">Journal.</em>&nbsp;After two years in the Army, he joined the&nbsp;<em style=\"margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; box-sizing: inherit;\">Washington Post</em>&nbsp;in 1965. During his eight years at the&nbsp;<em style=\"margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; box-sizing: inherit;\">Post</em>, he rose from reporter to deputy metropolitan editor before taking charge of the&nbsp;<em style=\"margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; box-sizing: inherit;\">Post</em>&#39;s education bureau. During 1969-70, he traveled in Europe and Africa on an Alicia Patterson Fellowship studying urban change.</p><p style=\"margin: 0px 0px 20px; padding: 0px; border: 0px; vertical-align: baseline; box-sizing: inherit; color: rgb(51, 51, 51); font-family: 'Open Sans', 'Segoe UI', Helvetica, sans-serif; font-size: 13px; line-height: 19.9939994812012px; background-color: rgb(255, 255, 255);\">In 1973, Barnes joined the&nbsp;<em style=\"margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; box-sizing: inherit;\">St. Petersburg Times</em>&nbsp;as assistant managing editor and metropolitan editor; in February 1976, he was promoted to managing editor. He became editor and president in April, 1984. In 1988 he succeeded Gene Patterson as chief executive of the Times Publishing Company and chairman of The Poynter Institute for Media Studies. He relinquished the titles of Editor and President to Paul Tash in February 2000.</p><p style=\"margin: 0px 0px 20px; padding: 0px; border: 0px; vertical-align: baseline; box-sizing: inherit; color: rgb(51, 51, 51); font-family: 'Open Sans', 'Segoe UI', Helvetica, sans-serif; font-size: 13px; line-height: 19.9939994812012px; background-color: rgb(255, 255, 255);\">He is immediate past-Chairman of the Newspaper Association of America, and past chairman of the American Society of Newspaper Editors Ethics Committee. He was named to the Pulitzer Board in 1996.</p><p style=\"margin: 0px 0px 20px; padding: 0px; border: 0px; vertical-align: baseline; box-sizing: inherit; color: rgb(51, 51, 51); font-family: 'Open Sans', 'Segoe UI', Helvetica, sans-serif; font-size: 13px; line-height: 19.9939994812012px; background-color: rgb(255, 255, 255);\">Barnes is married to the former Molly Otis; they have two sons, a daughter, and three grandchildren.</p>"
+        }
+      ]
+    },
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "St. Petersburg Times"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "Andrew"
+        }
+      ]
+    },
+    "field_location_text": []
+  },
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "124"
+        },
+        {
+          "tid": "123"
+        },
+        {
+          "tid": "122"
+        },
+        {
+          "tid": "121"
+        },
+        {
+          "tid": "120"
+        },
+        {
+          "tid": "119"
+        },
+        {
+          "tid": "118"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "editorial page editor/vice president"
+        }
+      ]
+    },
+    "field_bio_photo": [],
+    "changed": "1441124342",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "1"
+        }
+      ]
+    },
+    "nid": "7546",
+    "title": "Rena Pederson",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Pederson"
+        }
+      ]
+    },
+    "body": {
+      "und": [
+        {
+          "safe_summary": "",
+          "safe_value": "<p class=\"article\" src=\"http://www.pulitzer.org/files/bio_images/rpederson.jpg\">Named one of the most powerful women in Texas by <em>Texas Monthly</em> magazine, <strong>Rena Pederson</strong> has held senior posts at the <em>Dallas Morning News</em> since 1973. As editor at large since 2002, she writes a weekly column for the paper&#39;s Sunday Reader section as well as profiles and enterprise feature stories. She previously served as a vice president and editorial page editor, supervising the staff and content of the opinion pages for 16 years. Under her leadership, the editorial team was named a finalist for the 1993 Pulitzer Prize in editorial writing.</p><p class=\"article\">After completing a bachelor&#39;s degree in journalism with honors from the University of Texas at Austin, she went on to graduate from Columbia&#39;s Graduate School of Journalism in 1970.</p><p class=\"article\">Pederson&#39;s editorial writing has earned awards from United Press International and the Associated Press Managing Editors association. She has also written two books: <em>What&#39;s Next? Women Redefining Their Dreams in the Prime of Life</em> (2001) and most recently, <em>What&#39;s Missing? The Faith Factor for Women</em> (2003), which profiles well-known contemporary American women including Laura Bush, Diane Sawyer, Peggy Noonan and Judy Collins.</p><p class=\"article\">Currently, Pederson chairs the Dallas Committee on Foreign Relations and serves on the boards of the Dallas Historical Society and the Dallas Museum of Natural History, among others. A member of the American Society of Newspaper Editors, she is also a past president of the National Conference of Editorial Writers.</p>"
+        }
+      ]
+    },
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "The Dallas Morning News"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "Rena"
+        }
+      ]
+    },
+    "field_location_text": []
+  },
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "121"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "president and publisher"
+        }
+      ]
+    },
+    "field_bio_photo": [],
+    "changed": "1441224500",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "0"
+        }
+      ]
+    },
+    "nid": "13876",
+    "title": "Walter Rugaber",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Rugaber"
+        }
+      ]
+    },
+    "body": [],
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "The Roanoke Times"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "Walter"
+        }
+      ]
+    },
+    "field_location_text": {
+      "und": [
+        {
+          "safe_value": "Roanoke, VA"
+        }
+      ]
+    }
+  },
+  {
+    "field_years": {
+      "und": [
+        {
+          "tid": "121"
+        }
+      ]
+    },
+    "field_job_title": {
+      "und": [
+        {
+          "safe_value": "director"
+        }
+      ]
+    },
+    "field_bio_photo": [],
+    "changed": "1441380237",
+    "type": "board_member",
+    "field_ordering_weight": {
+      "und": [
+        {
+          "value": "0"
+        }
+      ]
+    },
+    "nid": "13888",
+    "title": "James V. Risser",
+    "field_last_name": {
+      "und": [
+        {
+          "safe_value": "Risser"
+        }
+      ]
+    },
+    "body": {
+      "und": [
+        {
+          "safe_summary": "",
+          "safe_value": "<p><strong>Jim Risser </strong>has distinguished himself as an investigative reporter, an environmental reporter and as a leader in efforts to improve the quality of modern journalism.</p><p class=\"article\">Risser was a reporter for the <em>Des Moines Register </em>for 20 years, and was its Washington bureau chief from 1976 to 1985. During that time he won numerous journalism honors, including two Pulitzer Prizes for National Reporting. His first Pulitzer, in 1976, was awarded for stories exposing corruption in the U.S. grain exporting industry, which led to criminal convictions and reform legislation. His second Pulitzer, in 1979, was awarded for a series of stories showing the destructive impact of modern American agriculture on the environment. His other honors include two Thomas L. Stokes Awards for environmental reporting, the Edward J. Meeman Award for conservation reporting, two Raymond Clapper Awards for Washington reporting, and the American Political Science Association Award for distinguished reporting of public affairs.</p><p class=\"article\">In 1985, Risser was named director of the John S. Knight Fellowships for Professional Journalists at Stanford University, a mid-career sabbatical program for outstanding print and broadcast journalists from the United States and abroad, a position he held until his retirement in 2000. He had been a Professional Journalism Fellow at Stanford in 1973-74. As a member of the Stanford faculty, Risser also taught in the Department of Communication&#39;s graduate journalism program.</p><p class=\"article\">Risser was a member of the Pulitzer Prize Board from 1990 to 1999. He currently serves on the Journalism Advisory Committee of the John S. and James L. Knight Foundation, on the Steering Committee of the Committee of Concerned Journalists, and is a member of the Gridiron Club of Washington, Investigative Reporters &amp; Editors, and the Society of Environmental Journalists. From 2000-2003 he was a member of the Board of Governors of the Wallace Stegner Initiative, a project of the Institute for Journalism and Natural Resources, and he served as a judge for the Institute&#39;s report, &quot;Matching the Scenery: Journalism&#39;s Duty to the American West.&quot; He is a member of the boards of directors of the Oregon Shakespeare Festival and of Jefferson Public Radio, in Ashland, Oregon, and he serves on the Southern Oregon University Advisory Board.</p><p class=\"article\">In addition to his stories for the <em>Des Moines Register</em>, he has written on environmental issues for several newspapers and magazines, and he continues to write on news media issues for journalism publications. In 2001, he co-authored a study for CNN analyzing television&#39;s failures in reporting the results of the 2000 presidential election.</p><p class=\"article\">Risser is a graduate of the University of Nebraska and the University of San Francisco Law School, and practiced law in his hometown of Lincoln, Nebraska before turning to journalism in 1964. He and his wife, Sandra Risser, live in Ashland, Oregon. They have two sons, David, of Salem, Oregon, and John, of Ashland.</p><p>- January 2005<br /><br />&nbsp;</p>"
+        }
+      ]
+    },
+    "field_employer": {
+      "und": [
+        {
+          "safe_value": "John S. Knight Fellowships, Stanford University"
+        }
+      ]
+    },
+    "field_first_name": {
+      "und": [
+        {
+          "safe_value": "James V."
+        }
+      ]
+    },
+    "field_location_text": {
+      "und": [
+        {
+          "safe_value": "Palo Alto, Calif."
+        }
+      ]
+    }
+  }
+]
