@@ -16,7 +16,7 @@ for nid, person in unique_members.items():
     gd = person['gender']
     genderdict[gd].append(person)
 
-print("Since 1968, the estimated gender breakdown for the Pulitzer Board membership is:")
+print("Since 1968, the estimated gender breakdown for the Pulitzer Prize Board membership is:")
 print("\tF:", len(genderdict['F']))
 print("\tM:", len(genderdict['M']))
 fm_ratio = round(100 * len(genderdict['F'])/len(genderdict['M']))
@@ -50,4 +50,40 @@ for decade in [1960, 1970, 1980, 1990, 2000, 2010]:
     print("\tF:", len(genderdict['F']))
     print("\tM:", len(genderdict['M']))
     fm_ratio = round(100 * len(genderdict['F'])/len(genderdict['M']))
+    print("\tF/M:", str(fm_ratio) + '%')
+
+
+
+
+# And hell, let's do it year by year and just sloppily paste the code in
+# from above
+print("-----------------------------------------")
+print("Now let's do a year-by-year breakdown")
+for year in range(1968, 2016): # ugh, hardcoding in the min/max year...
+    year_members = []
+    for member in all_members:
+        # because the data came in CSV, the "year" for each member row is still a string
+        # so we need to typecast it to do a comparison
+        if int(member['year']) == year:
+            year_members.append(member)
+    # now that year_members contains all members in a given year
+    # we can repeat the previous rigamrole of getting unique_members
+    # and doing genderdict, etc.
+    # ...mind that you use year_members instead of all_members/decade_members
+    unique_members = {}
+    for d in year_members:
+        unique_members[d['nid']] = d
+
+    genderdict = {'M': [], 'F': [], 'NA': []}
+    for nid, person in unique_members.items():
+        gd = person['gender']
+        genderdict[gd].append(person)
+
+    print(year)
+    print("\tF:", len(genderdict['F']))
+    print("\tM:", len(genderdict['M']))
+    if len(genderdict['F']) > 0:
+        fm_ratio = round(100 * len(genderdict['F'])/len(genderdict['M']))
+    else:
+        fm_ratio = 0
     print("\tF/M:", str(fm_ratio) + '%')
