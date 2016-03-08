@@ -2,22 +2,21 @@ from settings import CLASSIFIED_DATA_FILENAME
 from os.path import join
 from csv import DictReader
 
-
 all_members = list(DictReader(open(CLASSIFIED_DATA_FILENAME)))
-
-
 # people are in the list multiple times
 # so create a dictionary based on nid to get a unique list
 unique_members = {}
 for d in all_members:
     unique_members[d['nid']] = d
 
+# Now, go through each unique member and put them
+# in a gender list
 genderdict = {'M': [], 'F': [], 'NA': []}
 for nid, person in unique_members.items():
     gd = person['gender']
     genderdict[gd].append(person)
 
-print("Since 1968, the estimated gender breakdown for the Pultizer Board membership is:")
+print("Since 1968, the estimated gender breakdown for the Pulitzer Board membership is:")
 print("\tF:", len(genderdict['F']))
 print("\tM:", len(genderdict['M']))
 fm_ratio = round(100 * len(genderdict['F'])/len(genderdict['M']))
