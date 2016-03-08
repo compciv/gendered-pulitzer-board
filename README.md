@@ -99,6 +99,15 @@ This script produces: [tempdata/wrangled_data.csv](tempdata/wrangled_data.csv)
 
 For each row in [tempdata/wrangled_data.csv](tempdata/wrangled_data.csv), I use the `detect_gender()` function in the __gender.py__ script to determine the likely gender of the name. 
 
+The `extract_usable_name()` function uses this incredibly naive algorithm to extract the "usable" first name from a given first name string:
+
+- `namestr` is something like `"William B"`
+- split `namestr` by whitespace
+- select the first element, i.e. `"William`
+
+This means that poor `"C.K."` of Charles McClatchy fame will not be joining our analysis...
+
+
 A new file -- [tempdata/classified_data.csv](tempdata/classified_data.csv) -- is produced. Basically, it's wrangled_data.csv with three new columns:
 
 - gender
